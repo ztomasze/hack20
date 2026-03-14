@@ -2,7 +2,7 @@
 
 As I cherry-pick different ideas from past editions and the wider family of d20 games (see [RATIONALE](RATIONALE.md)), **what exactly is the game experience I'm trying to build?**
 
-_The simplicity of 0e meets the heroic narratives of low-level 5e in a clean classless rulings-over-rules d20 system._
+_The simplicity of 0e meets the gritty heroic narratives of low-level 5e in a clean, modern, classless, rulings-over-rules d20 system._
 
 ## Simple
 

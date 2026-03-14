@@ -1,0 +1,23 @@
+.sidebar-toggle {
+  bottom: auto;
+  top: 0;
+}
+.sidebar-nav {
+  margin-left: 1em;
+}
+
+.markdown-section h1 {
+  font-weight: bold;
+  color: black;
+}
+
+.markdown-section em {
+  color: #2c3e50;
+}
+
+.markdown-section blockquote p {
+  margin-bottom: 0;
+}
+.markdown-section blockquote p + ul {
+  margin-top: 0;
+}
