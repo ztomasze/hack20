@@ -15,7 +15,7 @@
 * ✨ _Magic_
 * 🪄 _Spells_
 
-**GMs**
+**GM**
 
 * 🧑‍⚖️ _GMing_
 * ⚖️ _Rulings_
