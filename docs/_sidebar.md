@@ -2,7 +2,7 @@
 
 **Players**
 
-* 🎲 _Basics_
+* [🎲 Basics](basics.md)
 * 🥸 _Characters_
   * 📊 _Stats_
   * 😶‍🌫️ _Races_
