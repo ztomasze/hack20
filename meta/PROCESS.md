@@ -17,5 +17,12 @@ To support issue linking, each `docs/` commit should touch a single rule at a ti
 > * MAJOR = edition change
 > * MINOR = rule change <!--(only additions or options after 1.0)-->
 > * PATCH = corrections, style changes, etc.
-> 
+>
 > However, this was quickly deemed too much unnecessary machinery for an unpublished solo work. I can revisit that if we ever get to 1.0.
+
+## Play-based development
+
+Use play milestones to determine the minimal rules required for the next play session. Use that session to inform and solidify the current rules before adding more.
+
+* This mean that there may be temporary placeholder rules for a given early play session.
+* Once I'm up and running, I play to target 2:1 rules-to-play time.
