@@ -56,3 +56,4 @@ The game should allow easy reuse of the huge library of existing d20 content.
 * Conversion for existing adventure modules (distances, monsters, spells, treasure, etc). should be simple enough for the GM to do on-the-fly.  Ideally, this would be possible for any OSR, 3e, or 5e adventure.
 * The game may have preferred sources (such as S&W or 2e for monsters, 3.5e for magic items, etc) for which conversion is better supported.
 * Conversion does not need to be exact; within about a 10% error rate of the original source material is acceptable.
+* Again, assuming most players are coming from traditional d20 games, design for "least surprise"
