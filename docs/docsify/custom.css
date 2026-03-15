@@ -15,8 +15,16 @@
   color: #2c3e50;
 }
 
+.markdown-section blockquote {
+  border: 2px solid #669955;
+  border-radius: 1em;
+  padding: 0;
+  margin: 0;
+  color: #333333;
+}
 .markdown-section blockquote p {
-  margin-bottom: 0;
+  margin: 0.75em 1em;
+  font-weight: 300;
 }
 .markdown-section blockquote p + ul {
   margin-top: 0;

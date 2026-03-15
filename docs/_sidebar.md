@@ -19,5 +19,6 @@
 
 * 🧑‍⚖️ _GMing_
 * ⚖️ _Rulings_
+* [🛠️ Table Rules](tablerules.md)
 * 🧌 _Monsters_
 * 🔮 _Magic Items_
