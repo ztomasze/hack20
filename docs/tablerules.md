@@ -6,7 +6,7 @@ These are optional rules that you can use at your table. They tend to add comple
 
 ### Rolling the Dice
 
-#### Reroll Adv or Disadv Doubles
+#### Reroll d20 Doubles
 
 > If you roll the same value on all of the d20 dice when you roll with either advantage or disadvantage, you may choose to pick up one of the dice and roll it again to break the tie. However, if you originally roll all 1s or if you reroll the die into the same value, that's the will of the dice gods manifesting: You must accept the result.
 
