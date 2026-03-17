@@ -32,7 +32,7 @@ A **save** is a roll triggered by another's action or by an ongoing effect. Succ
 
 * The DC of a save is always **Hard** (DC 16).
 * If the save is against certain death (or similar effect, such as petrification or an incurable fatal disease), roll with advantage.
-* A natural 20 always succeeds on a save, so there is always a chance.
+* Because there is a bit of luck to saves, a natural 20 always succeeds and a natural 1 always fails (possibly with greater consequences).
 * You can choose to fail a save.
 
 ### Check
