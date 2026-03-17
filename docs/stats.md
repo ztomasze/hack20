@@ -18,7 +18,10 @@ First, choose a method for generating your starting ability scores:
 
 #### Spend points
 
-Next, assign 5 points to ability scores as you choose. Each point spent increases a score by 1. You cannot increase any ability score above \+3 at this point. (If you got incredibly lucky with the Roll for It method, this may mean you cannot spend all of your points.)
+Next, assign 5 points to ability scores as you choose. Each point spent increases a score by 1.
+
+* You cannot assign more than 3 points to the same ability score.
+* You cannot increase any ability score above \+3 at this point. (If you got incredibly lucky with the Roll for It method, this may mean you cannot spend all of your points.)
 
 ### Strength (STR)
 
