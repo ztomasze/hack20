@@ -6,6 +6,20 @@ The traditional six ability scores (STR, DEX, CON, INT, WIS, CHA) are used.
 
 Each score can range from \-4 to \+8 in normal play. They can range up to +10 in epic-level play.
 
+### Generating Scores
+
+#### Base scores
+
+First, choose a method for generating your starting ability scores:
+
+1) **Even-Steven:** Start with 0 in all scores.  
+2) **A Little Quirk:** Start with \+1 in one score, \-1 in another, and 0 in the rest.  
+3) **Roll for It:** Roll three d6 dice for each score in order: A 6 on a die counts as \+1, a 1 counts as \-1, and all other values count as 0\. This will give you a roll result between \+3 and \-3 for each score. If the total of all six of your base scores is \-4 or less, you may start over. Once all scores are rolled, you may swap scores between abilities as desired.
+
+#### Spend points
+
+Next, assign 5 points to ability scores as you choose. Each point spent increases a score by 1. You cannot increase any ability score above \+3 at this point. (If you got incredibly lucky with the Roll for It method, this may mean you cannot spend all of your points.)
+
 ### Strength (STR)
 
 Your raw physical power.
