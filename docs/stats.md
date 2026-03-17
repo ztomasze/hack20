@@ -4,6 +4,8 @@
 
 The traditional six ability scores (STR, DEX, CON, INT, WIS, CHA) are used.
 
+Each score can range from \-4 to \+8 in normal play. They can range up to +10 in epic-level play.
+
 ### Strength (STR)
 
 Your raw physical power.
