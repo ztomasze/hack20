@@ -66,3 +66,33 @@ Your confidence, personal magnetism, sense of self, and social acumen.
 
 **As a check:** Influencing others  
 **As a save:** Resisting fear and mind control
+
+## Derived Stats
+
+### Hit Points (HP)
+
+Hit points represent your ability to withstand bumps, nicks, scrapes, bruises, and fatigue.
+
+At level 1: 1d8 \+ CON.  Your class will provide a minimum starting HP.
+
+See [Adventuring: Damage](adventuring.md#damage) for more.
+
+### Temporary Hit Points (Temp HP)
+
+Some effects grant you temporary hit points.
+
+* Track these HP separately from your normal hit points. When you take damage, you lose any temporary hit points first.
+* If an effect grants you temporary hit points while you already have some, they do not stack. Instead, you retain the larger value.  
+* You lose any temporary HP with a night’s rest.
+
+### Hit Dice (HD)
+
+Hit dice represent your reserves of determination and your ability to withstand exhaustion.
+
+You have a pool of HD equal to your level. You have a single d8 HD at level 1. You can expend these HD in various ways:
+
+* **Recover HP:** During a short rest, you can expend a HD to roll the die and recover that many HP.  
+* **Activate talent:** Warriors gain feats that can be powered by expending HD.  
+* **Draw mana:** Spellcasters tap into their unexpended HD as mana to fuel their spells.
+
+Unless an effect says otherwise, you can spend more than one HD at a time (rolling them one at a time). Certain effects may allow you to expend HD for other benefits or force you expend HD for no benefit (such as taking exhaustion).

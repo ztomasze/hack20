@@ -10,7 +10,7 @@
   * 🎨 _Details_
   * 🛡️ _Equipment_
   * 📈 _Levels_
-* ⛰️ _Adventuring_
+* [⛰️ Adventuring](adventuring.md)
 * ⚔️ _Combat_
 * ✨ _Magic_
 * 🪄 _Spells_
