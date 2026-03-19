@@ -13,7 +13,7 @@ Against most attacks, you use whichever AC is higher.  However, some attacks can
 
 You can wear armor and/or carry a shield to improve your Armor AC.
 
-* Disregarding any magical bonuses on them, the AC granted by your armor + shield cannot exceed 12 + STR.
+* Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 12 + STR**.
   * For example, if you have STR -2 or less, you cannot wear any armor without penalty. You must have at least STR +4 to wear plate armor, or STR +6 to also carry a metal shield.
   * If you do not meet these requirements, you are encumbered (physically impaired) and can't cast spells.
 * You can wear only one suit of armor or one shield at a time.
