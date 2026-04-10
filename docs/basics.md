@@ -2,7 +2,7 @@
 
 ## Rolling the Dice
 
-Rolls are not needed for simple tasks or logical outcomes, but only when there is some risk, pressure, or question concerning the likely result.
+Rolls are not needed for simple tasks or logical outcomes. Make them only when there is some risk, pressure, or question concerning the likely result.
 
 ### Ability Roll
 
@@ -18,11 +18,11 @@ A d20 roll that applies your ability modifier is either an **attack**, **save**,
 
 #### Modifiers
 
-Occasionally another effect will grant you a numerical bonus or penalty to your ability roll.
+Occasionally an effect will grant you a numerical bonus or penalty to add to your ability roll.
 
 ### Attack
 
-An **attack** is a special ability roll where the DC equals the Armor Class (AC) of your target.
+An **attack** is a special ability roll where the DC equals the [Armor Class](equipment.md#armor-class) (AC) of your target.
 
 See [Combat: Attack](combat.md#attack) for more.
 
@@ -30,8 +30,8 @@ See [Combat: Attack](combat.md#attack) for more.
 
 A **save** is a roll triggered by another's action or by an ongoing effect. Succeeding on a save reduces or negates a negative consequence, such as falling into a pit trap, contracting a disease, or being charmed by a mischievous fairy.
 
-* The DC of a save is always **Hard** (DC 16).
-* If the save is against certain death (or similar effect, such as petrification or an incurable fatal disease), roll with advantage.
+* A save is always DC 16 (Hard).
+* If the save is against certain death (or a similar effect, such as petrification or an incurable fatal disease), roll with advantage.
 * Because there is a bit of luck to saves, a natural 20 always succeeds and a natural 1 always fails (possibly with greater consequences).
 * You can choose to fail a save.
 
@@ -147,9 +147,9 @@ For best results, a gridless map is recommended. This provides a shared frame of
 | Personal | In contact with. Wrestling or hugging range. | 0 | Up to 1' |
 | **Adjacent** (Melee) | Close enough to reach out and touch; a step away. Melee attack range. | 1/4 | Up to 5' |
 | Close | How far you can normally move over difficult terrain; two to four steps away; other things in the same small room as you. Candlelight. | 1/2 | 15'  (10' to 20') |
-| **Near** | How far you can travel with one move over normal ground. Normal range of thrown weapons. Torchlight; candlelight \+ dimsight. | 1 | 30'  (25' to 45') |
+| **Near** | How far you can travel with one move over normal ground. Range of most thrown weapons. Torchlight; candlelight \+ dimsight. | 1 | 30'  (25' to 45') |
 | **Far** | How far you can travel in one turn with two moves over normal ground. Max throwing distance with disadvantage. Torchlight \+ dimsight. | 2 | 60'  (50' to 85') |
-| **Distant** | Beyond reach of movement or thrown weapons this turn, but still in range of fired projectile weapons, such as bows. Typical vision limit underground or indoors, even when lit. | \~4 (\> 2\) | 120' (90' to 150')' |
+| **Distant** | Beyond reach of movement or thrown weapons this turn, but still within range of fired projectile weapons, such as bows. Typical architectural limit of vision underground or indoors, even when illuminated. | \~4 (\> 2\) | 120' (90' to 150')' |
 | Sight | Beyond weapon range but still in sight. | \+ | |
 
 <!--
