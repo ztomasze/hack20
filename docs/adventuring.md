@@ -10,7 +10,7 @@ Monsters & NPCs typically just die at 0 HP.
 
 ### Wounds
 
-Wounds represent significant bodily injury. If you ever accumulate 10+STR wounds, you die. (Your strength is relevant here because your improved muscle mass helps to absorb damage that would otherwise damage bones or vital organs.)
+Wounds represent significant bodily injury. If you ever accumulate 10+STR wounds, you die. (Your strength is relevant here because your improved muscle mass helps to absorb damage that would otherwise injure bones or vital organs.)
 
 You naturally heal 1 wound per long rest.
 
