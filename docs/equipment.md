@@ -14,7 +14,7 @@ Against most attacks, you use whichever AC is higher.  However, some attacks can
 You can wear armor and/or carry a shield to improve your Armor AC.
 
 * Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 12 + STR**.
-  * For example, if you have STR -2 or less, you cannot wear any armor without penalty. You must have at least STR +4 to wear plate armor, or STR +6 to also carry a metal shield.
+  * For example, if you have STR -2 or less, you cannot wear any armor without penalty. You must have at least STR +4 to wear plate mail, or STR +6 to also carry a metal shield.
   * If you do not meet these requirements, you are encumbered (physically impaired) and can't cast spells.
 * You can wear only one suit of armor or one shield at a time.
 * When you record your armor, note the total AC bonus it grants you, such as: _leather armor (12)_, _+1 chainmail (14+1)_, or _wooden shield (+1)_
@@ -38,6 +38,6 @@ You can wear armor and/or carry a shield to improve your Armor AC.
 | Shield | +AC | Cost (gp) | Type | Special rules |
 | :---- | :---- | :---- | :---- | :---- |
 | **Buckler** | \+1 | 5 | Light | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, but not offhand or two-handed melee attacks. |
-| **Wooden** | \+1* | 10 | Medium | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
+| **Wooden** | \+1* | 10 | Medium | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
 | **Metal** | \+2 | 20 | Medium | This metal kite shield is too heavy to use the hand that wields it for anything else. |
 | **Tower** | \+4 | 30 | Heavy | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
