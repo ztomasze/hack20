@@ -2,9 +2,56 @@
 
 ## Ability Scores
 
-The traditional six ability scores (STR, DEX, CON, INT, WIS, CHA) are used.
+The traditional six ability scores of STR, DEX, CON, INT, WIS, and CHA are used.
 
-Each score can range from \-4 to \+8 in normal play. They can range up to +10 in epic-level play.
+Each score can range from \-4 to \+8.
+
+### Strength (STR)
+
+Your raw physical power.
+
+**As a check:** Athletics, forcing doors, lifting and carrying, breaking things  
+**As a save:** Resisting pushes or bursting binding restraints  
+**In combat:** Add to attack rolls with melee and medium thrown weapons; contributes to your armor and wound capacity.  
+**\+1 or higher:** You can use heavy (two-handed) weapons without disadvantage.
+
+### Dexterity (DEX)
+
+Your physical speed, grace, accuracy, and agility.
+
+**As a check:** Acrobatics (balancing, tumbling), stealth, most thievery  
+**As a save:** Reflexes; dodging; wriggling free of restraints  
+**In combat:** Add to ranged attack rolls and attacks with light weapons; checks to act before opponents at the start of combat  
+**\+1 or higher:** You may be able to improve your AC
+
+### Constitution (CON)
+
+Your endurance, durability, and pain tolerance.
+
+**As a check:** Fortitude, physical endurance, concentration  
+**As a save:** Enduring weather; resisting damage, poison, disease, transformations, etc.  
+**In combat:** Increases your hit points; contributes to your carrying and wound capacity
+
+### Intelligence (INT)
+
+Your knowledge, studied learning, and logic.
+
+**As a check:** Research, scholarly lore, methodical investigation, crafting, using tools  
+**As a save:** Discerning illusions
+
+### Wisdom (WIS)
+
+Your affinity for the natural world, folk traditions, intuition, common sense, and alertness to predators and natural hazards.
+
+**As a check:** Wilderness survival, handling animals, herbalism, medicine, sensing danger, reading others  
+**As a save:** Discerning illusions; resisting fear and mind control
+
+### Charisma (CHA)
+
+Your confidence, personal magnetism, sense of self, and social acumen.
+
+**As a check:** Influencing others  
+**As a save:** Resisting fear and mind control
 
 ### Generating Scores
 
@@ -21,54 +68,7 @@ First, choose a method for generating your starting ability scores:
 Next, assign 5 points to ability scores as you choose. Each point spent increases a score by 1.
 
 * You cannot assign more than 3 points to the same ability score.
-* You cannot increase any ability score above \+3 at this point. (If you got incredibly lucky with the Roll for It method, this may mean you cannot spend all of your points.)
-
-### Strength (STR)
-
-Your raw physical power.
-
-**As a check:** Athletics, forcing doors, breaking things  
-**As a save:** Resisting pushes or binding restraints  
-**In combat:** Add to attack rolls with melee and medium thrown weapons; contributes to your carrying, armor, and wound capacity.  
-**\+1 means:** You can use heavy (two-handed) weapons without disadvantage.
-
-### Dexterity (DEX)
-
-Your physical speed, grace, accuracy, and agility.
-
-**As a check:** Acrobatics (balancing, tumbling), stealth, most thievery  
-**As a save:** Reflexes; dodging; wriggling free of restraints.  
-**In combat:** Add to ranged attack rolls and attacks with light weapons; act before opponents at the start of combat  
-**\+1 means:** You can use your DEX to improve your AC
-
-### Constitution (CON)
-
-Your endurance and durability.
-
-**As a check:** Fortitude, physical endurance  
-**As a save:** Enduring weather; resisting damage, poison, disease, transformations, etc.  
-**In combat:** Increases your hit points; contributes to your carrying and wound capacity
-
-### Intelligence (INT)
-
-Your knowledge, studied learning, and logic.
-
-**As a check:** Crafting, using tools, research, scholarly lore, methodical investigation  
-**As a save:** Discerning illusions
-
-### Wisdom (WIS)
-
-Your affinity for the natural world, folk traditions, intuition, common sense, and alertness to predators and natural hazards.
-
-**As a check:** Wilderness survival, handling animals, herbalism, medicine, sensing danger, reading others  
-**As a save:** Discerning illusions; resisting fear and mind control
-
-### Charisma (CHA)
-
-Your confidence, personal magnetism, sense of self, and social acumen.
-
-**As a check:** Influencing others  
-**As a save:** Resisting fear and mind control
+* You cannot increase any ability score above \+3 at this point. (If you got incredibly lucky with the _Roll for It_ method, this may mean you cannot spend all of your points.)
 
 ## Derived Stats
 
