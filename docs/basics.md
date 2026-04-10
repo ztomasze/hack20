@@ -12,9 +12,9 @@ A d20 roll that applies your ability modifier is either an **attack**, **save**,
 
 #### Advantage and Disadvantage
 
-* If you have one or more advantages, roll two dice and take the higher result.
-* With one or more disadvantages, roll two dice and take the lower.
-* Having an advantage cancels out one disadvantage and vice versa.
+* If you have advantage, roll two dice and take the higher result.
+* If you have disadvantage, roll two dice and take the lower result.
+* Having advantage cancels out disadvantage and vice versa.
 
 #### Modifiers
 
