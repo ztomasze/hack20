@@ -23,7 +23,7 @@ The details of this guidance may vary based on the specific situation. For examp
 An unarmored humanoid (and most other creatures) has a base **armor class** (AC) of 10. You can improve this base AC by one of two ways:
 
 * Wearing armor to increase your **Armor AC**
-* Replying on your DEX to increase your **Dodge AC**
+* Relying on your DEX to increase your **Dodge AC**
 
 Against most attacks, you use whichever AC is higher.  However, some attacks can ignore armor and you can't dodge if you are paralyzed.
 
