@@ -18,6 +18,16 @@ As starting guidance for what is reasonable, you can carry:
 
 The details of this guidance may vary based on the specific situation. For example, while most armor is too bulky or heavy to put in your pack, you might be able to carry padded armor or a mithril chain shirt that way.
 
+### Weapon Size
+
+To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 5 (a polearm).  Characters can generally carry a total weapon size value around 8 or 9, but again, the specifics matter.  For example, carrying a polearm in hand with a longsword sheathed on one hip and a dagger on the other (8 total WS) feels reasonable. However, carrying four longswords strapped to you (also 8 total WS) does not.
+
+As further general guidance:
+
+* You can only comfortably manage one item of 4+ weapon size.
+* Reach weapons of size 5 need to be carried in your hand; they are too long to sheathe or strap to you.
+* Brutal weapons of size 5 are shorter, but they must also be carried in hand. They can be stowed across your back to free your hands, but their awkward size and weight causes encumbrance while there.
+
 ## Armor Class
 
 An unarmored humanoid (and most other creatures) has a base **armor class** (AC) of 10. You can improve this base AC by one of two ways:
@@ -61,9 +71,9 @@ You can wear armor and/or carry a shield to improve your Armor AC.
 
 #### Shields
 
-| Shield | +AC | Cost (gp) | Type | Special rules |
-| :---- | :---- | :---- | :---- | :---- |
-| **Buckler** | \+1 | 5 | Light | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, but not offhand or two-handed melee attacks. |
-| **Wooden** | \+1* | 10 | Medium | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
-| **Metal** | \+2 | 20 | Medium | This metal kite shield is too heavy to use the hand that wields it for anything else. |
-| **Tower** | \+4 | 30 | Heavy | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
+| Shield | +AC | Cost (gp) | Type | Size | Special rules |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Buckler** | \+1 | 5 | Light | 1 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, but not offhand or two-handed melee attacks. |
+| **Wooden** | \+1* | 10 | Medium | 2 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
+| **Metal** | \+2 | 20 | Medium | 2 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
+| **Tower** | \+4 | 30 | Heavy | 4 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
