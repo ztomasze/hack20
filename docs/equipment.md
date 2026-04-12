@@ -1,5 +1,23 @@
 # Equipment
 
+## Encumbrance
+
+You can carry a reasonable amount of gear (GM's call). If you carry more than a reasonable amount, you are _encumbered_ (physically impaired).
+
+As starting guidance for what is reasonable, you can carry:
+
+* The clothing and jewelry you are wearing
+* 1 suit of armor
+* 1 shield
+* A reasonable number of weapons (see _Weapon Size_ below)
+* 1 quiver or bandolier
+* 1 backpack
+* 2 belt pouches
+* A coin purse
+* Whatever items could reasonably fit (in both size and weight) into your bags, pouches, etc. or be strapped to your body
+
+The details of this guidance may vary based on the specific situation. For example, while most armor is too bulky or heavy to put in your pack, you might be able to carry padded armor or a mithril chain shirt that way.
+
 ## Armor Class
 
 An unarmored humanoid (and most other creatures) has a base **armor class** (AC) of 10. You can improve this base AC by one of two ways:
