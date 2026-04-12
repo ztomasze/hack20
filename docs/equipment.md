@@ -7,7 +7,14 @@ An unarmored humanoid (and most other creatures) has a base **armor class** (AC)
 * Wearing armor to increase your **Armor AC**
 * Replying on your DEX to increase your **Dodge AC**
 
-Against most attacks, you use whichever AC is higher.  However, some attacks can ignore armor and sometimes you can't dodge.
+Against most attacks, you use whichever AC is higher.  However, some attacks can ignore armor and you can't dodge if you are paralyzed.
+
+### Dodge AC
+
+You have a Dodge AC equal to 10 + DEX, to maximum of 15.
+
+* Some warrior fighting styles will let you add your CON and WIS to this, to a maximum of 16.
+* If you are paralyzed or completely immobilized, you lose your Dodge AC. (You retain it if you are simply unaware of an attack or can still wiggle away from the worst of it, as you may still be able to roll with the blow.)
 
 ### Armor AC
 
@@ -18,6 +25,7 @@ You can wear armor and/or carry a shield to improve your Armor AC.
   * If you do not meet these requirements, you are encumbered (physically impaired) and can't cast spells.
 * You can wear only one suit of armor or one shield at a time.
 * When you record your armor, note the total AC bonus it grants you, such as: _leather armor (12)_, _+1 chainmail (14+1)_, or _wooden shield (+1)_
+* Touch attacks (such as a ghost's incorporeal hand or a rust monster's antenna) can ignore your Armor AC.
 
 #### Armor
 
