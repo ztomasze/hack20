@@ -67,7 +67,7 @@ Disregarding any magical bonuses on them, **the AC granted by your armor + shiel
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Buckler** | \+1 | 5 | Light | 1 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, but not offhand or two-handed melee attacks. |
 | **Wooden** | \+1* | 10 | Medium | 2 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
-| **Metal** | \+2 | 20 | Medium | 2 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
+| **Metal** | \+2 | 20 | Medium | 3 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
 | **Tower** | \+4 | 30 | Heavy | 4 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
 
 ## Weapons
