@@ -30,35 +30,27 @@ As further general guidance:
 
 ## Armor Class
 
-An unarmored humanoid (and most other creatures) has a base **armor class** (AC) of 10. You can improve this base AC by one of two ways:
+Your **armor class** (AC) determines how difficult you are to hit in combat.
 
-* Wearing armor to increase your **Armor AC**
-* Relying on your DEX to increase your **Dodge AC**
+To compute your AC:
 
-Against most attacks, you use whichever AC is higher.  However, some attacks can ignore armor and you can't dodge if you are paralyzed.
+* Start with your armor's AC (or 10 if you are unarmored)
+* Add your DEX score
+  * A positive DEX score cannot raise your AC above 15.
+  * Some warrior fighting styles will let you add your CON and WIS to this, to a maximum of 16.
+  * If your DEX score is negative, it reduces your AC only by the amount that it exceeds your (armor AC - 10). For example, if you are wearing leather armor (AC 12) with -3 DEX, you apply a -1 penalty to your AC, for a total of 11 AC.  If you instead wore ring mail or heavier armor (AC 13 or higher), your AC would not be reduced by DEX.
+* Add your shield AC (if any)
 
-### Dodge AC
+Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 12 + STR**.
 
-You have a Dodge AC equal to 10 + DEX, to maximum of 15.
+* For example, if you have -2 STR or less, you cannot wear any armor without penalty. You must have at least +4 STR to wear plate mail, or +6 STR to also carry a metal shield.
+* If you do not meet these requirements, you are encumbered (physically impaired) and can't cast spells.
 
-* Some warrior fighting styles will let you add your CON and WIS to this, to a maximum of 16.
-* If you are paralyzed or completely immobilized, you lose your Dodge AC. (You retain it if you are simply unaware of an attack or can still wiggle away from the worst of it, as you may still be able to roll with the blow.)
+### Armor
 
-### Armor AC
-
-You can wear armor and/or carry a shield to improve your Armor AC.
-
-* Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 12 + STR**.
-  * For example, if you have STR -2 or less, you cannot wear any armor without penalty. You must have at least STR +4 to wear plate mail, or STR +6 to also carry a metal shield.
-  * If you do not meet these requirements, you are encumbered (physically impaired) and can't cast spells.
-* You can wear only one suit of armor or one shield at a time.
-* When you record your armor, note the total AC bonus it grants you, such as: _leather armor (12)_, _+1 chainmail (14+1)_, or _wooden shield (+1)_
-* Touch attacks (such as a ghost's incorporeal hand or a rust monster's antenna) can ignore your Armor AC.
-
-#### Armor
-
-| Armor | Base AC | Cost (gp) | Type | Equivalents |
+| Armor | AC | Cost (gp) | Type | Equivalents |
 | :---- | :---- | :---- | :---- | :---- |
+| **(unarmored)** | 10 | - | - | |
 | **Padded** | 11 | 5 | Light | _gambeson_, _quilted_ |
 | **Leather** | 12 | 10 | Light | _jack of plate_ |
 | **Ring mail** | 13 | 30 | Medium | studded leather, hide, chain shirt, brigandine |
@@ -69,7 +61,7 @@ You can wear armor and/or carry a shield to improve your Armor AC.
 * Any suit of armor optionally includes a helmet, gloves, and boots of similar material.
 * Your armor may impose penalties on certain activities. For example, medium or heavier armor may impose disadvantage on stealth and swimming.  You cannot swim at all in heavy armor.
 
-#### Shields
+### Shields
 
 | Shield | +AC | Cost (gp) | Type | Size | Special rules |
 | :---- | :---- | :---- | :---- | :---- | :---- |
