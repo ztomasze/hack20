@@ -30,7 +30,7 @@ See [Combat: Attack](combat.md#attack) for more.
 
 A **save** is a roll triggered by another's action or by an ongoing effect. Succeeding on a save reduces or negates a negative consequence, such as falling into a pit trap, contracting a disease, or being charmed by a mischievous fairy.
 
-* A save is always DC 16 (Hard).
+* A save is always DC 15 (Hard).
 * If the save is against certain death (or a similar effect, such as petrification or an incurable fatal disease), roll with advantage.
 * Because there is a bit of luck to saves, a natural 20 always succeeds and a natural 1 always fails (possibly with greater consequences).
 * You can choose to fail a save.
@@ -45,14 +45,16 @@ A **check** is an ability roll used to resolve any significant task that is not 
 
 #### Common DCs
 
-Most impromptu tasks are of either Normal or Hard difficulty, although a couple other options exist.
+Most impromptu tasks are of either Normal or Hard difficulty, although a few other options exist.
 
 | DC | Name | Notes |
 | :---- | :---- | :---- |
-| **21** | Very Hard | Impossible without an ability bonus |
-| **16** | **Hard** | 25% chance of success when rolling at \+0 |
-| **11** | **Normal** | 50% chance of success when rolling at \+0 <br>**If no DC is given for a roll, assume it is 11** |
-| **6** | Easy | 25% chance of failure when rolling at \+0 |
+| **25** | Extraordinarily Hard | Impossible without an extraordinary (+5 or higher) ability score |
+| **21** | Really Hard | "Truly" hard - impossible without a positive ability score |
+| **20** | Very Hard | A remote-but-possible (5%) chance of success when rolling at \+0 |
+| **15** | **Hard** | 30% chance of success when rolling at \+0 |
+| **10** | **Normal** | 55% chance of success when rolling at \+0 <br>**If no DC is given for a roll, assume it is 10** |
+| **5** | Easy | 80% chance of success when rolling at \+0 |
 
 Circumstantial modifiers might adjust the typical DC for a common task, such as how cover improves a target's AC.
 
@@ -60,8 +62,8 @@ Circumstantial modifiers might adjust the typical DC for a common task, such as 
 
 Sometimes an outcome is more a matter of pure chance than any skill.  In this case, a GM might call for an unmodified roll of a d6, d20, or d100 to determine the outcome.
 
-* The default luck roll is an unmodified d20 vs DC 11.
-  * A luck save is versus DC 16.
+* The default luck roll is an unmodified d20 vs DC 11 (50/50 chance).
+  * A luck save is versus DC 15 (like other saves).
 * _X-in-6_ means roll a d6 and the result happens on a result of X or lower.  
 * _X%_ means roll a d100 and the result happens on a result of X or lower.  
 * Luck rolls are unaffected by any conditions that currently impose advantage or disadvantage.
