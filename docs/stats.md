@@ -99,3 +99,7 @@ You have a pool of HD equal to your level. You have a single d8 HD at level 1. Y
 * **Draw mana:** Spellcasters tap into their unexpended HD as mana to fuel their spells.
 
 Unless an effect says otherwise, you can spend more than one HD at a time (rolling them one at a time). Certain effects may allow you to expend HD for other benefits or force you expend HD for no benefit (such as taking exhaustion).
+
+### Armor Class (AC)
+
+As described under [Equipment: Armor Class](equipment.md#armor-class).
