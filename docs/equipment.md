@@ -78,7 +78,7 @@ Weapons are categorized primarily by their **type**:
 
 Weapons are then differentiated by **modifiers**, which are specific to either melee or ranged weapons.
 
-* A modifier can increase (+d) or decrease (-d) the weapon's damage die. There are 6 possible weapon damage die values between d2 and d12.
+* A modifier can increase (+d) or decrease (-d) the weapon's damage die. The damage die progression is: 1, d2, d3, d4, d6, d8, d10, d12.
 * A modifier can adjust the weapon's size.
 
 Some of the most common fantasy medieval weapons are provides as samples of applying these rules. A few of them have special rules. Players can propose additional historical weapons that are not on the table.
@@ -102,27 +102,27 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 
 | Weapon | Damage | Size | Modifiers | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
-| **Battleaxe** | 1d8/1d10 | 3 | Versatile | bastard sword |
-| **Club** | 1d6 | 2 | Simple | cudgel, sap (nonlethal) |
+| **Battleaxe** | 1d8/1d10 | 3 | Versatile | (bastard sword) |
+| **Club** | 1d6 | 2 | Simple | cudgel |
 | **Dagger** | 1d4 | 1 | Finesse, Throwable | knife |
 | **Hand Axe** | 1d6 | 1 | Throwable | hatchet, throwing axe |
 | **Hammer** | 1d4 | 1 | Simple, Throwable | throwing hammer, light hammer |
-| **Javelin** | 1d4/1d6 | 3 | Finesse, Throwable, Versatile | half-spear, light spear |
+| **Javelin** | 1d4/1d6 | 3 | Finesse, Throwable, Versatile | shortspear |
 | **Lance** | 1d10 | 5 | Special(one-handed when mounted), Reach, Two-Handed | |
-| **Long sword** | 1d8 | 2 | | |
-| **Mace** | 1d8 | 2 | | military flail, morningstar |
-| **Polearm** | 1d10 | 5 | Reach, Two-Handed | |
-| **Short sword** | 1d6 | 2 | Finesse | dirk, rapier |
-| **Spear** | 1d6/1d8 | 4 | Throwable, Versatile, Special(+1 size) | |
-| **Staff** | 1d4/1d6 | 4 | Finesse, Simple, Versatile, Special(+1 size) | bo (staff) |
-| **Two-handed sword** | 1d10 | 4 | Two-Handed | greatsword |
+| **Long sword** | 1d8 | 2 | | broadsword, falchion, knightly arming sword, sabre, scimitar |
+| **Mace** | 1d8 | 2 | | military flail, morningstar, war pick |
+| **Polearm** | 1d10 | 5 | Reach, Two-Handed | glaive, longspear, halberd, pike, poleaxe, ranseur, etc |
+| **Short sword** | 1d6 | 2 | Finesse | cutlas, dirk, kukri, rapier, sai, seax |
+| **Spear** | 1d6/1d8 | 4 | Throwable, Versatile, Special(+1 size) | trident |
+| **Staff** | 1d4/1d6 | 4 | Finesse, Simple, Versatile, Special(+1 size) | bo stick |
+| **Two-handed sword** | 1d10 | 4 | Two-Handed | (bardiche), claymore |
 | **Warhammer** | 1d8/1d10 | 3 | Versatile | horseman's pick |
 
 ### Uncommon Melee Weapons
 
 | Weapon | Damage | Size | Modifiers | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
-| **Greataxe** | 1d10/1d12\* | 4 | Massive, Two-Handed | greatsword, maul |
+| **Greataxe** | 1d10/1d12\* | 4 | Massive, Two-Handed | (greatsword), (maul) |
 | **Greatclub** | d8 | 4 | Simple, Two-Handed | |
 | **Quarterstaff** | 1d8 | 5 | Reach, Simple, Two-Handed | "10-foot" pole |
 | **Shillelagh** | 1d6/1d8 | 3 | Simple, Versatile | walking stick |
@@ -139,11 +139,10 @@ Reloading fire a projectile up to a Distant distance. You must have a quiver of 
 | Modifier | Adjustments | Description |
 | :---- | :---- | :---- |
 | **Massive** | d/+d* damage<br>+1 size | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must be a two-handed reloading weapon. If you have a positive STR score, attacks with this weapon deal +d damage. |
-| **Multishot(_#_)** | | _This weapon holds more than one piece of ammo at a time._ <br><br> You can reload this weapon multiple times, filling it with up to _#_ pieces of ammunition. You may be able to preload a clip that lets you fully reload the weapon at once. |
 | **One-Handed** | -d damage<br>-1 size | _Light enough to hold and fire with one hand._ <br><br> While you can fire this weapon with one hand, it still requires two hands to load it. |
 | **Reload(free)** | d6 damage | _Load this weapon with ammunition as you fire it._ <br><br> You can draw one piece of ammunition from your quiver as a free action as part of an attack with this weapon. |
 | **Reload(move)** | d8 damage | _Quickly load this weapon with ammunition before you fire it._ <br><br> As a move, you can load this weapon with a piece of ammunition. |
-| **Reload(action)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a action, you can load this weapon with a piece of ammunition. This modifier typically grants an additional benefit, such as Multishot. |
+| **Reload(action)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a action, you can load this weapon with a piece of ammunition. This modifier typically grants an additional benefit or free modifier. |
 | **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired even in a village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
 | **Thrown** | d4 damage<br>0.5 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within Near distance or at disadvantage up to Far distance. You can carry 2 of these per 1 size. |
