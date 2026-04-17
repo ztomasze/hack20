@@ -28,7 +28,7 @@ See [Combat: Attack](combat.md#attack) for more.
 
 ### Save
 
-A **save** is a roll triggered by another's action or by an ongoing effect. Succeeding on a save reduces or negates a negative consequence, such as falling into a pit trap, contracting a disease, or being charmed by a mischievous fairy.
+A **save** is an ability roll triggered by another's action or by an ongoing effect. Succeeding on a save reduces or negates a negative consequence, such as falling into a pit trap, contracting a disease, or being charmed by a mischievous fairy.
 
 * A save is always DC 15 (Hard).
 * If the save is against certain death (or a similar effect, such as petrification or an incurable fatal disease), roll with advantage.
