@@ -179,3 +179,10 @@ Examples:
 | stone | d2 | Improvised, Ranged, Thrown (DEX) |
 
 If the item is particularly unwieldy, you might also suffer disadvantage on attacks with it (such as swinging a dead armored goblin by the ankles).
+
+### Nonlethal Attacks
+
+You can make a nonlethal attack with weapons that don't draw blood, such as club or the flat of your blade.
+You treat them as improvised weapons (-2d) when you attack this way.  Alternatively, you attack non-lethally with a sheathed, padded, or leather-wrapped weapon, such as a sap or leather-bound sling stones, at only -d.
+
+If a creature is reduced to 0 HP by a nonlethal attack, they fall unconscious but do not take any wounds or die from that attack.
