@@ -186,3 +186,14 @@ You can make a nonlethal attack with weapons that don't draw blood, such as club
 You treat them as improvised weapons (-2d) when you attack this way.  Alternatively, you attack non-lethally with a sheathed, padded, or leather-wrapped weapon, such as a sap or leather-bound sling stones, at only -d.
 
 If a creature is reduced to 0 HP by a nonlethal attack, they fall unconscious but do not take any wounds or die from that attack.
+
+### Unarmed attacks
+
+When you have no weapon in hand, you can still attack unarmed.
+
+| Unarmed attacks | Damage | Modifiers |
+| :---- | :---- | :---- |
+| punch, kick, choking | d2 | Melee, Special(nonlethal) |
+| metal gauntlet | d2 | Melee |
+| spiked gauntlet | d3 | Melee |
+| medium shield bash | d3 | Melee |
