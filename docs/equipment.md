@@ -163,5 +163,19 @@ Reloading fire a projectile up to a Distant distance. You must have a quiver of 
 | Weapon | Damage | Size | Modifiers | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
 | **Hand crossbow** | d6 | 2 | One-Handed, Reload(move) | |
-| **Rock** | d2 | - | Simple, Special(you can carry a "quiver" full of these), Thrown | stone |
 | **Staff Sling** | d6 | 4 | Reload(move), Simple, Special(also counts as a staff) | hoopak |
+
+## Improvised Weapons
+
+Sometimes you must attack with what is on hand or use a weapon in a way that it is not designed to be used. Such a "weapon" gains the **Improvised** modifier: -2d.
+
+Examples:
+
+| Makeshift Weapons | Damage | Modifiers |
+| :---- | :---- | :---- |
+| sharp bone, frying pan, broken sword, rolling ping, table leg | d4 | Improvised, Melee |
+| chair, barstool | d6 | Improvised, Melee, Two-Handed |
+| rock, throwing a longsword | d3 | Improvised, Melee, Throwable (STR) |
+| stone | d2 | Improvised, Ranged, Thrown (DEX) |
+
+If the item is particularly unwieldy, you might also suffer disadvantage on attacks with it (such as swinging a dead armored goblin by the ankles).
