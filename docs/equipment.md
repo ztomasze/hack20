@@ -131,7 +131,7 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 
 The default ranged weapon is either:
 
-* a one-handed Thrown weapon of size 1
+* a Thrown weapon of size 1
 * a two-handed Reload weapon of size 3.
 
 Reloading fire a projectile up to a Distant distance. You must have a quiver of appropriate ammunition on hand (or an equivalent container, such as a powder horn and bag of shot or a pouch of sling stones).
@@ -139,7 +139,7 @@ Reloading fire a projectile up to a Distant distance. You must have a quiver of 
 | Modifier | Adjustments | Description |
 | :---- | :---- | :---- |
 | **Massive** | d/+d* damage<br>+1 size | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must be a two-handed reloading weapon. If you have a positive STR score, attacks with this weapon deal +d damage. |
-| **One-Handed** | -d damage<br>-1 size | _Light enough to hold and fire with one hand._ <br><br> While you can fire this weapon with one hand, it still requires two hands to load it. |
+| **One-Handed** | -d damage<br>-1 size | _Light enough to hold and fire with one hand._ <br><br> While you can fire this reloading weapon with one hand, it still requires two hands to load it. |
 | **Reload(free)** | d6 damage | _Load this weapon with ammunition as you fire it._ <br><br> You can draw one piece of ammunition from your quiver as a free action as part of an attack with this weapon. |
 | **Reload(move)** | d8 damage | _Quickly load this weapon with ammunition before you fire it._ <br><br> As a move, you can load this weapon with a piece of ammunition. |
 | **Reload(action)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a action, you can load this weapon with a piece of ammunition. This modifier typically grants an additional benefit or free modifier. |
