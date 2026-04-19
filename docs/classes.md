@@ -21,7 +21,7 @@ At level 1:
 The style of fighters and barbarians.
 
 * Add half your STR (rounded down) to damage rolls with melee and throwable [weapons](equipment.md#weapons)
-* Add your CON to DEX when determining your [Armor Class](equipment.md#armor-class), to a max of 16
+* When you expend a HD to recover HP as part of a short rest, you recover a minimum of CON HP.
 * Minimum starting HP: +1
 
 #### Intuitive
@@ -29,7 +29,7 @@ The style of fighters and barbarians.
 The style of rangers and monks.
 
 * Add half your WIS (rounded down) to damage rolls with finesse weapons and ranged [weapons](equipment.md#weapons)
-* Add your WIS to DEX when determining your [Armor Class](equipment.md#armor-class), to a max of 16
+* When you are wearing no armor or shield, add your WIS to DEX when determining your [Armor Class](equipment.md#armor-class), to a max of 15 + level/2 (round down).
 * Minimum starting HP: +0
 
 #### Cunning

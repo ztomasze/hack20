@@ -34,11 +34,11 @@ Your **armor class** (AC) determines how difficult you are to hit in combat.
 To compute your AC:
 
 * Start with your armor's AC (or 10 if you are unarmored)
+* Add your shield AC (if any)
 * Add your DEX score
   * A positive DEX score cannot raise your AC above 15.
   * Some warrior fighting styles will let you add your CON and WIS to this, to a maximum of 16.
-  * If your DEX score is negative, it reduces your AC only by the amount that it exceeds your (armor AC - 10). For example, if you are wearing leather armor (AC 12) with -3 DEX, you apply a -1 penalty to your AC, for a total of 11 AC.  If you instead wore ring mail or heavier armor (AC 13 or higher), your AC would not be reduced by DEX.
-* Add your shield AC (if any)
+  * If your DEX score is negative, it reduces your AC only by the amount that it exceeds your (armor's AC - 10). For example, if you are wearing leather armor (AC 12) with -3 DEX, you apply a -1 penalty to your AC, for a total of 11 AC.  If you instead wore ring mail or heavier armor (AC 13 or higher), your AC would not be reduced by DEX.
 
 Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 12 + STR**.
 
