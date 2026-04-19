@@ -70,7 +70,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Skilled** | Gain two [skills](skills.md) of your choice. | **Level 1** |
 | **Spellcasting** | As per a level 1 Spellcaster, you gain a magical tradition and style, but no knack. Your effective level for any spellcasting purpose is 1\. | **Level 1** |
 
-<!-- PENDING Talents
+<!-- POTENTIAL Talents
 
 | **Extra Attack** | When you make a weapon attack, you can expend a HD to attack again. You can only do this only once per round on your turn. | |
 | **Extraordinary Ability** | Choose three cantrips or tier 1 spells. One of these spells can be of tier 2 with some kind of limitation. The spell effects should have trappings subtle enough to have a supernatural explanation (subject to GM approval), and all of them may require some other limitation to activate. You always produce a tiered spell effect by rolling a single HD; if you fail to draw sufficient mana with that HD, it is expended. Your magic ability score can be any ability score appropriate to the effect.  See _Archetypes_ for examples. | **Level 1** |
@@ -80,5 +80,12 @@ The style of swashbucklers, assassins, and rogues.
 Maybe: +Get a random magic item of a category you choose. Each level up, you can acquire a replacement random item, but your previous item then becomes unusable.
 
 Evasion: half damage from area effects provided you are not paralyzed or restrained.  pre: Level 5+, Lighting Reflexes
+
+-->
+
+<!--
+## Archetypes
+
+The following **archetypes** illustrate how to use the class and feat system to replicate more specific classes from other games or common tropes from other media. These also serve as quickstart way to jump into the game with a specific character type.
 
 -->
