@@ -9,7 +9,7 @@ A warrior relies primarily on their martial training, skills, and talents to suc
 At level 1:
 
 1. Choose a **fighting style**.
-1. Choose one starting **talent**. 
+1. Choose one starting **talent**.
     * It is recommended you choose a "Level 1" talent, as these cannot be gained later.
 1. Minimum starting HP: 6+CON
     * Your fighting style choice may then modify this.
