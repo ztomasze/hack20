@@ -37,21 +37,21 @@ Your endurance, durability, and pain tolerance.
 Your knowledge, studied learning, and logic.
 
 **As a check:** Research, scholarly lore, methodical investigation, crafting, using tools  
-**As a save:** Discerning illusions
+**As a save:** Almost never used
 
 ### Wisdom (WIS)
 
 Your affinity for the natural world, folk traditions, intuition, common sense, and alertness to predators and natural hazards.
 
 **As a check:** Wilderness survival, handling animals, herbalism, medicine, sensing danger, reading others  
-**As a save:** Discerning illusions; resisting fear and mind control
+**As a save:** Resisting fear, charm, compulsions, and other mental effects
 
 ### Charisma (CHA)
 
 Your confidence, personal magnetism, sense of self, and social acumen.
 
 **As a check:** Influencing others  
-**As a save:** Resisting fear and mind control
+**As a save:** Resisting fear, charm, compulsions, and other mental effects
 
 ### Generating Scores
 

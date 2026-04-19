@@ -31,8 +31,9 @@ See [Combat: Attack](combat.md#attack) for more.
 A **save** is an ability roll triggered by another's action or by an ongoing effect. Succeeding on a save reduces or negates a negative consequence, such as falling into a pit trap, contracting a disease, or being charmed by a mischievous fairy.
 
 * A save is always DC 15 (Hard).
-* If the save is against certain death (or a similar effect, such as petrification or an incurable fatal disease), roll with advantage.
 * Because there is a bit of luck to saves, a natural 20 always succeeds and a natural 1 always fails (possibly with greater consequences).
+* If the save is against certain death (or a similar effect, such as petrification or an incurable fatal disease), roll with advantage.
+* Mental saves can typically be made using your choice of WIS or CHA.
 * You can choose to fail a save.
 
 ### Check
