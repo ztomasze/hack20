@@ -29,7 +29,7 @@ The style of fighters and barbarians.
 The style of rangers and monks.
 
 * Add half your WIS (rounded down) to damage rolls with finesse weapons and ranged [weapons](equipment.md#weapons)
-* When you are wearing no armor or shield, add your WIS to DEX when determining your [Armor Class](equipment.md#armor-class), to a max of 15 + level/2 (round down).
+* Add your WIS to DEX when applying your DEX to [Armor Class](equipment.md#armor-class).
 * Minimum starting HP: +0
 
 #### Cunning
@@ -60,6 +60,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Boosted Checks** | Expend a HD to add it to a check roll. | |
 | **Boosted Damage** | Expend a HD to add it to damage you deal with a weapon attack. | |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
+| **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
 | **Great Fortitude** | Expend a HD to add it to a STR or CON save. | |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1, and update your POWER and spells known accordingly. You can take this talent a maximum of three times, only at (or after) the levels listed. | Spellcasting; Level 3+, 5+, 7+. |
 | **Iron Will** | Expend a HD to add it to a WIS or CHA save. | |
