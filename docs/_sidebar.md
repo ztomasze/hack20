@@ -12,7 +12,7 @@
   * 📈 _Levels_
 * [⛰️ Adventuring](adventuring.md)
 * [⚔️ Combat](combat.md)
-* ✨ _Magic_
+* [✨ Magic](magic.md)
 * 🪄 _Spells_
 
 **GM**
