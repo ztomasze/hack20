@@ -11,7 +11,7 @@
   * [🛡️ Equipment](equipment.md)
   * 📈 _Levels_
 * [⛰️ Adventuring](adventuring.md)
-* ⚔️ _Combat_
+* [⚔️ Combat](combat.md)
 * ✨ _Magic_
 * 🪄 _Spells_
 
