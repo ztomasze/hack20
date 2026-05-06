@@ -81,3 +81,59 @@ Each spellcaster, regardless of their tradition, has a method that they use to d
 | The Word | INT | Prepared spell slots | Can add discovered spells to spellbook | -1 |
 | The Way | WIS | Spell points prepared from HD | Can commune to swap 1 spell known per day | +0 |
 | The Will | CHA | Raw mana drawn directly from HD | Can swap 1 spell known per level up | +1 |
+
+#### The Word (INT)
+
+The Word relies on inscribed magic. These inscriptions are derived through ritual, logic, theory, study, lore, and experimentation. While some scholars claim you must have an initial spark to perform any kind of magic, the Word is primarily a learned form of magic. It is the magic found in wizardly colleges, in monastery libraries, and upon the walls of ancient ruins.
+
+**MAGIC:** INT
+
+**Spells known:** The spells you know are prepared from a **spellbook** that you have authored. A spellbook can take many forms: a book, a bundle of notes or scrolls, engraved prayer beads, tattoos, etc.  Your spellbook can only contain spells of a tier that you have sufficient POWER to cast.
+
+Your spellbook contains a number of **original spells** equal to MAGIC+POWER. These are the spells you first learned (and thus know best) plus the spells that you developed through your own research or study. As your MAGIC or POWER increases, you can freely add these new original spells to your spellbook to represent the culmination of your ongoing work. (Mark on your character sheet which of your spells known are original spells.)
+
+You can also add **discovered spells** to your spellbook. These spells typically come from scrolls, spellbooks, or other written versions of a spell, though you might also be taught the spell by another spellcaster who practices the Word of your tradition. To add a discovered spell, you must first decipher the spell (as per scrolls). (This is automatic if the spell's author is present and assisting you.) You can then spend 1 day to practice the spell and scribe it into your own spellbook using your personal notation.
+
+If you should ever lose your spellbook, you can spend 1 day of downtime to reconstruct one, provided you have the necessary materials on hand, such as a blank book, pen, and ink. This reconstructed spellbook contains only your original spells; any discovered spells are lost.  For this reason, most practitioners of the Word keep a backup spellbook in a safe place. It takes 1 hour per spell tier for you to copy a discovered spell from one of your own spellbooks into another.
+
+**Spell slots:** Through their study of arcane sigils, mystical glyphs, and ancient mandalas, practitioners of the Word are able to gather and hold magical energies in symbolic constructs within their minds. This memory palace of spell storage is represented as spell slots. You gain additional spell slots as you level up:
+
+| Level | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+| :-- | :-- | :-- | :-- | :-- |
+| **1** | 2 | | | |
+| **2** | 4 | | | |
+| **3** | 4 | 2 | | |
+| **4** | 4 | 3 | | |
+| **5** | 4 | 3 | 2 | |
+| **6** | 4 | 3 | 3 | |
+| **7** | 4 | 3 | 3 | 1 |
+| **8** | 4 | 3 | 3 | 2 |
+
+**Preparing spells:** You can only prepare the fragile mental constructs of spell energies when you mind is fresh. At end of a long rest, you can empty any occupied spells slots. You can then fill any empty slots with spells from your spellbook.
+
+* You need to be able to read your spellbook with uninterrupted focus over several minutes to do this.
+* Each slot represents a separate future casting of a spell.  Therefore, if you expect you may want to cast a given spell more than once, you need to prepare more than one copy (slot) of it.
+* You may prepare spells of a lower tier in a slot of a higher tier. For example, you can use a Tier 3 slot to prepare a Tier 2 spell. You might need to do this if have you a low MAGIC score, such that you do not have sufficient POWER to cast spells of your higher tiered slots.
+* To indicate your prepared spells on your character sheet, you can draw a small box next to a spell known for each copy of that spell that you have prepared. (You'll then check these boxes off when you cast that prepared spell.)
+
+**Casting a spell:** You can cast any spell that you have prepared in a spell slot.  When you do so, that slot is then emptied. (Check it off on your character sheet.) You cannot prepare another spell in that slot until you have completed a long rest.
+
+**Adhoc casting:** Instead of casting a prepared spell, a practitioner of the Word can scavenge the mental energy stored stored in a spell slot to cast a different spell from their spellbook.  This process is mentally and physically taxing, however.  To do so:
+
+* You must have your spellbook in hand and be able to read it. (Given that you usually must also have a free hand to cast a spell, this is typically a two-handed operation.)
+* Casting a spell this way always requires at least a standard action, even if the spell you are casting could normally be cast faster.
+* Expend 1 HD and one prepared spell slot.
+* You can then cast a spell from your spellbook that is of the same tier as the prepared spell that you expended.
+
+**Features of the Word:** You should use the Word if:
+
+* You want to have a reliable way to cast magic without expending HD
+* You want to have the greatest range of possible spells in a day: You can cast anything in your spellbook!
+* You want to adventure to seek knowledge and lost lore.
+
+**Example practitioners of the Word:**
+
+* A frazzled bearded wizard, carrying a heavy tome of parchment pages, seeks the 99 lost of spells of Pandalume
+* A druid, bearing a leather tube filled with bark scrolls covered in ogham script, searches for ancient standing stones and engraved dolmens to recover the wisdom of the first druid masters
+* A priest, clutching his prayer book, descends into the gloom of a defiled tomb
+* A grimscribe, bearing the spells of her dark magic inked in black on her own skin, pulls her sleeves down over her arms before stepping from the dark alley
