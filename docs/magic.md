@@ -84,7 +84,7 @@ Each spellcaster, regardless of their tradition, has a method that they use to d
 
 #### The Word (INT)
 
-The Word relies on inscribed magic. These inscriptions are derived through ritual, logic, theory, study, lore, and experimentation. While some scholars claim you must have an initial spark to perform any kind of magic, the Word is primarily a learned form of magic. It is the magic found in wizardly colleges, in monastery libraries, and upon the walls of ancient ruins.
+The Word relies on **inscribed** magic. These inscriptions are derived through ritual, logic, theory, study, lore, and experimentation. While some scholars claim you must have an initial spark to perform any kind of magic, the Word is primarily a learned form of magic. It is the magic found in wizardly colleges, in monastery libraries, and upon the walls of ancient ruins.
 
 **MAGIC:** INT
 
@@ -109,7 +109,7 @@ If you should ever lose your spellbook, you can spend 1 day of downtime to recon
 | **7** | 4 | 3 | 3 | 1 |
 | **8** | 4 | 3 | 3 | 2 |
 
-**Preparing spells:** You can only prepare the fragile mental constructs of spell energies when you mind is fresh. At end of a long rest, you can empty any occupied spells slots. You can then fill any empty slots with spells from your spellbook.
+**Preparing spell slots:** You can only prepare the fragile mental constructs of spell energies when you mind is fresh. At end of a long rest, you can empty any occupied spells slots. You can then fill any empty slots with spells from your spellbook.
 
 * You need to be able to read your spellbook with uninterrupted focus over several minutes to do this.
 * Each slot represents a separate future casting of a spell.  Therefore, if you expect you may want to cast a given spell more than once, you need to prepare more than one copy (slot) of it.
