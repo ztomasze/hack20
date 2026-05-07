@@ -137,3 +137,59 @@ If you should ever lose your spellbook, you can spend 1 day of downtime to recon
 * A druid, bearing a leather tube filled with bark scrolls covered in ogham script, searches for ancient standing stones and engraved dolmens to recover the wisdom of the first druid masters
 * A priest, clutching his prayer book, descends into the gloom of a defiled tomb
 * A grimscribe, bearing the spells of her dark magic inked in black on her own skin, pulls her sleeves down over her arms before stepping from the dark alley
+
+#### The Way (WIS)
+
+The Way relies on magic **inspired** directly from its source. Practitioners of the Way meditate upon, pray to, or otherwise commune with the wellspring of their magic.  In return, they gain mystical or arcane insights that allow them to reshape reality. While this communion is often physically exhausting, it leaves the practitioner internally thrumming with magical energy, which typically causes them to feel bouyed, ecstatic, or intensely focused. The Way can be taught to some degree, but such learning relies more on long hours of meditative practice or on mental exercises intended to help the neophyte reach beyond logic or reason to connect with a greater truth or power that lies beyond.
+
+**MAGIC:** WIS
+
+**Spells known:** You begin play knowing MAGIC+POWER tier 1 spells.
+
+At the end of a long rest, you can commune with your magical source:
+
+* This requires several minutes of uninterrupted focus.
+* Depending your tradition, a particular ritual, holy symbol, or material focus might be commonly used to shorten the time required to reach the necessary mental state.
+* You can then swap one spell known for another spell from your tradition that is of a tier you can cast.
+
+**Spell points (SP):** You cast your spells using spell points, as described below.
+
+**Preparing spells & spell points:** At the end of any rest (short or long), you can commune with your magical source to gather magical energy.
+
+* This process is the same as described above for swapping spells known and can be combined with that effort.
+* As part of the communion, you can expend HD to gain spell points.  
+  * You gain 4 SP for each HD expended, or 9 SP for each 2 HD expended.  
+  * At level 5 and above, you gain +1 SP per HD expended.
+
+The following table shows the maximum SP you can gain at each level if you choose to expend all your available HD at the start of the day:
+
+| All HD @ Level | Spell Points |
+| :-- | :-- |
+| **1** | 4 |
+| **2** | 9 |
+| **3** | 13 |
+| **4** | 18 |
+| **5** | 27 |
+| **6** | 33 |
+| **7** | 38 |
+| **8** | 44 |
+
+**Casting a spell:** To you cast a spell you know, you must first pay its spell point cost as part of casting it:
+
+| Tier | SP Cost |
+| :-- | :-- |
+| **1** | 2 |
+| **2** | 3 |
+| **3** | 5 |
+| **4** | 6 |
+
+**Features of the Way:** You should use the Way if:
+
+* You want a flexible way to reliably cast any spell that you know.
+* You want to have the greatest range of spells readily available to you over the course of play: A good night's sleep is all that stands between you and any spell available from your tradition!
+
+**Example practitioners of the Way:**
+
+* A young druid reaches out, becoming one with the Green; then he moves together with the grasses around him to strangle and bind the invaders of this ancient forest
+* A theurge contemplates the Weave that binds all of reality together; by plucking a thread here and tugging another there, she causes fire to blossom in her hand
+* An votary quietly sings hymns of praise to his goddess; he prays that he might understand her will so that she might fortify him to do her bidding in this world
