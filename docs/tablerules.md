@@ -17,3 +17,13 @@ This is just a fun little rule because it always feels like you should get somet
 > If you have advantage (or disadvantage) to an extreme degree, you can add a third die to the roll and take the best (or worst) result.  Extreme degree is either 3 or more uncancelled advantages (or disadvantages) or a particularly "strong" source of advantage (or disadvantage) in the mix.
 
 This rule lets the GM acknowledge extreme circumstances with the dice without opening the advantage rules up to regular "advantage hunting" or additional accounting in most cases.
+
+## Characters
+
+### Talents
+
+#### Rage
+
+> You can still cast a spell or concentrate on one while raging if you are a CHA caster (The Will). However, while raging, you suffer a mishap if only the first HD you roll to cast is a 1.
+
+This leaves the door open for the wild magic barbarian trope.
