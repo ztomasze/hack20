@@ -193,3 +193,74 @@ The following table shows the maximum SP you can gain at each level if you choos
 * A young druid reaches out, becoming one with the Green; then he moves together with the grasses around him to strangle and bind the invaders of this ancient forest.
 * A theurge contemplates the Weave that binds all of reality together; by plucking a thread here and tugging another there, she causes fire to blossom in her hand.
 * An votary quietly sings hymns of praise to his goddess; he prays that he might understand her will so that she might fortify him to do her bidding in this world.
+
+#### The WILL (CHA)
+
+The Will relies on successfully channeling the raw magic with which the practitioner is **imbued**. Where other spellcasting methods must draw and prepare their magical energy in some way, magic comes readily to those exerting the Will. However, this rush of magic is exhausting to control. It soon wears down its mortal conduit, occasionally breaking free of the spellcaster's control or even eroding their humanity.  
+
+Some practitioners of the Will are born with their magical ability. Perhaps it is innate to their family bloodline, even if it sometimes skips generations.  Or perhaps the spellcaster was touched by a powerful entity or event while in the womb or as a young child, connecting them forever to a particular source of magic. Other practitioners may come to their ability later in life, such as with puberty or through an arcane coming-of-age ritual. Many practitioners of the Will actively seek their powers by way of an oath, pact, or bargain with an inherently magical being, such as a god, celestial, fiend, djinn, fey, dragon, sentient artifact, or distant alien entity. In such cases, the flow of their magic may be contingent upon them continuing to serve or please this patron being.
+
+While guidance may be found on how to contact such a being and gain its power, acquiring magical ability through the Will cannot otherwise be taught. Because its acquisition can rarely be controlled, because it can be dangerous to its wielder and those around them, and because its ultimate source is often either an inscrutable or malicious entity with goals of its own, the Will is the most distrusted method in many societies.
+
+**MAGIC:** CHA
+
+**Spells known:** You begin play knowing MAGIC+POWER Tier 1 spells.  Each time you level up, you can swap one spell known for another spell from your tradition that is of a tier you can cast.
+
+**Hit Dice (HD):** You require no preparation to use your magic. However, you must have at least one unexpended HD to cast a spell of Tier 1 or higher. Once all of your HD are expended, you are too exhausted to channel more magic.
+
+**Casting a spell:** To cast a spell, you must first draw sufficient mana for it:
+
+| Tier | Mana Cost |
+| :-- | :-- |
+| **1** | 4 |
+| **2** | 9 |
+| **3** | 15 |
+| **4** | 21 |
+
+As you start to cast the spell, roll an unexpended HD to see how many points of mana you draw:
+
+* Once you have drawn sufficient mana, you successfully cast the spell.  Any excess mana is harmlessly dispersed.
+* If you a roll a 7 or 8 on the HD (or a 4 on an epic level d4 HD), that HD is expended.
+* If you do not yet have enough mana, you can roll an unexpended HD again and add its result to your growing mana pool. Repeat until you have enough mana to cast the spell.
+* If the first two HD rolls of a casting attempt are both 1s, you suffer a mishap. (See below.)
+* If you expend your last HD before you accumulate enough mana, you fail to cast the spell and your casting action is wasted.
+
+**Mishap type:** When you create your character, choose your mishap type: Backfire or Transformation. See below for more information about both. You cannot change this choice later.
+
+**Features of the Will:** You should use the Will if:
+
+* You have strength in your convictions: Your lists of spells known will be focused and change slowly.
+* You are willing to take risks for the power you desire. Your expected spell output is higher than any other method, and you will have days where the magic flows easily and continuously when you call it, turn after turn. However, on other days, you will be found wanting, overcome by the mighty power that flows through you, left weak and trembling with nothing more to give. And, every now and then, you will also risk your humanity, your health, or those around for you for the magnificent power you wield.
+
+**Example practitioners of the Way:**
+
+* A sallow necromancer bears the phylactery of a lich on his arm; over time, he gains more of the lich's power, memories, and personality, yet his skin also slowly dries and withers upon his frame.
+* A sorcerer reaches through the Veil to funnel the Winds of Change into the world to dramatic effect; however, sometimes the Winds swirl wildly when called and twist free of the sorcerer's control.
+* A paladin prays to her righteous god, channeling its power to smite its enemies and heal the devout; slowly, the paladin grows more stern and radiant, and daily human concerns seem distant and petty compared to basking forever in that divine light.
+* A warlock hides the demonic mark of his patron under a buttoned shirt; the demon is hungry for blood and souls, and sometimes the powers it has granted the warlock go astray, harming others rather than those the warlock intended.
+
+### Mishaps
+
+The most common source of mishaps is using the Will to cast spells. However, they can also happen when using scrolls or other magical artifacts.  If a mishap's type is not specified, it is a backfire.
+
+#### Backfire
+
+When you suffer a Backfire, the spell produces an effect other than the one intended. The GM gleefully determines what this means, but it is nearly always bad for you. Examples include:
+
+1. You suffer tier-appropriate damage (usually d8 damage per spell tier)
+1. You suffer HD loss as exhaustion (usually 1 + spell tier)
+1. The spell affects the wrong target(s), a random target if you were the intended target, or manifests at a different origin point within view
+1. The spell morphs into a different or opposite effect (the new effect should still be representative of the same magical tradition)
+1. You suffer some unrelated but persistent side-effect (the duration of which varies depending on the severity of the effect)
+1. The spell creates innocuous items, or the environment or others around you suffer a side-effect
+
+#### Transformation
+
+When you suffer a Transformation, the spell is still cast successfully. However, the powerful magic coursing through you has left a mark: Gain 1 point of Transformation.
+
+Transformation is typed depending on the nature of its source, such as: corruption (or evil), elemental fire, fey, primal nature, radiant, wild magic, etc.  The specific list varies by campaign.  As you are transformed by that type, your thoughts, personality, and goals begin to shift accordingly. Your body also starts to change, manifesting aspects common to that type.
+
+* At 5 points accumulated within a single type, your transformation becomes apparent to others.
+* At 10 points within a single type, your transformation is complete: You lose your humanity. Your character becomes an NPC or monster under the GM's control.
+
+There is no default way to remove points of transformation. Certain rare substances, obscure ceremonies, or wishes may allow some respite.
