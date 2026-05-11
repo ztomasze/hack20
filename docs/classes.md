@@ -56,7 +56,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
 | **Absorb Damage** | Expend a HD to subtract it from damage you are about to take. (Min: DEX or CON) | |
 | **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a move. If your attack drops your target to 0 HP, you can instead spend your move to make a second attack using the same weapon against another valid target. | **Level 1** |
-| **Boosted Attacks** | Expend a HD to add it to an attack roll. | |
+| **Boosted Attacks** | Expend a HD to add it to an attack roll. (Min: STR or DEX) | |
 | **Boosted Checks** | Expend a HD to add it to a check roll. | |
 | **Boosted Damage** | Expend a HD to add it to damage you deal with a weapon attack. | |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
@@ -64,7 +64,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Great Fortitude** | Expend a HD to add it to a STR or CON save. | |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this talent a maximum of three times, only at (or after) the levels listed. | Spellcasting; Level 3+, 5+, 7+. |
 | **Iron Will** | Expend a HD to add it to a WIS or CHA save. | |
-| **Lightning Reflexes** | Expend a HD to add it to a an initiative roll or DEX save. | |
+| **Lightning Reflexes** | Expend a HD to add it to an initiative roll or DEX save. | |
 | **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty |
 | **Rage** | Once per scene, you can expend a HD to enter a rage as a minor action. This typically involves appropriate performative acts like roaring, stomping, or biting your shield. While raging, you gain +2 STR, +2 to WIS and CHA saves, and +CON to AC (max: AC17). You cannot cast spells, concentrate, take the Defend action, or perform calm, careful, or focused tasks while raging. Your rage lasts until the end of the scene. It ends early if you fall unconscious, if you choose to end it as a free action, or if you do not make a melee attack or spend a minor action to extend your rage on your turn. | **Level 1** |
 | **Skill** | Gain one [skill](skills.md) of your choice. | Level 2+ |
