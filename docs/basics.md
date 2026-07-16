@@ -28,7 +28,7 @@ See [Combat: Attack](combat.md#attack) for more.
 
 ### Save
 
-A **save** is an ability roll triggered by another's action or by an ongoing effect. Succeeding on a save reduces or negates a negative consequence, such as falling into a pit trap, contracting a disease, or being charmed by a mischievous fairy.
+A **save** is an ability roll triggered by another's action or by an ongoing effect. Succeeding on a save reduces or negates a negative consequence, such as enduring a freezing spell, falling into a pit trap, contracting a disease, or being charmed by a mischievous fairy.
 
 * A save is always DC 15 (Hard).
 * Because there is a bit of luck to saves, a natural 20 always succeeds and a natural 1 always fails (possibly with greater consequences).
@@ -42,7 +42,7 @@ A **check** is an ability roll used to resolve any significant task that is not 
 
 * The GM determines both the difficulty (DC) and the relevant ability to use based on the task, the situational context, the player's intention, and the character's approach or method.
 * Sometimes the GM may allow you to choose one of two abilities to roll, such as choosing either DEX or INT to pick a complicated lock or STR or WIS to control a panicked mount.  
-* While there is no automatic success or failure on a check, the degree by which you succeed or fail may inform the narrative result. In particular, a natural 20, a natural 1, or a result of 5 or less may have notable consequences.
+* While there is no automatic success or failure on a check, the degree by which you succeed or fail may inform the narrative result. In particular, a natural 20, a natural 1, or a result of 5 or less may have notable consequences on some checks.
 
 #### Common DCs
 
@@ -51,7 +51,7 @@ Most impromptu tasks are of either Normal or Hard difficulty, although a few oth
 | DC | Name | Notes |
 | :---- | :---- | :---- |
 | **25** | Extraordinarily Hard | Impossible without an extraordinary (+5 or higher) ability score |
-| **21** | Really Hard | "Truly" hard - impossible without a positive ability score |
+| **21** | Really Hard | "Truly" hard, as this is impossible without a positive ability score |
 | **20** | Very Hard | A remote-but-possible (5%) chance of success when rolling at \+0 |
 | **15** | **Hard** | 30% chance of success when rolling at \+0 |
 | **10** | **Normal** | 55% chance of success when rolling at \+0 <br>**If no DC is given for a roll, assume it is 10** |
