@@ -109,10 +109,10 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 | **Hammer** | 1d4 | 1 | Simple, Throwable | throwing hammer, light hammer |
 | **Javelin** | 1d4/1d6 | 3 | Finesse, Throwable, Versatile | shortspear |
 | **Lance** | 1d10 | 5 | Special(one-handed when mounted), Reach, Two-Handed | |
-| **Long sword** | 1d8 | 2 | | broadsword, falchion, knightly arming sword, sabre, scimitar |
+| **Longsword** | 1d8 | 2 | | broadsword, falchion, knightly arming sword, sabre, scimitar |
 | **Mace** | 1d8 | 2 | | military flail, morningstar, war pick |
 | **Polearm** | 1d10 | 5 | Reach, Two-Handed | glaive, longspear, halberd, pike, poleaxe, ranseur, etc |
-| **Short sword** | 1d6 | 2 | Finesse | cutlas, dirk, kukri, rapier, sai, seax |
+| **Shortsword** | 1d6 | 2 | Finesse | cutlas, dirk, kukri, rapier, sai, seax |
 | **Spear** | 1d6/1d8 | 4 | Throwable, Versatile, Special(+1 size) | trident |
 | **Staff** | 1d4/1d6 | 4 | Finesse, Simple, Versatile, Special(+1 size) | bo stick |
 | **Two-handed sword** | 1d10 | 4 | Two-Handed | (bardiche), claymore |
@@ -156,7 +156,7 @@ Reloading fire a projectile up to a Distant distance. You must have a quiver of 
 | **Heavy crossbow** | d10 | 4 | Massive, Reload(action), Special(ignore Massive's STR requirement) | arbalest |
 | **Light crossbow** | d8 | 3 | Reload(move) | |
 | **Longbow** | d6/d8\* | 4 | Massive, Reload(free) | |
-| **Short bow** | d6 | 3 | Reload(free) | |
+| **Shortbow** | d6 | 3 | Reload(free) | |
 | **Sling** | d4 | 1 | One-Handed, Reload(move), Simple, Special(-1 size), Special(you can reload with a medium shield in your offhand) | |
 
 ### Uncommon Ranged Weapons
