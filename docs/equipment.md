@@ -125,6 +125,7 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 | **Greataxe** | 1d10/1d12\* | 4 | Massive, Two-Handed | (greatsword), (maul) |
 | **Greatclub** | d8 | 4 | Simple, Two-Handed | |
 | **Quarterstaff** | 1d8 | 5 | Reach, Simple, Two-Handed | "10-foot" pole |
+| **Sap** | 1d6 | 2 | Special(nonlethal) | |
 | **Shillelagh** | 1d6/1d8 | 3 | Simple, Versatile | walking stick |
 
 ## Ranged Weapons
@@ -181,8 +182,10 @@ If the item is particularly unwieldy, you might also suffer disadvantage on atta
 
 ### Nonlethal Attacks
 
-You can make a nonlethal attack with weapons that don't draw blood, such as club or the flat of your blade.
-You treat them as improvised weapons (-2d) when you attack this way.  Alternatively, you attack non-lethally with a sheathed, padded, or leather-wrapped weapon, such as a sap or leather-bound sling stones, at only -d.
+You can make a nonlethal attack with making an improvised weapon attack with a weapon that doesn't draw blood.
+
+* For example, you could attack with a club, the pommel or haft of your weapon, the flat of your blade, or with a weapon that is padded or sheathed.
+* You can't non-lethally stab someone with a rapier or shoot them with an arrow (but you might carry arrows tipped with dull lead for this purpose).
 
 If a creature is reduced to 0 HP by a nonlethal attack, they fall unconscious but do not take any wounds or die from that attack.
 
