@@ -74,10 +74,10 @@ Weapons are categorized primarily by their **type**:
 * **Melee** - Weapons used to attack adjacent targets in hand-to-hand combat. Use STR when making a melee attack roll (except where otherwise noted).
 * **Ranged** - Weapons that are only thrown or that fire a projectile.  Use DEX when making a ranged attack roll (except where otherwise noted).
 
-Weapons are then differentiated by **modifiers**, which are specific to either melee or ranged weapons.
+Weapons are then differentiated by **properties**, which are specific to either melee or ranged weapons.
 
-* A modifier can increase (+d) or decrease (-d) the weapon's damage die. The damage die progression is: 1, d2, d3, d4, d6, d8, d10, d12.
-* A modifier can adjust the weapon's size.
+* A property can increase (+d) or decrease (-d) the weapon's damage die. The damage die progression is: 1, d2, d3, d4, d6, d8, d10, d12.
+* A property can adjust the weapon's size.
 
 Some of the most common fantasy medieval weapons are provided as samples of applying these rules. A few of them have special rules. Players can propose additional historical weapons that are not on the table.
 
@@ -85,10 +85,10 @@ Some of the most common fantasy medieval weapons are provided as samples of appl
 
 The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 
-| Modifier | Adjustments | Description |
+| Property | Adjustments | Description |
 | :---- | :---- | :---- |
 | **Finesse** | -d damage | _Prized more for its precision than its damage._ <br><br> You can choose to use DEX in place of STR when making an attack roll with this weapon. |
-| **Massive** | d/+d* damage | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must have the Two-Handed modifier and no other modifiers except Simple or Special. If you have a positive STR score, attacks with this weapon deal +d damage. |
+| **Massive** | d/+d* damage | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must have the Two-Handed property and no other properties except Simple or Special. If you have a positive STR score, attacks with this weapon deal +d damage. |
 | **Reach** | +1 size | _Can attack targets a little beyond adjacent distance._ <br><br> You may also be able attack over short allies, between allies in front of you, or from a safer distance away. You can ready this weapon to hit a charging creature before they can touch you (if they don't also have reach). |
 | **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired even in a village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
@@ -98,7 +98,7 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 
 ### Common Melee Weapons
 
-| Weapon | Damage | Size | Modifiers | Equivalent Weapons |
+| Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
 | **Battleaxe** | 1d8/1d10 | 3 | Versatile | (bastard sword) |
 | **Club** | 1d6 | 2 | Simple | cudgel |
@@ -118,7 +118,7 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 
 ### Uncommon Melee Weapons
 
-| Weapon | Damage | Size | Modifiers | Equivalent Weapons |
+| Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
 | **Greataxe** | 1d10/1d12\* | 4 | Massive, Two-Handed | (greatsword), (maul) |
 | **Greatclub** | d8 | 4 | Simple, Two-Handed | |
@@ -134,20 +134,20 @@ The default ranged weapon is either:
 
 Reloading fire a projectile up to a Distant distance. You must have a quiver of appropriate ammunition on hand (or an equivalent container, such as a powder horn and bag of shot or a pouch of sling stones).
 
-| Modifier | Adjustments | Description |
+| Property | Adjustments | Description |
 | :---- | :---- | :---- |
 | **Massive** | d/+d* damage<br>+1 size | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must be a two-handed reloading weapon. If you have a positive STR score, attacks with this weapon deal +d damage. |
 | **One-Handed** | -d damage<br>-1 size | _Light enough to hold and fire with one hand._ <br><br> While you can fire this reloading weapon with one hand, it still requires two hands to load it. |
 | **Reload(free)** | d6 damage | _Load this weapon with ammunition as you fire it._ <br><br> You can draw one piece of ammunition from your quiver as a free action as part of an attack with this weapon. |
 | **Reload(move)** | d8 damage | _Quickly load this weapon with ammunition before you fire it._ <br><br> As a move, you can load this weapon with a piece of ammunition. |
-| **Reload(action)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a action, you can load this weapon with a piece of ammunition. This modifier typically grants an additional benefit or free modifier. |
+| **Reload(action)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a action, you can load this weapon with a piece of ammunition. This property typically grants an additional benefit or free property. |
 | **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired in any village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
 | **Thrown** | d4 damage<br>0.5 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within Near distance or at disadvantage up to Far distance. You can carry 2 of these per 1 size. |
 
 ### Common Ranged Weapons
 
-| Weapon | Damage | Size | Modifiers | Equivalent Weapons |
+| Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
 | **Dart** | d4 | 1 | Thrown | throwing knife |
 | **Heavy crossbow** | d10 | 4 | Massive, Reload(action), Special(ignore Massive's STR requirement) | arbalest |
@@ -158,18 +158,18 @@ Reloading fire a projectile up to a Distant distance. You must have a quiver of 
 
 ### Uncommon Ranged Weapons
 
-| Weapon | Damage | Size | Modifiers | Equivalent Weapons |
+| Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
 | **Hand crossbow** | d6 | 2 | One-Handed, Reload(move) | |
 | **Staff Sling** | d6 | 4 | Reload(move), Simple, Special(also counts as a staff) | hoopak |
 
 ## Improvised Weapons
 
-Sometimes you must attack with what is on hand or use a weapon in a way that it is not designed to be used. Such a "weapon" gains the **Improvised** modifier: -2d.
+Sometimes you must attack with what is on hand or use a weapon in a way that it is not designed to be used. Such a "weapon" gains the **Improvised** property: -2d.
 
 Examples:
 
-| Makeshift Weapons | Damage | Modifiers |
+| Makeshift Weapons | Damage | Properties |
 | :---- | :---- | :---- |
 | sharp bone, frying pan, broken sword, rolling ping, table leg | d4 | Improvised, Melee |
 | chair, barstool | d6 | Improvised, Melee, Two-Handed |
@@ -189,7 +189,7 @@ If a creature is reduced to 0 HP by a nonlethal attack, they fall unconscious bu
 
 When you have no weapon in hand, you can still attack unarmed.
 
-| Unarmed attacks | Damage | Modifiers |
+| Unarmed attacks | Damage | Properties |
 | :---- | :---- | :---- |
 | punch, kick, choking | d2 | Melee, Special(nonlethal) |
 | metal gauntlet | d2 | Melee |
