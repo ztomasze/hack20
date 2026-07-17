@@ -173,12 +173,11 @@ Examples:
 
 | Makeshift Weapons | Damage | Properties |
 | :---- | :---- | :---- |
-| sharp bone, frying pan, broken sword, rolling ping, table leg | d4 | Improvised, Melee |
-| chair, barstool | d6 | Improvised, Melee, Two-Handed |
-| rock, throwing a longsword | d3 | Improvised, Melee, Throwable (STR) |
-| stone | d2 | Improvised, Ranged, Thrown (DEX) |
+| **One-handed:** sharp bone, frying pan, broken sword, rolling ping, table leg | d4 | Improvised, Melee |
+| **Two-handed:** chair, barstool | d6 | Improvised, Melee, Two-Handed |
+| **Throwable:** rock, throwing a longsword | d3 | Improvised, Melee, Throwable |
 
-If the item is particularly unwieldy, you might also suffer disadvantage on attacks with it (such as swinging a dead armored goblin by the ankles).
+If the item is particularly unwieldy, you might also suffer disadvantage on attacks with it (such as when swinging a dead armored goblin by the ankles).
 
 ### Nonlethal Attacks
 
