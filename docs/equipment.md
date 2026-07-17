@@ -20,7 +20,7 @@ The details of this guidance may vary based on the specific situation. For examp
 
 ### Weapon Size
 
-To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 5 (a polearm).  Characters can generally carry a total weapon size value around 8 or 9, but again, the specifics matter.  For example, carrying a polearm in hand with a longsword sheathed on one hip and a dagger on the other (8 total WS) feels reasonable. However, carrying four longswords strapped to you (also 8 total WS) does not.
+To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 5 (a polearm).  Characters can generally carry a total weapon size value around 8 or 9, but again, the specifics matter.  For example, carrying a polearm in hand with a longsword sheathed on one hip and a dagger on the other (8 total WS) feels reasonable. However, carrying four longswords (also 8 total WS) strapped to you in an readily accessible way does not.
 
 As further general guidance:
 
@@ -39,10 +39,9 @@ To compute your AC:
   * A positive DEX score cannot raise your AC above 15.
   * If your DEX score is negative, it reduces your AC only by the amount that it exceeds your (armor's AC - 10). For example, if you are wearing leather armor (AC 12) with -3 DEX, you apply a -1 penalty to your AC, for a total of 11 AC.  If you instead wore ring mail or heavier armor (AC 13 or higher), your AC would not be reduced by DEX.
 
-Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 12 + STR**.
+Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 12 + STR**. If you do not meet this requirement, you are encumbered (physically impaired) and can't cast spells.
 
 * For example, if you have -2 STR or less, you cannot wear any armor without penalty. You must have at least +4 STR to wear plate mail, or +6 STR to also carry a metal shield.
-* If you do not meet these requirements, you are encumbered (physically impaired) and can't cast spells.
 
 ### Armor
 
@@ -80,7 +79,7 @@ Weapons are then differentiated by **modifiers**, which are specific to either m
 * A modifier can increase (+d) or decrease (-d) the weapon's damage die. The damage die progression is: 1, d2, d3, d4, d6, d8, d10, d12.
 * A modifier can adjust the weapon's size.
 
-Some of the most common fantasy medieval weapons are provides as samples of applying these rules. A few of them have special rules. Players can propose additional historical weapons that are not on the table.
+Some of the most common fantasy medieval weapons are provided as samples of applying these rules. A few of them have special rules. Players can propose additional historical weapons that are not on the table.
 
 ## Melee Weapons
 
@@ -88,8 +87,8 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 
 | Modifier | Adjustments | Description |
 | :---- | :---- | :---- |
-| **Massive** | d/+d* damage | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must have the Two-Handed modifier and no other modifiers except Simple or Special. If you have a positive STR score, attacks with this weapon deal +d damage. |
 | **Finesse** | -d damage | _Prized more for its precision than its damage._ <br><br> You can choose to use DEX in place of STR when making an attack roll with this weapon. |
+| **Massive** | d/+d* damage | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must have the Two-Handed modifier and no other modifiers except Simple or Special. If you have a positive STR score, attacks with this weapon deal +d damage. |
 | **Reach** | +1 size | _Can attack targets a little beyond adjacent distance._ <br><br> You may also be able attack over short allies, between allies in front of you, or from a safer distance away. You can ready this weapon to hit a charging creature before they can touch you (if they don't also have reach). |
 | **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired even in a village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
@@ -142,7 +141,7 @@ Reloading fire a projectile up to a Distant distance. You must have a quiver of 
 | **Reload(free)** | d6 damage | _Load this weapon with ammunition as you fire it._ <br><br> You can draw one piece of ammunition from your quiver as a free action as part of an attack with this weapon. |
 | **Reload(move)** | d8 damage | _Quickly load this weapon with ammunition before you fire it._ <br><br> As a move, you can load this weapon with a piece of ammunition. |
 | **Reload(action)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a action, you can load this weapon with a piece of ammunition. This modifier typically grants an additional benefit or free modifier. |
-| **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired even in a village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
+| **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired in any village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
 | **Thrown** | d4 damage<br>0.5 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within Near distance or at disadvantage up to Far distance. You can carry 2 of these per 1 size. |
 
@@ -196,3 +195,4 @@ When you have no weapon in hand, you can still attack unarmed.
 | metal gauntlet | d2 | Melee |
 | spiked gauntlet | d3 | Melee |
 | medium shield bash | d3 | Melee |
+| medium spiked shield bash | d4 | Melee |
