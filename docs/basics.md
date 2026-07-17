@@ -141,19 +141,30 @@ There are 24 hours in a **day**.  If a clear ending point is needed for a magica
 
 ## Distance
 
-For best results, a gridless map is recommended. This provides a shared frame of reference (which can be easier to follow for some players), but it does not lead to careful square counting (which can slow the game and leads to a more tactical rather than narrative game).  When in doubt, the GM adjudicates distances.
+### Step & Measure
+
+Distances are defined around an abstract distance called a measure.  One **measure** (1M) is the distance a humanoid can move over clear ground and still attack, the accurate range of a thrown weapon, and the radius of illumination of a burning torch.
+
+This standard measure can be translated to other representations as needed:
+
+* **Feet:** A measure is about 30' in the game world.
+* **Map Inches:** A measure is about 6" on the battle map.  This generally translates to 6 squares or 6 hexes, depending on the grid used. On a gridless map (which is recommended), the GM adjudicates distances.
+* **Range descriptors:** Anything within one measure of you is Near to you.
+
+For short distances, a **step** is used. One **step** away is how far you can reach out and touch or strike with a melee weapon.
 
 ### Ranges
 
-| Distance | Description | Moves | Approx feet |
-| :---- | :---- | :---- | :---- |
-| Personal | In contact with. Wrestling or hugging range. | 0 | Up to 1' |
-| **Adjacent** (Melee) | Close enough to reach out and touch; a step away. Melee attack range. | 1/4 | Up to 5' |
-| Close | How far you can normally move over difficult terrain; two to four steps away; other things in the same small room as you. Candlelight. | 1/2 | 15'  (10' to 20') |
-| **Near** | How far you can travel with one move over normal ground. Range of most thrown weapons. Torchlight; candlelight \+ dimsight. | 1 | 30'  (25' to 45') |
-| **Far** | How far you can travel in one turn with two moves over normal ground. Max throwing distance with disadvantage. Torchlight \+ dimsight. | 2 | 60'  (50' to 85') |
-| **Distant** | Beyond reach of movement or thrown weapons this turn, but still within range of fired projectile weapons, such as bows. Typical architectural limit of vision underground or indoors, even when illuminated. | \~4 (\> 2\) | 120' (90' to 150')' |
-| Sight | Beyond weapon range but still in sight. | \+ | |
+Nearly all game effects will use one of these ranges.
+
+| Measure | Abbr. | Descriptor | Description | ~Feet | Map Inches |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **step** | 1S | Adjacent (melee, touch) | Close enough to reach out and touch; a step away. Melee attack range. A &frac14;M rounds down to a step. | Up to 5' | 1" |
+| **half measure** | &half;M | Close | How far you can normally move over difficult terrain; two to four steps away; other things in the same small room as you. Candlelight. | 15'  (10' to 20') | 3" |
+| (full) **measure** | 1M | Near | How far you can travel with one Move over normal ground. Accurate throwing range. Torchlight; candlelight \+ dimsight. | 30'  (25' to 45') | 6" |
+| **double measure** | 2M | Far | How far you can travel in one turn with two Moves over normal ground. Max throwing distance with disadvantage. Accurate shooting range. Torchlight \+ dimsight. | 60'  (50' to 85') | 12" |
+| - | - | **(far) afield** | Beyond reach of movement or thrown weapons this turn, but still on the battlefield (map). Within range of inaccurately fired projectile weapons, such as bows, and some spells. | 90'+ (90' to 150') | 13+" |
+| - | - | **faraway** (far-off) | Beyond weapon range but still in sight. | \+ | \+ |
 
 <!--
 

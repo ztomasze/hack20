@@ -91,10 +91,10 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 | :---- | :---- | :---- |
 | **Finesse** | -d damage | _Prized more for its precision than its damage._ <br><br> You can choose to use DEX in place of STR when making an attack roll with this weapon. |
 | **Massive** | d/+d* damage | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must have the Two-Handed property and no other properties except Simple or Special. If you have a positive STR score, attacks with this weapon deal +d damage. |
-| **Reach** | +1 size | _Can attack targets a little beyond adjacent distance._ <br><br> You may also be able attack over short allies, between allies in front of you, or from a safer distance away. You can ready this weapon to hit a charging creature before they can touch you (if they don't also have reach). |
+| **Reach** | +1 size | _Can attack targets a couple steps away._ <br><br> You may also be able attack over short allies or between allies in front of you. You can ready this weapon to hit a charging creature before they can touch you (if they don't also have reach). |
 | **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired even in a village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
-| **Throwable** | -d damage<br>-1 size | _Lighter and balanced for effective throwing._ <br><br> You can throw this weapon to make a STR-based ranged attack. Roll normally if the target is within Near distance or at disadvantage up to Far distance. |
+| **Throwable** | -d damage<br>-1 size | _Lighter and balanced for effective throwing._ <br><br> You can throw this weapon to make a STR-based ranged attack. Roll normally if the target is within one measure or at disadvantage up to a double measure. |
 | **Two-Handed** | +d damage<br>size 4 (min) | _A large heavy weapon._ <br><br> You must use both hands to wield this weapon. |
 | **Versatile** | size 3 (min) | _A large but balanced weapon that can be used effectively with either one hand or two._ <br><br> If you wield this weapon with both hands, it deals +d damage. |
 
@@ -135,7 +135,7 @@ The default ranged weapon is either:
 * a Thrown weapon of size 1
 * a two-handed Reload weapon of size 3.
 
-Reloading fire a projectile up to a Distant distance. You must have a quiver of appropriate ammunition on hand (or an equivalent container, such as a powder horn and bag of shot or a pouch of sling stones).
+Reloading weapons accurately fire a projectile up to a double measure. You can target something farther afield at disadvantage. You must have a quiver of appropriate ammunition on hand (or an equivalent container, such as a powder horn and bag of shot or a pouch of sling stones).
 
 | Property | Adjustments | Description |
 | :---- | :---- | :---- |
@@ -146,7 +146,7 @@ Reloading fire a projectile up to a Distant distance. You must have a quiver of 
 | **Reload(action)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a action, you can load this weapon with a piece of ammunition. This property typically grants an additional benefit or free property. |
 | **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired in any village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
-| **Thrown** | d4 damage<br>0.5 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within Near distance or at disadvantage up to Far distance. You can carry 2 of these per 1 size. |
+| **Thrown** | d4 damage<br>0.5 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within one measure or at disadvantage up to a double measure. You can carry 2 of these per 1 size. |
 
 ### Common Ranged Weapons
 

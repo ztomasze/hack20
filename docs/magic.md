@@ -62,7 +62,7 @@ When defining a new tradition, work with your GM to determine its source, which 
 
 ### Trappings
 
-Trappings primarily describe the cosmetic effects of your magic. For example, the _bolt_ cantrip deals damage at Distant range. What this looks like depends on your trappings: a glowing orb of green light, a fist of fire, a ball of ice, a spinning blade, a spectral serpent that slithers along the ground to the target, a beam of momentarily engulfing shadow, etc.
+Trappings primarily describe the cosmetic effects of your magic. For example, the _bolt_ cantrip deals damage at range. What this looks like depends on your trappings: a glowing orb of green light, a fist of fire, a ball of ice, a spinning blade, a spectral serpent that slithers along the ground to the target, a beam of momentarily engulfing shadow, etc.
 
 However, your trappings may occasionally have more substantial consequences. A fire _bolt_ would let you ignite spilled oil, but it would leave a fire-immune demon unharmed. A spinning-blade _bolt_ might let you sever a chandelier rope from across the room, but an ice-ball _bolt_ would not. A lightning-based trapping would produce a bright flash of light, while a thunder-based trapping would be heard far down the hall, even around corners.
 
