@@ -36,7 +36,7 @@ The style of rangers and monks.
 
 The style of swashbucklers, assassins, and rogues.
 
-* _Sneak Attack:_ If you have advantage on an attack roll, if your attack would automatically hit, or if your target is threatened in melee by another adversary while you attack from within a Near distance without disadvantage, your attack deals an extra (1d6 + level) damage. To gain this benefit, you must attack with a finesse, thrown, and non-Massive ranged [weapon](equipment.md#weapons), and your target must be a living creature with vulnerable spots that are within reach of your weapon. You can only sneak attack once per turn (yours or another's).
+* _Sneak Attack:_ If you have advantage on an attack roll, if your attack would automatically hit, or if your target is threatened in melee by another adversary while you attack from within one measure without disadvantage, your attack deals an extra (1d6 + level) damage. To gain this benefit, you must attack with a finesse, thrown, and non-Massive ranged [weapon](equipment.md#weapons), and your target must be a living creature with vulnerable spots that are within reach of your weapon. You can only sneak attack once per turn (yours or another's).
 * Minimum starting HP: -1
 
 ### Talents
