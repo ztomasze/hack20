@@ -18,15 +18,6 @@ As starting guidance for what is reasonable, you can carry:
 
 The details of this guidance may vary based on the specific situation. For example, while most armor is too bulky or heavy to put in your pack, you might be able to carry padded armor or a mithril chain shirt that way.
 
-### Weapon Size
-
-To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 5 (a polearm).  Characters can generally carry a total weapon size value around 8 or 9, but again, the specifics matter.  For example, carrying a polearm in hand with a longsword sheathed on one hip and a dagger on the other (8 total WS) feels reasonable. However, carrying four longswords (also 8 total WS) strapped to you in an readily accessible way does not.
-
-As further general guidance:
-
-* You can typically comfortably manage only one item of 4+ weapon size.
-* Reach weapons of size 5 need to be carried in hand; they are too long to sheathe or strap to you.
-
 ## Armor Class
 
 Your **armor class** (AC) determines how difficult you are to hit in combat.
@@ -60,6 +51,8 @@ Disregarding any magical bonuses on them, **the AC granted by your armor + shiel
 
 ### Shields
 
+See _Weapons_ for more on size.
+
 | Shield | +AC | Cost (gp) | Type | Size | Special rules |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Buckler** | \+1 | 5 | Light | 1 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, but not offhand or two-handed melee attacks. |
@@ -80,6 +73,15 @@ Weapons are then differentiated by **properties**, which are specific to either 
 * A property can adjust the weapon's size.
 
 Some of the most common fantasy medieval weapons are provided as samples of applying these rules. A few of them have special rules. Players can propose additional historical weapons that are not on the table.
+
+### Weapon Size
+
+To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 5 (a polearm).  Characters can generally carry a total weapon size value around 8 or 9, but again, the specifics matter.  For example, carrying a polearm in hand with a longsword sheathed on one hip and a dagger on the other (8 total WS) feels reasonable. However, carrying four longswords (also 8 total WS) strapped to you in an readily accessible way does not feel as reasonable.
+
+As further general guidance:
+
+* You can typically comfortably manage only one item of 4+ weapon size.
+* Reach weapons of size 5 need to be carried in hand; they are too long to sheathe or strap to you.  (You might carry an bit of rope to tie it your belt to dangle while climbing, though.)
 
 ## Melee Weapons
 
