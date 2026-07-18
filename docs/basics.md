@@ -149,7 +149,7 @@ Distances are defined around an abstract distance called a measure.  One **measu
 This standard measure can be translated to other representations as needed:
 
 * **Feet:** A measure is about 30' in the game world.
-* **Map Inches:** A measure is about 6" on the battle map.  This generally translates to 6 squares or 6 hexes, depending on the grid used. On a gridless map (which is recommended), the GM adjudicates distances.
+* **Map Inches:** A measure is about 6" on the battle map.  This generally translates to 6 squares or 6 hexes, depending on the grid used. On a gridless map (which is recommended), the GM adjudicates distances. One "inch" on a gridless map is approximately the width of a miniature's token or base.
 * **Range descriptors:** Anything within one measure of you is Near to you.
 
 For short distances, a **step** is used. One **step** away is how far you can reach out and touch or strike with a melee weapon.
