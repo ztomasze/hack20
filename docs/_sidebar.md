@@ -8,8 +8,8 @@
   * [😶‍🌫️ Races](races.md)
   * [🎎 Classes](classes.md)
   * [🖐️ Skills](skills.md)
-  * 🎨 _Details_
   * [🛡️ Equipment](equipment.md)
+  * 🎨 _Details_
   * 📈 _Levels_
 * [⛰️ Adventuring](adventuring.md)
 * [⚔️ Combat](combat.md)
