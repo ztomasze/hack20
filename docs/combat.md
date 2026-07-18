@@ -45,6 +45,54 @@ Or you may perform two quick actions in place of your minor action.
 
 ### Move
 
+You can move up to your speed over normal terrain, or half this distance if using a different movement mode or traveling over difficult terrain.
+
+You cannot interrupt your Move with other actions. However, if your speed is not currently reduced, you may break your move into two Half Moves.
+
+#### Speed
+
+Characters normally cover one measure per Move when walking or running over level ground. Some monsters have a slower or faster speed than characters, so they will cover a shorter or longer distance per Move.
+
+Some creatures have speeds that allow them to move naturally over or through specific kinds of terrain, such as a climb, swim, fly, or burrow speed. Provided the terrain is not unusually difficult (such as climbing a slick wall, flying through a windstorm, or swimming through a whirlpool), a creature with an terrain-appropriate speed moves as easily using that speed as walking.
+
+Some effects halve your speed. Such effects are typically cumulative. As an example, if your speed is normally one measure and it is halved, you move only a half measure per Move.  Halved again, and you can only move a step.  Halved again, and you can't Move from your current location.  You can spend two Moves to double your initial speed.
+
+#### Movement Modes
+
+You may still be able to Move over a surface or through a substance that you lack a specific speed for by using a different movement mode. Examples include a humanoid character climbing, swimming, or crawling.
+
+When using a different movement mode, your speed is halved.
+
+#### Difficult Terrain
+
+You traverse difficult terrain at half speed. Depending on the nature of the terrain, you may be able to make a check to traverse it at full speed. Alternatively, if the terrain is very difficult, you may need to make a roll to move at all.
+
+For example, there's typically not much you can do about thick mud or thigh-deep snow other than just wade through it. On the other hand, when traversing slick ice or a narrow beam, you might be able to make an Acrobatics(DEX) check to cross it at full speed. However, if you roll a natural 1 on such a roll, you trip, fall, make no progress at all, or suffer some similar mishap.
+
+#### Half Moves
+
+Moving over difficult terrain, using a different movement mode, or generally moving while impaired or distracted requires your close attention. However, if you are moving easily over normal terrain, you can do a little more multitasking.
+
+If your speed is not reduced for a given Move, you may break the Move into either:
+
+* one Half Move + one Half Move (with any other actions taken between them)
+* one Half Move + one quick action (in either order)
+
+A Half Move is like a normal Move but at half your speed.  
+
+You can also spend a Half Move (or a full Move) to accomplish short movements in place, such as to:
+
+* stand up from prone
+* mount or unmount
+
+#### Driving
+
+You can use your Move to direct the movement of a mount or vehicle that you control.
+
+#### Forced movement
+
+A Move (or Half Move) only occurs when you choose to perform one.  While you might be magically compelled into that choice, if something physically pushes, pulls, or otherwise bodily moves you, it is not considered a Move.
+
 ## Quick Actions
 
 A quick action takes only a second or less of your attention and, at most, a brief gesture with a free hand.
