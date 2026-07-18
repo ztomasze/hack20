@@ -30,7 +30,9 @@
   margin: 0;
   color: #333333;
 }
-.markdown-section blockquote p {
+.markdown-section blockquote p,
+.markdown-section blockquote ol,
+.markdown-section blockquote ul {
   margin: 0.75em 1em;
   font-weight: 300;
 }
