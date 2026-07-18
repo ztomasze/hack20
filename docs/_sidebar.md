@@ -6,6 +6,7 @@
 * 🥸 _Characters_
   * [📊 Stats](stats.md)
   * [😶‍🌫️ Races](races.md)
+  * [🖐️ Skills](skills.md)
   * [🎎 Classes](classes.md)
   * 🎨 _Details_
   * [🛡️ Equipment](equipment.md)
