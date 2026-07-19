@@ -69,6 +69,12 @@ You traverse difficult terrain at half speed. Depending on the nature of the ter
 
 For example, there's typically not much you can do about thick mud or thigh-deep snow other than just wade through it. On the other hand, when traversing slick ice or a narrow beam, you might be able to make an Acrobatics(DEX) check to cross it at full speed. However, if you roll a natural 1 on such a roll, you trip, fall, make no progress at all, or suffer some similar mishap.
 
+#### Other combatants
+
+You cannot move through the space occupied by an active opponent, unless they are of a much different size than you, such as a single rat or a towering giant. You can move through the spaces of allies in a corridor, step over bodies, or push aside incapacitated opponents as difficult terrain.
+
+An opponent who is aware of you threatens the area around itself to the range of its melee attacks. You can freely move either into, within, or out of this threatened area as part of your Move. However, if you are trying to move past or between opponents by passing through their threatened area (that is, you Move more than a step within their threatened area on the same turn that you also enter or exit it), treat the area as difficult terrain.
+
 #### Half Moves
 
 Moving over difficult terrain, using a different movement mode, or generally moving while impaired or distracted requires your close attention. However, if you are moving easily over normal terrain, you can do a little more multitasking.
