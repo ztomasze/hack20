@@ -29,6 +29,35 @@ A major action is the primary and significant action for your turn. A major acti
 
 You may perform a minor action in place of your major action.
 
+### Attack
+
+Make an attack with a weapon.
+
+* Roll either STR or DEX, depending on the nature of your weapon (see [Weapons](Equipment.md#weapons)). You must meet or exceed the AC of your target to hit.
+* Ranged attacks are made at disadvantage if an adjacent enemy is currently threatening you with a potential melee attack.
+* On a success (hit), roll your weapon damage die and deal that amount to your target. Some class features let you add to this damage.
+* Regardless of AC, a natural 20 always hits and a natural 1 always misses.  If a natural 20 would already hit, you deal max damage.
+
+#### Concealment
+
+If you can't clearly see your target--such as through fog, foliage, darkness, etc.--your attack is made at disadvantage.
+
+#### Cover
+
+If a solid obstacle partly obscures your target, they are harder to hit. This can affect both melee and ranged attacks.
+
+If an obstacle obscures about half of your target, the target gain +2 to their AC.  
+
+* If you are using a ranged or reach weapon, an intervening creature imposes this level of cover.
+* The target also has this cover from your ranged attack if it is currently engaged in melee combat with one of your allies, even if the target is located between you and your ally.
+
+If one or more obstacles obscure the majority of your target, such that you can see only a small part of them, they gain +5 to their AC.
+
+* A target has this level of cover if you must shoot through multiple intervening creatures.
+* They also have this cover if the target is wrestling, grappling, restrained by, or is otherwise entangled with another creature or is sharing its space.
+
+If you roll a natural 1 that would miss when attacking at a creature with cover, you hit the cover instead.
+
 ## Minor Actions
 
 The most common minor action is to Move, but there are a number of other actions that you can devote a few seconds of your attention to instead.  
@@ -123,6 +152,7 @@ Examples include:
 * drop prone
 * end concentration on a spell
 * speak a sentence or two without waiting for a reply, such as issuing a command or making a request
+* draw a piece of ammunition as part of attacking with it or loading it into your weapon
 
 ## Reactions
 

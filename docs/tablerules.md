@@ -21,3 +21,11 @@ This is just a fun little rule because it always feels like you should get somet
 > You can still cast a spell or concentrate on one while raging if you are a CHA caster (The Will). However, while raging, you suffer a mishap if only the first HD you roll to cast is a 1.
 
 This leaves the door open for the wild magic barbarian trope.
+
+## Combat
+
+### Attack
+
+#### Cover
+
+> A reach weapon doesn't deal damage to an intervening creature on a nat 1 that strikes cover, but it does impose a bane as you knock that creature aside with the haft of the weapon.
