@@ -54,7 +54,6 @@ The style of swashbucklers, assassins, and rogues.
 | Talent | Effect | Prereq |
 | :---- | :---- | :---- |
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
-| **Absorb Damage** | Expend a HD to subtract it from damage you are about to take. (Min: DEX or CON) | |
 | **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a move. If your attack drops your target to 0 HP, you can instead spend your move to make a second attack using the same weapon against another valid target. | **Level 1** |
 | **Boosted Attacks** | Expend a HD to add it to an attack roll. (Min: STR or DEX) | |
 | **Boosted Checks** | Expend a HD to add it to a check roll. | |
@@ -62,6 +61,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
 | **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
 | **Great Fortitude** | Expend a HD to add it to a STR or CON save. | |
+| **Healing Surge** | As a quick action, expend a HD to regain HP equal to the value rolled (Min: CON). | |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this talent a maximum of three times, only at (or after) the levels listed. | Spellcasting; Level 3+, 5+, 7+. |
 | **Iron Will** | Expend a HD to add it to a WIS or CHA save. | |
 | **Lightning Reflexes** | Expend a HD to add it to an initiative roll or DEX save. | |
@@ -70,6 +70,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Skill** | Gain one [skill](skills.md) of your choice. | Level 2+ |
 | **Skilled** | Gain two [skills](skills.md) of your choice. | **Level 1** |
 | **Spellcasting** | As per a level 1 Spellcaster, you gain a magical tradition and style, but no knack. Your effective level for any spellcasting purpose is 1\. You cannot spend more HD than your spellcasting level on your spellcasting method per day. | **Level 1** |
+| **Uncanny Dodge** | As a reaction when you take damage, subtract the value rolled from the damage you are about to take (Min: DEX or half the incoming damage, rounded down). | |
 
 <!-- POTENTIAL Talents
 
