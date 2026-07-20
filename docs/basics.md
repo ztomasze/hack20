@@ -43,7 +43,7 @@ A **check** is an ability roll used to resolve any significant task that is not 
 
 * The GM determines both the difficulty (DC) and the relevant ability to use based on the task, the situational context, the player's intention, and the character's approach or method.
 * Sometimes the GM may allow you to choose one of two abilities to roll, such as choosing either DEX or INT to pick a complicated lock or STR or WIS to control a panicked mount.  
-* While there is no automatic success or failure on a check, the degree by which you succeed or fail may inform the narrative result. In particular, a natural 20, a natural 1, or a result of 5 or less may have notable consequences on some checks.
+* While there is no automatic success or failure on a check, the degree by which you succeed or fail may inform the narrative result. In particular, a natural 20, a natural 1, or failing by 10 or more may have notable consequences on some checks.
 
 #### Common DCs
 
