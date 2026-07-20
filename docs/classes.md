@@ -82,6 +82,7 @@ The style of swashbucklers, assassins, and rogues.
 Maybe: +Get a random magic item of a category you choose. Each level up, you can acquire a replacement random item, but your previous item then becomes unusable.
 
 Evasion: half damage from area effects provided you are not paralyzed or restrained.  pre: Level 5+, Lighting Reflexes
+* See: Uncanny Dodge
 
 -->
 
