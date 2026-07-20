@@ -57,7 +57,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a move. If your attack drops your target to 0 HP, you can instead spend your move to make a second attack using the same weapon against another valid target. | **Level 1** |
 | **Boosted Attacks** | Expend a HD to add it to an attack roll. (Min: STR or DEX) | |
 | **Boosted Checks** | Expend a HD to add it to a check roll. | |
-| **Boosted Damage** | Expend a HD to add it to damage you deal with a weapon attack. | |
+| **Boosted Damage** | Expend a HD to add it to damage you deal with a weapon attack. (Min: 5) | |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
 | **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
 | **Great Fortitude** | Expend a HD to add it to a STR or CON save. | |
