@@ -56,10 +56,11 @@ The style of swashbucklers, assassins, and rogues.
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
 | **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a move. If your attack drops your target to 0 HP, you can instead spend your move to make a second attack using the same weapon against another valid target. | **Level 1** |
 | **Boosted Attacks** | Expend a HD to add it to an attack roll. (Min: STR or DEX) | |
-| **Boosted Checks** | Expend a HD to add it to a check roll. | |
 | **Boosted Damage** | Expend a HD to add it to damage you deal with a weapon attack. (Min: 5) | |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
 | **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
+| **Expert** | Gain expertise in two [skills](skills.md) that you have proficiency in. In addition, when you roll a check for a skill you are proficient in, you can expend a HD to turn one of the rolled d20s to a 10. | **Level 1** |
+| **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | |
 | **Great Fortitude** | Expend a HD to add it to a STR or CON save. | |
 | **Healing Surge** | As a quick action, expend a HD to regain HP equal to the value rolled. (Min: CON) | |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this talent a maximum of three times, only at (or after) the levels listed. | Spellcasting; Level 3+, 5+, 7+. |
@@ -67,8 +68,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Lightning Reflexes** | Expend a HD to add it to a DEX save or initiative roll. | |
 | **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty |
 | **Rage** | Once per scene, you can expend a HD to enter a rage as a minor action. This typically involves appropriate performative acts like roaring, stomping, or biting your shield. While raging, you gain +2 STR, +2 to WIS and CHA saves, and +CON to AC (max: AC17). You cannot cast spells, concentrate, take the Defend action, or perform calm, careful, or focused tasks while raging. Your rage lasts until the end of the scene. It ends early if you fall unconscious, if you choose to end it as a free action, or if you do not make a melee attack or spend a minor action to extend your rage on your turn. | **Level 1** |
-| **Skill** | Gain one [skill](skills.md) of your choice. | Level 2+ |
-| **Skilled** | Gain two [skills](skills.md) of your choice. | **Level 1** |
+| **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
 | **Spellcasting** | As per a level 1 Spellcaster, you gain a magical tradition and style, but no knack. Your effective level for any spellcasting purpose is 1\. You cannot spend more HD than your spellcasting level on your spellcasting method per day. | **Level 1** |
 | **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract the value rolled from the damage you are about to take. (Min: DEX or half the incoming damage, rounded down) | |
 
