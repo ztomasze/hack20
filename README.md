@@ -8,6 +8,10 @@ Codename for this 0.X edition: **Spark &amp; Steel**
 
 See <https://ztomasze.github.io/hack20>
 
+## Development
+
+See <https://github.com/users/ztomasze/projects/1> for a project view of the issues that document design debates and decisions.
+
 ## File contents
 
 `README.md` - This page.
