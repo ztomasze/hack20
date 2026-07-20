@@ -12,6 +12,12 @@ These are optional rules that you can use at your table. They tend to add comple
 
 This is just a fun little rule because it always feels like you should get something when you roll doubles, especially on physical dice.  And what's the point of rolling two dice if they're just going to be the same?
 
+#### Extra Adv or Disadv
+
+> If you have advantage (or disadvantage) to an extreme degree, you can add a third die to the roll and take the best (or worst) result.  Extreme degree is either 3 or more uncancelled advantages (or disadvantages) or a particularly "strong" source of advantage (or disadvantage) in the mix.
+
+This rule lets the GM acknowledge extreme circumstances with the dice without opening the advantage rules up to regular "advantage hunting" or additional accounting in most cases.
+
 ## Characters
 
 ### Talents
