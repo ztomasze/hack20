@@ -44,14 +44,14 @@ If you can't clearly see your target--such as through fog, foliage, darkness, et
 
 #### Cover
 
-If a solid obstacle partly obscures your target, they are harder to hit. This can affect both melee and ranged attacks.
+If a solid obstacle partly obscures your target, they are harder to hit. This cover can affect both melee and ranged attacks. You also apply any bonus to DEX saves to attacks that must pass through that cover.
 
-If an obstacle obscures about half of your target, the target gain +2 to their AC.  
+If an obstacle obscures about half of your target, the target gain +2 to their AC and DEX saves.
 
 * If you are using a ranged or reach weapon, an intervening creature imposes this level of cover.
 * The target also has this cover from your ranged attack if it is currently engaged in melee combat with one of your allies, even if the target is located between you and your ally.
 
-If one or more obstacles obscure the majority of your target, such that you can see only a small part of them, they gain +5 to their AC.
+If one or more obstacles obscure the majority of your target, such that you can see only a small part of them, they gain +5 to their AC and DEX saves.
 
 * A target has this level of cover if you must shoot through multiple intervening creatures.
 * They also have this cover if the target is wrestling, grappling, restrained by, or is otherwise entangled with another creature or is sharing its space.
