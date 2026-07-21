@@ -64,7 +64,7 @@ The most common minor action is to Move, but there are a number of other actions
 
 Examples include:
 
-* load a crossbow
+* load a heavy crossbow
 * cast a spell with a minor action casting time
 * scan the battlefield for signs of an invisible foe
 * examine a creature or object to try to determine whether it is illusory without touching it
@@ -141,6 +141,7 @@ Examples include:
 * open or close a door
 * pull a lever
 * don or doff a shield
+* load a sling or hand crossbow
 
 ## Free Actions
 
