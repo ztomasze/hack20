@@ -58,6 +58,12 @@ If one or more obstacles obscure the majority of your target, such that you can 
 
 If you roll a natural 1 that would miss when attacking at a creature with cover, you hit the cover instead.
 
+### Cast
+
+Most spells take a major action to cast. However, some can be can as a minor or quick action, and other might take longer than turn to cast.
+
+The mechanics of casting a spell depends on your spellcasting method.  See [Magic](magic.md) for more.
+
 ## Minor Actions
 
 The most common minor action is to Move, but there are a number of other actions that you can devote a few seconds of your attention to instead.  
