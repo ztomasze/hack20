@@ -66,6 +66,12 @@ Most spells take a major action to cast. However, some can be can as a minor or 
 
 The mechanics of casting a spell depends on your spellcasting method.  See [Magic](magic.md) for more.
 
+### Defend
+
+_Devote your full attention to defending yourself with a combination of dodging, parrying or blocking with a shield._
+
+Until the start of your group's next initiative phase, you gain +4 AC and advantage on DEX saves.  You lose these benefits if you cannot see the incoming attack or damaging effect or if you are immobilized.
+
 ## Minor Actions
 
 The most common minor action is to Move, but there are a number of other actions that you can devote a few seconds of your attention to instead.  

@@ -69,7 +69,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Rage** | Once per scene, you can expend a HD to enter a rage as a minor action. This typically involves appropriate performative acts like roaring, stomping, or biting your shield. While raging, you gain +2 STR, +2 to WIS and CHA saves, and +CON to AC (max: AC17). You cannot cast spells, concentrate, take the Defend action, or perform calm, careful, or focused tasks while raging. Your rage lasts until the end of the scene. It ends early if you fall unconscious, if you choose to end it as a free action, or if you do not make a melee attack or spend a minor action to extend your rage on your turn. | **Level 1** |
 | **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
 | **Spellcasting** | As per a level 1 Spellcaster, you gain a magical tradition and style, but no knack. Your effective level for any spellcasting purpose is 1\. You cannot spend more HD than your spellcasting level on your spellcasting method per day. | **Level 1** |
-| **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: 5, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are paralyzed or incapacitated. | DEX 5+, Acrobatics, or Lightning Reflexes |
+| **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: 5, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | DEX 5+, Acrobatics, or Lightning Reflexes |
 
 <!-- POTENTIAL Talents
 
