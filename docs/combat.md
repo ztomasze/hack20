@@ -25,7 +25,7 @@ You can perform up to one **reaction** per round, which typically occurs in resp
 
 ## Major Actions
 
-A major action is the primary and significant action for your turn. A major action generally require a few seconds of close attention. The most common major actions are listed below, but you can improvise others.
+A major action is the primary and significant action for your turn. A major action generally require a few seconds of close attention. The most common major actions are listed below, but **you can improvise others**.
 
 You may perform a minor action in place of your major action.
 
