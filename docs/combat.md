@@ -72,6 +72,20 @@ _Devote your full attention to defending yourself with a combination of dodging,
 
 Until the start of your group's next initiative phase, you gain +4 AC and advantage on DEX saves.  You lose these benefits if you cannot see the incoming attack or damaging effect or if you are immobilized.
 
+## Use
+
+_Make significant use of an item or object in your environment._
+
+Examples include:
+
+* Use a magical or alchemical item, such as a scroll, wand, potion, etc.
+* Perform a significant operation on an item, such as lighting a torch or emptying a flask.
+* Undertake a significant interaction with the environment, such as picking a lock, cranking a wheel, flipping a heavy table, and shoving the dusty stone top off of a sarcophagus.
+
+Some of these uses (like cranking open a portcullis) might take more than a single Use action to complete.  If the operation is does not require significant time or attention (such as drawing a weapon or piece of ammunition), it might be a lesser action (minor, quick, or even free).
+
+Especially in the time pressure of combat, some significant uses might require an ability check.
+
 ## Minor Actions
 
 The most common minor action is to Move, but there are a number of other actions that you can devote a few seconds of your attention to instead.  
