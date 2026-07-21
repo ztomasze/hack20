@@ -31,7 +31,7 @@ You may perform a minor action in place of your major action.
 
 ### Attack
 
-Make an attack with a weapon.
+_Make an attack with a weapon._
 
 * Roll either STR or DEX, depending on the nature of your weapon (see [Weapons](Equipment.md#weapons)). You must meet or exceed the AC of your target to hit.
 * Ranged attacks are made at disadvantage if an adjacent enemy is currently threatening you with a potential melee attack.
@@ -60,6 +60,8 @@ If you roll a natural 1 that would miss when attacking at a creature with cover,
 
 ### Cast
 
+_Cast a spell or use a spell-like ability._
+
 Most spells take a major action to cast. However, some can be can as a minor or quick action, and other might take longer than turn to cast.
 
 The mechanics of casting a spell depends on your spellcasting method.  See [Magic](magic.md) for more.
@@ -79,6 +81,8 @@ Examples include:
 Or you may perform two quick actions in place of your minor action.
 
 ### Move
+
+_Move from one location to another._
 
 You can move up to your speed over normal terrain, or half this distance if using a different movement mode or traveling over difficult terrain.
 
