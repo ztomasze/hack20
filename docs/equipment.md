@@ -142,8 +142,8 @@ Reloading weapons accurately fire a projectile up to a double measure. You can t
 | **Massive** | d/+d* damage<br>+1 size | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must be a two-handed reloading weapon. If you have a positive STR score, attacks with this weapon deal +d damage. |
 | **One-Handed** | -d damage<br>-1 size | _Light enough to hold and fire with one hand._ <br><br> While you can fire this reloading weapon with one hand, it still requires two hands to load it. |
 | **Reload(free)** | d6 damage | _Load this weapon with ammunition as you fire it._ <br><br> You can draw one piece of ammunition from your quiver as a free action as part of an attack with this weapon. |
-| **Reload(move)** | d8 damage | _Quickly load this weapon with ammunition before you fire it._ <br><br> As a move, you can load this weapon with a piece of ammunition. |
-| **Reload(action)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a action, you can load this weapon with a piece of ammunition. This property typically grants an additional benefit or free property. |
+| **Reload(quick)** | d8 damage | _Quickly load this weapon with ammunition before you fire it._ <br><br> As a quick action, you can load this weapon with a piece of ammunition. |
+| **Reload(minor)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a minor action, you can load this weapon with a piece of ammunition. This property typically grants an additional benefit or free property. |
 | **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired in any village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
 | **Thrown** | d4 damage<br>0.5 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within one measure or at disadvantage up to a double measure. You can carry 2 of these per 1 size. |
@@ -154,17 +154,17 @@ Reloading weapons accurately fire a projectile up to a double measure. You can t
 | :---- | :---- | :---- | :---- | :---- |
 | **Dart** | d4 | 1 | Thrown | throwing knife |
 | **Heavy crossbow** | d10 | 4 | Massive, Reload(action), Special(ignore Massive's STR requirement) | arbalest |
-| **Light crossbow** | d8 | 3 | Reload(move) | |
+| **Light crossbow** | d8 | 3 | Reload(quick) | |
 | **Longbow** | d6/d8\* | 4 | Massive, Reload(free) | |
 | **Shortbow** | d6 | 3 | Reload(free) | |
-| **Sling** | d4 | 1 | One-Handed, Reload(move), Simple, Special(-1 size), Special(you can reload with a medium shield in your offhand) | |
+| **Sling** | d4 | 1 | One-Handed, Reload(quick), Simple, Special(-1 size), Special(you can reload with a medium shield in your offhand) | |
 
 ### Uncommon Ranged Weapons
 
 | Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
-| **Hand crossbow** | d6 | 2 | One-Handed, Reload(move) | |
-| **Staff Sling** | d6 | 4 | Reload(move), Simple, Special(also counts as a staff) | hoopak |
+| **Hand crossbow** | d6 | 2 | One-Handed, Reload(quick) | |
+| **Staff Sling** | d6 | 4 | Reload(quick), Simple, Special(also counts as a staff) | hoopak |
 
 ## Improvised Weapons
 
