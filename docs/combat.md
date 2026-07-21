@@ -23,9 +23,13 @@ You can perform up to one **reaction** per round, which typically occurs in resp
 > * free action = free action
 > * reaction = immediate action (except a reaction does not consume a quick/swift action; more like 5e's reaction)
 
+### Improvising
+
+Specific common examples of each action type are given below, but you can improvise other actions not listed here. The GM will determine its action type (how much time or effort it requires), whether any rolls are required, and its outcome.
+
 ## Major Actions
 
-A major action is the primary and significant action for your turn. A major action generally require a few seconds of close attention. The most common major actions are listed below, but **you can improvise others**.
+A major action is the primary and significant action for your turn. A major action generally require a few seconds of close attention.
 
 You may perform a minor action in place of your major action.
 
@@ -174,7 +178,7 @@ A quick action takes only a second or less of your attention and, at most, a bri
 
 Examples include:
 
-* draw a handy item
+* draw a weapon or other handy item
 * pick up an item
 * stow an item into a pouch or sheath on your belt
 * place an object gently on the ground
