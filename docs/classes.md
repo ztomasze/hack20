@@ -58,7 +58,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Deadly Accuracy** | Expend a HD to add 1d8 (min: 5) to an attack roll. | |
 | **Deadly Damage** | Expend a HD to add 1d8 (min: 5) to damage you deal with a weapon attack. | |
 | **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
-| **Expert** | Gain expertise in two [skills](skills.md) that you have proficiency in. In addition, when you roll a check for a skill you are proficient in, you can expend a HD to turn one of the rolled d20s to a 10. | **Level 1** |
+| **Expert** | Gain expertise in two [skills](skills.md) that you have proficiency in. In addition, when you roll a check for a skill you have expertise in, you can expend a HD to turn one of the rolled d20s to a 10. | **Level 1** |
 | **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | |
 | **Great Fortitude** | Expend a HD to add 1d8 (min: 5) to a STR or CON save. | |
 | **Healing Surge** | As a quick action, expend a HD to regain 1d8 (min: 5) HP. | CON 5+, Athletics, or Great Fortitude |
