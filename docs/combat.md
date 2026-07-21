@@ -72,7 +72,17 @@ _Devote your full attention to defending yourself with a combination of dodging,
 
 Until the start of your group's next initiative phase, you gain +4 AC and advantage on DEX saves.  You lose these benefits if you cannot see the incoming attack or damaging effect or if you are immobilized.
 
-## Use
+### Ready
+
+_Stand ready to perform a major action once the time is right._
+
+Declare a specific major action that you will hold until you perceive a stated trigger. You can interrupt the triggering action if you can perceive it in time; otherwise, you perform your readied action immediately afterward. Performing the readied action uses your reaction.
+
+For example, you can typically interrupt the casting of a spell or an attack with your readied attack. However, if the creature is invisible, you cannot interrupt its attack, although readying may still be valuable so you can immediately attack it back before it has a chance to move from its location.
+
+You can hold a readied action until the start of your group's next initiative phase.  When the triggering event occurs, you can decline to act or decide to keep holding for another instance of the trigger.
+
+### Use
 
 _Make significant use of an item or object in your environment._
 
