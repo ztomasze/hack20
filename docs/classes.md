@@ -53,7 +53,7 @@ The style of swashbucklers, assassins, and rogues.
 | Talent | Effect | Prereq |
 | :---- | :---- | :---- |
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
-| **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a move. If your attack drops your target to 0 HP, you can instead spend your move to make a second attack using the same weapon against another valid target. | **Level 1** |
+| **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a minor action. If your attack drops your target to 0 HP, you can instead spend a minor action to make a second attack using the same weapon against another valid target. | **Level 1** |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
 | **Deadly Accuracy** | Expend a HD to add 1d8 (min: 5) to an attack roll. | |
 | **Deadly Damage** | Expend a HD to add 1d8 (min: 5) to damage you deal with a weapon attack. | |
