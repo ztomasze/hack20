@@ -122,11 +122,11 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 
 | Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
+| **Cane** | 1d6/1d8 | 3 | Simple, Versatile | shillelagh, walking stick |
 | **Greataxe** | 1d10/1d12\* | 4 | Massive, Two-Handed | (greatsword), (maul) |
 | **Greatclub** | d8 | 4 | Simple, Two-Handed | |
 | **Quarterstaff** | 1d8 | 5 | Reach, Simple, Two-Handed | "10-foot" pole |
 | **Sap** | 1d6 | 2 | Special(nonlethal) | |
-| **Shillelagh** | 1d6/1d8 | 3 | Simple, Versatile | walking stick |
 
 ## Ranged Weapons
 
