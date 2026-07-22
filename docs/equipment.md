@@ -153,7 +153,7 @@ Reloading weapons accurately fire a projectile up to a double measure. You can t
 | Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
 | **Dart** | d4 | 1 | Thrown | throwing knife |
-| **Heavy crossbow** | d10 | 4 | Massive, Reload(action), Special(ignore Massive's STR requirement) | arbalest |
+| **Heavy crossbow** | d10 | 4 | Massive, Reload(minor), Special(ignore Massive's STR requirement) | arbalest |
 | **Light crossbow** | d8 | 3 | Reload(quick) | |
 | **Longbow** | d6/d8\* | 4 | Massive, Reload(free) | |
 | **Shortbow** | d6 | 3 | Reload(free) | |
