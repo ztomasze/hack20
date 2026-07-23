@@ -100,6 +100,10 @@ You have a pool of HD equal to your level. You have a single d8 HD at level 1. Y
 
 Unless an effect says otherwise, you can spend more than one HD at a time (rolling them one at a time). Certain effects may allow you to expend HD for other benefits or force you expend HD for no benefit (such as taking exhaustion).
 
+### Wounds
+
+As described under [Adventuring: Wounds](adventuring.md#wounds).
+
 ### Armor Class (AC)
 
 As described under [Equipment: Armor Class](equipment.md#armor-class).

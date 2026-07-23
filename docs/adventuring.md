@@ -10,7 +10,7 @@ Monsters & NPCs typically just die at 0 HP.
 
 ### Wounds
 
-Wounds represent significant bodily injury. If you ever accumulate 10+STR wounds, you die. (Your strength is relevant here because your improved muscle mass helps to absorb damage that would otherwise injure bones or vital organs.)
+Wounds represent significant bodily injury. If you ever accumulate 10+STR wounds, you die. Your strength is relevant here because your muscle mass helps to absorb damage that would otherwise injure bones or vital organs.
 
 You naturally heal 1 wound per long rest.
 
@@ -21,9 +21,18 @@ While you have at least one wound, you suffer a penalty equal to (wounds - CON)(
 * When this wound penalty reaches -4, you are also reduced to half speed.
 * When it reaches -8, you can no longer stand or walk unaided.
 
-### First Aid
+#### Dying
 
-If you suffered one or more wounds within the past hour, a character can spend a scene to make a WIS or INT medicine roll to treat your injuries. You make this roll at disadvantage if you are treating yourself. On a success, you heal 1 wound. Once a first aid attempt has been made, no further attempts can benefit you until you receive another wound.
+When you receive a new wound, you start dying:
+
+* You fall unconscious if you have 0 HP.
+* At the end of your each of your turns, roll a d4:  
+  * On a 1, you gain another wound.
+  * On a 4, you become stable and are no longer dying.
+
+#### First Aid
+
+By taking the Help action, you can make a Medicine(INT or WIS) check to stabilize an adjacent dying creature. Having a healer's kit in your inventory can grant you advantage on this check.
 
 ### Direct Damage
 
