@@ -30,9 +30,9 @@ To compute your AC:
   * A positive DEX score cannot raise your AC above 15.
   * If your DEX score is negative, it reduces your AC only by the amount that it exceeds your (armor's AC - 10). For example, if you are wearing leather armor (AC 12) with -3 DEX, you apply a -1 penalty to your AC, for a total of 11 AC.  If you instead wore ring mail or heavier armor (AC 13 or higher), your AC would not be reduced by DEX.
 
-Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 12 + STR**. If you do not meet this requirement, you are encumbered (physically impaired) and can't cast spells.
+Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 13 + STR**. If you do not meet this requirement, you are encumbered (physically impaired) and can't cast spells.
 
-* For example, if you have -2 STR or less, you cannot wear any armor without penalty. You must have at least +4 STR to wear plate mail, or +6 STR to also carry a metal shield.
+* For example, if you have -3 STR, you cannot wear any armor without penalty. You must have at least +3 STR to wear plate mail, or +5 STR to also carry a metal shield.
 
 ### Armor
 
