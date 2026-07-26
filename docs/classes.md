@@ -175,13 +175,13 @@ When you gain a new level, you:
 
 | Level | Total Hit Dice | Ability Score | Max Ability Score | Warrior | Spellcaster |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **2** | 2d8 | +1 | +5 | Feat (warrior or general) | Feat (spellcaster or general) |
-| **3** | 3d8 | +1 | +5 | Feat (warrior or general) | Spell Tier 2 |
-| **4** | 4d8 | +1 | +6 | Feat (warrior or general) | Feat (spellcaster or general) |
-| **5** | 5d8 | +1 | +6 | Feat (warrior or general) | Spell Tier 3 |
-| **6** | 6d8 | +1 | +7 | Feat (warrior or general) | Feat (spellcaster or general) |
-| **7** | 7d8 | +1 | +7 | Feat (warrior or general) | Spell Tier 4 |
-| **8** | 8d8 | +1 | +8 | Feat (warrior or general) | Feat (spellcaster or general) |
+| **2** | 2d8 | +1 | +5 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
+| **3** | 3d8 | +1 | +5 | **Feat** (warrior or general) | **Spell Tier 2** |
+| **4** | 4d8 | +1 | +6 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
+| **5** | 5d8 | +1 | +6 | **Feat** (warrior or general) | **Spell Tier 3** |
+| **6** | 6d8 | +1 | +7 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
+| **7** | 7d8 | +1 | +7 | **Feat** (warrior or general) | **Spell Tier 4** |
+| **8** | 8d8 | +1 | +8 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
 
 ### Epic Levels
 
