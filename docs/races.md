@@ -107,3 +107,10 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 * Gain proficiency in one skill
 * Gain one general feat.
+
+## Half-Elf
+
+* Gain +1 DEX or +1 CHA.
+* Dimsight: You can see clearly in dim conditions. See Light for details.
+* Fey Ancestry: You have advantage versus charm effects, and magic cannot put you to sleep.
+* Gain proficiency in Perception or Diplomacy.
