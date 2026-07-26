@@ -105,7 +105,7 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 | **Battleaxe** | 1d8/1d10 | 3 | Versatile | (bastard sword) |
 | **Club** | 1d6 | 2 | Simple | cudgel |
 | **Dagger** | 1d4 | 1 | Finesse, Throwable | knife |
-| **Hand Axe** | 1d6 | 1 | Throwable | hatchet, throwing axe |
+| **Handaxe** | 1d6 | 1 | Throwable | hatchet, throwing axe |
 | **Hammer** | 1d4 | 1 | Simple, Throwable | throwing hammer, light hammer |
 | **Javelin** | 1d4/1d6 | 3 | Finesse, Throwable, Versatile | shortspear |
 | **Lance** | 1d10 | 5 | Special(one-handed when mounted), Reach, Two-Handed | |
