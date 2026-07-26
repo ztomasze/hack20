@@ -17,7 +17,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 * Gain +1 CON.
 * Dimsight: You can see clearly in dim conditions. See Light for details.
 * Poison Resistance: You have advantage on saves to resist poison, and you have resistance to poison damage.
-* Sturdy: +2 to the AC limit that you can wear before becoming encumbered.
+* Sturdy: +2 to the AC limit that you can wear before becoming encumbered. See [Equipment: Armor Class](equipment.md#armor-class) for more.
 
 ### Hill Dwarf
 
