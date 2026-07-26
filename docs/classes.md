@@ -48,6 +48,67 @@ The style of swashbucklers, assassins, and rogues.
 | **Rage** | Once per scene, you can expend a HD to enter a rage as a quick action or as a reaction when you take damage. This typically involves appropriate performative acts like roaring, stomping, or biting your shield. While raging, you gain +2 STR, advantage on WIS and CHA saves, and +CON to AC (max: AC17). You cannot cast spells, concentrate, take the Defend action, or perform calm, careful, or focused tasks while raging. Your rage lasts until the end of the scene. It ends early if you fall unconscious, if you choose to end it as a free action, or if you do not make a melee attack or spend a quick action to extend your rage on your turn. |
 | **Spellcasting** | As per a level 1 Spellcaster, you gain a magical tradition and style, but no knack. Your effective level for any spellcasting purpose is 1\. You cannot spend more HD than your spellcasting level on your spellcasting method per day. |
 
+## Spellcaster
+
+### Spellcaster Talents
+
+| Spellcaster Talent | Effect |
+| :---- | :---- |
+
+<!--
+| **Domain Spells** | Work with your GM to define a list of spells, one per tier, that represents your specific arcane school, deity, patron, or other source of magic. You gain each of these spells as an additional spell known when you are able to cast spells of that tier. | |
+
+Feat
+
+Scholar - Gain expertise in two of the following skills: Arcana, History, Nature, Religion | Proficiency |
+* Or is knowledge expertise an INT knack?
+
+| **Turn Undead** | You gain an extra cantrip that is equivalent to the spell Turn the Unholy, but it only affects undead.  If you fail to turn at least one creature when you cast it, you cannot cast it again for the remainder of the scene. | Divine tradition |
+| **Wild Stride** | Gain the Survival class skill. In addition, passing through non-magical vegetation does not reduce your speed. | Nature tradition |
+
+Theurgy - Second tradition
+
+| **Dark Harvest** | When a creature dies within 1M of you, you can gain MAGIC temp HP as a reaction. | |
+| **Soul Burn** | When you draw mana to cast a spell, you can choose to take one or more wounds. Each wound taken this way adds 8 points to your mana pool. | Way (CHA) caster |
+| **Spellbook** | You maintain a record of your swapped spells. Can add scrolls. Cast as adhoc spells.  appearance is up to you.  (As with trappings, your choice may have an impact.) | Word (INT) caster |
+
+Familiar | Arcane or Nature tradition |
+-->
+
+## Feats
+
+**Adding a Hit Die to a roll:** For feats that modify a die roll by expending a HD:
+
+* You can see the results of the roll before you decide whether to expend a HD to add +1d8 (min: 5) to the roll.
+* If you do not already know the DC that you need to meet, you must decide whether to modify the roll before the GM tells you whether you succeed or fail.
+* Expending the HD does not require an additional action.
+* You may expend more than one HD, one at a time, to modify the current roll.
+
+### General Feats
+
+| General Feat | Effect | Prereq |
+| :---- | :---- | :---- |
+| **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
+| **Deadly Accuracy** | Expend a HD to add 1d8 (min: 5) to an attack roll. | |
+| **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
+| **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | |
+| **Great Fortitude** | Expend a HD to add 1d8 (min: 5) to a STR or CON save. | |
+| **Iron Will** | Expend a HD to add 1d8 (min: 5) to a WIS or CHA save. | |
+| **Lightning Reflexes** | Expend a HD to add 1d8 (min: 5) to a DEX save or initiative roll. | |
+| **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
+
+<!--
+SPELLCASTER
+just convert to general - if it's not something a Spellcasting warrior can do, it's a Talent
+
+| **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
+
+Cantrip
+
+Extra Spell known
+
+-->
+
 ### Warrior Feats
 
 See General Feats for an explanation of how to add an expended HD to a roll.
@@ -55,7 +116,6 @@ See General Feats for an explanation of how to add an expended HD to a roll.
 | Warrior Feat | Effect | Prereq |
 | :---- | :---- | :---- |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
-| **Deadly Accuracy** | Expend a HD to add 1d8 (min: 5) to an attack roll. | |
 | **Deadly Damage** | Expend a HD to add 1d8 (min: 5) to damage you deal with a weapon attack. | |
 | **Healing Surge** | As a quick action, expend a HD to regain 1d8 (min: 5) HP. | CON 5+, Athletics, or Great Fortitude |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this talent a maximum of three times, only at (or after) the levels listed. | Spellcasting; Level 3+, 5+, 7+. |
@@ -97,66 +157,6 @@ Sentinel - ability to hit things that try to leave or move past you
 
 -->
 
-## Spellcaster
-
-### Spellcaster Talents
-
-| Spellcaster Feat | Effect |
-| :---- | :---- |
-
-<!--
-| **Domain Spells** | Work with your GM to define a list of spells, one per tier, that represents your specific arcane school, deity, patron, or other source of magic. You gain each of these spells as an additional spell known when you are able to cast spells of that tier. | |
-
-Feat
-
-Scholar - Gain expertise in two of the following skills: Arcana, History, Nature, Religion | Proficiency |
-* Or is knowledge expertise an INT knack?
-
-| **Turn Undead** | You gain an extra cantrip that is equivalent to the spell Turn the Unholy, but it only affects undead.  If you fail to turn at least one creature when you cast it, you cannot cast it again for the remainder of the scene. | Divine tradition |
-| **Wild Stride** | Gain the Survival class skill. In addition, passing through non-magical vegetation does not reduce your speed. | Nature tradition |
-
--->
-
-### Spellcaster Feats
-
-| Spellcaster Feat | Effect | Prereq |
-| :---- | :---- | :---- |
-
-<!--
-| **Dark Harvest** | When a creature dies within 1M of you, you can gain MAGIC temp HP as a reaction. | |
-| **Soul Burn** | When you draw mana to cast a spell, you can choose to take one or more wounds. Each wound taken this way adds 8 points to your mana pool. | Way (CHA) caster |
-| **Spellbook** | You maintain a record of your swapped spells. Can add scrolls. Cast as adhoc spells.  appearance is up to you.  (As with trappings, your choice may have an impact.) | Word (INT) caster |
-| **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
-
-Familiar
-
-Cantrip
-
-Second tradition
-
-Extra Spell known
-
--->
-
-## General Feats
-
-**Adding a Hit Die to a roll:** For feats that modify a die roll by expending a HD:
-
-* You can see the results of the roll before you decide whether to expend a HD to add +1d8 (min: 5) to the roll.
-* If you do not already know the DC that you need to meet, you must decide whether to modify the roll before the GM tells you whether you succeed or fail.
-* Expending the HD does not require an additional action.
-* You may expend more than one HD, one at a time, to modify the current roll.
-
-| General Feat | Effect | Prereq |
-| :---- | :---- | :---- |
-| **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
-| **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
-| **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | |
-| **Great Fortitude** | Expend a HD to add 1d8 (min: 5) to a STR or CON save. | |
-| **Iron Will** | Expend a HD to add 1d8 (min: 5) to a WIS or CHA save. | |
-| **Lightning Reflexes** | Expend a HD to add 1d8 (min: 5) to a DEX save or initiative roll. | |
-| **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
-
 ## Levels
 
 You can purchase a new level by spending 1000 XP during a successful long rest.
@@ -175,13 +175,13 @@ When you gain a new level, you:
 
 | Level | Total Hit Dice | Ability Score | Max Ability Score | Warrior | Spellcaster |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **2** | 2d8 | +1 | +5 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
+| **2** | 2d8 | +1 | +5 | **Feat** (warrior or general) | **Feat** (general) |
 | **3** | 3d8 | +1 | +5 | **Feat** (warrior or general) | **Spell Tier 2** |
-| **4** | 4d8 | +1 | +6 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
+| **4** | 4d8 | +1 | +6 | **Feat** (warrior or general) | **Feat** (general) |
 | **5** | 5d8 | +1 | +6 | **Feat** (warrior or general) | **Spell Tier 3** |
-| **6** | 6d8 | +1 | +7 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
+| **6** | 6d8 | +1 | +7 | **Feat** (warrior or general) | **Feat** (general) |
 | **7** | 7d8 | +1 | +7 | **Feat** (warrior or general) | **Spell Tier 4** |
-| **8** | 8d8 | +1 | +8 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
+| **8** | 8d8 | +1 | +8 | **Feat** (warrior or general) | **Feat** (general) |
 
 ### Epic Levels
 
