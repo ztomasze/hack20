@@ -143,7 +143,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 **Required:** 1 CHA or higher
 
-* Halfling Weapon Training: Gain +1 to attacks made with a sling, staff sling, any Thrown weapon, or any Improvised Throwable weapon. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon. (You can then reroll it again using Lucky.)
+* Halfling Weapon Training: Gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
 * Brave: You have advantage on saves to resist fear.
 * Nimble: Gain proficiency in Acrobatics or Stealth.
 
@@ -151,7 +151,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 **Required:** 1 CON or higher
 
-* Halfling Weapon Training: Gain +1 to attacks made with a sling, staff sling, any Thrown weapon, or any Improvised Throwable weapon. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon. (You can then reroll it again using Lucky.)
+* Halfling Weapon Training: Gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
 * Poison Resistance: You have advantage on saves to resist poison, and you have resistance to poison damage.
 * Robust: Gain advantage on CON saves made against spells and magical effects.
 

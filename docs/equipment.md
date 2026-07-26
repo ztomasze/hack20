@@ -165,6 +165,7 @@ Reloading weapons accurately fire a projectile up to a double measure. You can t
 | :---- | :---- | :---- | :---- | :---- |
 | **Hand crossbow** | d6 | 2 | One-Handed, Reload(quick) | |
 | **Staff Sling** | d6 | 4 | Reload(quick), Simple, Special(also counts as a staff) | hoopak |
+| **Stone** | d3 | 1 | Simple, Thrown | |
 
 ## Improvised Weapons
 
