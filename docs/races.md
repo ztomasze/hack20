@@ -95,7 +95,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 * Dimsight: You can see clearly in dim conditions. See Light for details.
 * Hardy: You have advantage on saves to resist disease or poison.
 
-### Warren-Born
+### Warren-Born Goblin
 
 **Required:** 1 CON or higher
 
@@ -103,7 +103,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 * Bite: You can make an unarmed attack that deals d4 damage.
 * Nimble: Gain proficiency in Acrobatics or Stealth.
 
-### Other
+### Other Goblin
 
 * Gain proficiency in one skill
 * Gain one general feat.
@@ -120,7 +120,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 * Gain +1 STR.
 * Dimsight: You can see clearly in dim conditions. See Light for details.
 
-### Horde-Born
+### Horde-Born Half-Orc
 
 **Required:** 1 CON or higher
 
@@ -128,7 +128,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 * Savage Attack: When you score a critical hit on a melee attack roll, add one roll of the weapon's damage die to the damage dealt.
 * Gain proficiency in Intimidation.
 
-### Other
+### Other Half-Orc
 
 * Gain one general feat.
 * Gain proficiency in one skill.
