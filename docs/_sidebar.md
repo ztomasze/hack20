@@ -3,7 +3,7 @@
 **Players**
 
 * [🎲 Basics](basics.md)
-* 🥸 _Characters_
+* 🥸 [Characters](characters.md)
   * [📊 Stats](stats.md)
   * [😶‍🌫️ Races](races.md)
   * [🎎 Classes](classes.md)
