@@ -107,3 +107,7 @@ As described under [Adventuring: Wounds](adventuring.md#wounds).
 ### Armor Class (AC)
 
 As described under [Equipment: Armor Class](equipment.md#armor-class).
+
+### Experience Points (XP)
+
+These are assigned by the DM for accomplishing significant quests or milestones. You can then spend XP to purchase new [Class: Levels](classes.md#levels).

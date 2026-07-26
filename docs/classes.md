@@ -157,6 +157,44 @@ Extra Spell known
 | **Lightning Reflexes** | Expend a HD to add 1d8 (min: 5) to a DEX save or initiative roll. | |
 | **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
 
+## Levels
+
+You can purchase a new level by spending 1000 XP during a successful long rest.
+
+When you gain a new level, you:
+
+1. **Gain +1 HD**
+1. **Reroll your max HP:** Roll (new level)d8 + CON.
+    * If the result is higher than your current HP max, replace it.
+    * Otherwise, add 1 to your current HP max.
+1. **Gain +1 to one ability score**
+    * You cannot increase an ability score above the max shown in the table below.
+    * Remember to update any derived stats, such as MAGIC or POWER.
+1. Warriors get to learn a feat at every level.
+1. Spellcasters gain access to a new spell tier at odd levels and gain a feat at every even level.
+
+| Level | Total Hit Dice | Ability Score | Max Ability Score | Warrior | Spellcaster |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **2** | 2d8 | +1 | +5 | Feat (warrior or general) | Feat (spellcaster or general) |
+| **3** | 3d8 | +1 | +5 | Feat (warrior or general) | Spell Tier 2 |
+| **4** | 4d8 | +1 | +6 | Feat (warrior or general) | Feat (spellcaster or general) |
+| **5** | 5d8 | +1 | +6 | Feat (warrior or general) | Spell Tier 3 |
+| **6** | 6d8 | +1 | +7 | Feat (warrior or general) | Feat (spellcaster or general) |
+| **7** | 7d8 | +1 | +7 | Feat (warrior or general) | Spell Tier 4 |
+| **8** | 8d8 | +1 | +8 | Feat (warrior or general) | Feat (spellcaster or general) |
+
+### Epic Levels
+
+You can continue to adventure after level 8, you no longer gain class features.  For this reason, epic levels are denoted as 8.1, 8.2, 8.3, etc.
+
+Each time you gain a new epic level:
+
+1. **Reroll your max HP:** Roll 8d8 + CON.
+    * If the result is higher than your current HP max, replace it.
+    * Otherwise, add 1 to your current HP max.
+1. **Gain a d4 HD**
+    * This epic HD does not contribute to your HP, but you can expend it to power character features like feats, talents, or spellcasting.
+
 <!--
 ## Archetypes
 

@@ -10,7 +10,6 @@
   * [🖐️ Skills](skills.md)
   * [🛡️ Equipment](equipment.md)
   * 🎨 _Details_
-  * 📈 _Levels_
 * [⛰️ Adventuring](adventuring.md)
 * [⚔️ Combat](combat.md)
 * [✨ Magic](magic.md)
