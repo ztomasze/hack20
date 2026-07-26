@@ -8,4 +8,6 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 ## Human
 
-* **Talented:** Gain +1 to any two different ability scores.
+* Gain +1 to any one ability score.
+* Gain +1 to a second ability score, gain one general feat, or gain one class feat.
+* Gain proficiency in one skill.
