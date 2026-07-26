@@ -40,8 +40,6 @@ The style of swashbucklers, assassins, and rogues.
 
 ### Warrior Talents
 
-You gain one warrior talent at level 1.
-
 | Warrior Talent | Effect |
 | :---- | :---- |
 | **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a minor action. If your attack drops your target to 0 HP, you can instead spend a minor action to make a second attack using the same weapon against another valid target. |
@@ -51,6 +49,8 @@ You gain one warrior talent at level 1.
 | **Spellcasting** | As per a level 1 Spellcaster, you gain a magical tradition and style, but no knack. Your effective level for any spellcasting purpose is 1\. You cannot spend more HD than your spellcasting level on your spellcasting method per day. |
 
 ### Warrior Feats
+
+See General Feats for an explanation of how to add an expended HD to a roll.
 
 | Warrior Feat | Effect | Prereq |
 | :---- | :---- | :---- |
