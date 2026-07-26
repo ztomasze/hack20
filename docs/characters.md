@@ -5,7 +5,7 @@ To create a new level 1 character:
 1. Determine your [ability scores](stats.md#ability-scores)
 1. Select a [race](race.md) and record its benefits
 1. Select a [class](class.md) and record its benefits
-1. Determine any [color](color.md), including alignment, background, motivation, etc
+1. Determine any [details](details.md), including alignment, background, motivation, etc
 1. Select your [equipment](equipment.md).  You start with:
     * As much armor as you can wear comfortably (as limited by your STR)
     * Up to 25 gp of weapons
