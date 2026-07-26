@@ -42,7 +42,7 @@ The style of swashbucklers, assassins, and rogues.
 
 You gain one warrior talent at level 1.
 
-| Talent | Effect |
+| Warrior Talent | Effect |
 | :---- | :---- |
 | **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a minor action. If your attack drops your target to 0 HP, you can instead spend a minor action to make a second attack using the same weapon against another valid target. |
 | **Expert** | Gain expertise in two [skills](skills.md) that you have proficiency in. In addition, when you roll a check for a skill you have expertise in, you can expend a HD to turn one of the rolled d20s to a 10. |
@@ -52,7 +52,7 @@ You gain one warrior talent at level 1.
 
 ### Warrior Feats
 
-| Talent | Effect | Prereq |
+| Warrior Feat | Effect | Prereq |
 | :---- | :---- | :---- |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
 | **Deadly Accuracy** | Expend a HD to add 1d8 (min: 5) to an attack roll. | |
@@ -96,6 +96,66 @@ Evasion: half damage from area effects provided you are not paralyzed or restrai
 Sentinel - ability to hit things that try to leave or move past you
 
 -->
+
+## Spellcaster
+
+### Spellcaster Talents
+
+| Spellcaster Feat | Effect |
+| :---- | :---- |
+
+<!--
+| **Domain Spells** | Work with your GM to define a list of spells, one per tier, that represents your specific arcane school, deity, patron, or other source of magic. You gain each of these spells as an additional spell known when you are able to cast spells of that tier. | |
+
+Feat
+
+Scholar - Gain expertise in two of the following skills: Arcana, History, Nature, Religion | Proficiency |
+* Or is knowledge expertise an INT knack?
+
+| **Turn Undead** | You gain an extra cantrip that is equivalent to the spell Turn the Unholy, but it only affects undead.  If you fail to turn at least one creature when you cast it, you cannot cast it again for the remainder of the scene. | Divine tradition |
+| **Wild Stride** | Gain the Survival class skill. In addition, passing through non-magical vegetation does not reduce your speed. | Nature tradition |
+
+-->
+
+### Spellcaster Feats
+
+| Spellcaster Feat | Effect | Prereq |
+| :---- | :---- | :---- |
+
+<!--
+| **Dark Harvest** | When a creature dies within 1M of you, you can gain MAGIC temp HP as a reaction. | |
+| **Soul Burn** | When you draw mana to cast a spell, you can choose to take one or more wounds. Each wound taken this way adds 8 points to your mana pool. | Way (CHA) caster |
+| **Spellbook** | You maintain a record of your swapped spells. Can add scrolls. Cast as adhoc spells.  appearance is up to you.  (As with trappings, your choice may have an impact.) | Word (INT) caster |
+| **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
+
+Familiar
+
+Cantrip
+
+Second tradition
+
+Extra Spell known
+
+-->
+
+## General Feats
+
+**Adding a Hit Die to a roll:** For feats that modify a die roll by expending a HD:
+
+* You can see the results of the roll before you decide whether to expend a HD to add +1d8 (min: 5) to the roll.
+* If you do not already know the DC that you need to meet, you must decide whether to modify the roll before the GM tells you whether you succeed or fail.
+* Expending the HD does not require an additional action.
+* You may expend more than one HD, one at a time, to modify the current roll.
+
+| General Feat | Effect | Prereq |
+| :---- | :---- | :---- |
+| **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
+| **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
+| **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | |
+| **Great Fortitude** | Expend a HD to add 1d8 (min: 5) to a STR or CON save. | |
+| **Iron Will** | Expend a HD to add 1d8 (min: 5) to a WIS or CHA save. | |
+| **Lightning Reflexes** | Expend a HD to add 1d8 (min: 5) to a DEX save or initiative roll. | |
+| **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
 
 <!--
 ## Archetypes
