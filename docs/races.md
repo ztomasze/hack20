@@ -11,3 +11,28 @@ Most races include subraces.  While such subraces often include cosmetic physica
 * Gain +1 to any one ability score.
 * Gain +1 to a second ability score, gain one general feat, or gain one class feat.
 * Gain proficiency in one skill.
+
+## Dwarf
+
+* Gain +1 CON.
+* Dimsight: You can see clearly in dim conditions. See Light for details.
+* Poison Resistance: You have advantage on saves to resist poison, and you have resistance to poison damage.
+* Sturdy: +2 to the AC limit that you can wear before becoming encumbered.
+
+### Hill Dwarf
+
+**Required:** 1 WIS or higher
+
+* Stonecunning: You have advantage on checks related to discerning the nature, structure, history, and quality of stonework. You can also discern direction and your approximate depth while underground.
+* Robust: Gain advantage on CON saves made against spells and magical effects.
+
+### Mountain Dwarf
+
+**Required:** 1 STR or higher
+
+* Stonecunning: You have advantage on checks related to discerning the nature, structure, history, and quality of stonework. You can also discern direction and your approximate depth while underground.
+* Dwarven Weapon Training: Gain +1 to attacks made with a handaxe, battleaxe, hammer, or warhammer. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+
+### Other Dwarf
+
+* Gain proficiency in one skill.
