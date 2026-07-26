@@ -87,3 +87,23 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ### Other Gnome
 
 * Gain proficiency in one skill.
+
+## Goblin
+
+* Gain +1 DEX.
+* Small: -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
+* Dimsight: You can see clearly in dim conditions. See Light for details.
+* Hardy: You have advantage on saves to resist disease or poison.
+
+### Warren-Born
+
+**Required:** 1 CON or higher
+
+* Darkvision: You can see up to 2 measures (2M) through darkness.
+* Bite: You can make an unarmed attack that deals d4 damage.
+* Nimble: Gain proficiency in Acrobatics or Stealth.
+
+### Other
+
+* Gain proficiency in one skill
+* Gain one general feat.
