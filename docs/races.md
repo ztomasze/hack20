@@ -132,3 +132,30 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 * Gain one general feat.
 * Gain proficiency in one skill.
+
+## Halfling
+
+* Gain +1 DEX.
+* Small: -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
+* Lucky: Reroll (once) any natural 1 on a check, attack, or save roll.
+
+### Lightfoot Halfling
+
+**Required:** 1 CHA or higher
+
+* Halfling Weapon Training: Gain +1 to attacks made with a sling, staff sling, any Thrown weapon, or any Improvised Throwable weapon. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon. (You can then reroll it again using Lucky.)
+* Brave: You have advantage on saves to resist fear.
+* Nimble: Gain proficiency in Acrobatics or Stealth.
+
+### Stout Halfling
+
+**Required:** 1 CON or higher
+
+* Halfling Weapon Training: Gain +1 to attacks made with a sling, staff sling, any Thrown weapon, or any Improvised Throwable weapon. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon. (You can then reroll it again using Lucky.)
+* Poison Resistance: You have advantage on saves to resist poison, and you have resistance to poison damage.
+* Robust: Gain advantage on CON saves made against spells and magical effects.
+
+### Other Halfling
+
+* Gain one general feat.
+* Gain proficiency in one skill.
