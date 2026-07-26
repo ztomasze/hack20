@@ -114,3 +114,21 @@ Most races include subraces.  While such subraces often include cosmetic physica
 * Dimsight: You can see clearly in dim conditions. See Light for details.
 * Fey Ancestry: You have advantage versus charm effects, and magic cannot put you to sleep.
 * Gain proficiency in Perception or Diplomacy.
+
+## Half-Orc
+
+* Gain +1 STR.
+* Dimsight: You can see clearly in dim conditions. See Light for details.
+
+### Horde-Born
+
+**Required:** 1 CON or higher
+
+* Darkvision: You can see up to 2 measures (2M) through darkness.
+* Savage Attack: When you score a critical hit on a melee attack roll, add one roll of the weapon's damage die to the damage dealt.
+* Gain proficiency in Intimidation.
+
+### Other
+
+* Gain one general feat.
+* Gain proficiency in one skill.
