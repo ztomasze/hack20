@@ -18,6 +18,9 @@
   font-weight: bold;
   color: black;
 }
+.markdown-section h3 {
+  font-size: 1.4rem;
+}
 
 .markdown-section em {
   color: #2c3e50;
