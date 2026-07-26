@@ -90,7 +90,7 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 | Property | Adjustments | Description |
 | :---- | :---- | :---- |
 | **Finesse** | -d damage | _Prized more for its precision than its damage._ <br><br> You can choose to use DEX in place of STR when making an attack roll with this weapon. |
-| **Massive** | d/+d* damage | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must have the Two-Handed property and no other properties except Simple or Special. If you have a positive STR score, attacks with this weapon deal +d damage. |
+| **Massive** | d/+d* damage<br>+1 size | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must have the Two-Handed property and no other properties except Simple or Special. If you have a positive STR score, attacks with this weapon deal +d damage. |
 | **Reach** | +1 size | _Can attack targets a couple steps away._ <br><br> You may also be able attack over short allies or between allies in front of you. You can ready this weapon to hit a charging creature before they can touch you (if they don't also have reach). |
 | **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired even in a village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
@@ -123,8 +123,8 @@ The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
 | Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
 | **Cane** | 1d6/1d8 | 3 | Simple, Versatile | shillelagh, walking stick |
-| **Greataxe** | 1d10/1d12\* | 4 | Massive, Two-Handed | (greatsword), (maul) |
-| **Greatclub** | d8 | 4 | Simple, Two-Handed | |
+| **Greataxe** | 1d10/1d12\* | 5 | Massive, Two-Handed | (greatsword), (maul) |
+| **Greatclub** | 1d8/1d10\* | 5 | Massive, Simple, Two-Handed | |
 | **Quarterstaff** | 1d8 | 5 | Reach, Simple, Two-Handed | "10-foot" pole |
 | **Sap** | 1d6 | 2 | Special(nonlethal) | |
 
