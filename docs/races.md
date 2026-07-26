@@ -36,3 +36,30 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ### Other Dwarf
 
 * Gain proficiency in one skill.
+
+## Elf
+
+* Gain +1 DEX.
+* Delicate: -1 CON.
+* Dimsight: You can see clearly in dim conditions. See Light for details.
+* Fey Ancestry: You have advantage versus charm effects, and magic cannot put you to sleep.
+* Keen Senses: Gain proficiency in Perception.
+
+### High Elf
+
+**Required:** 1 INT or higher
+
+* Elven Weapon Training: Gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+* Gain proficiency in Arcana or History or gain one cantrip selected from the Arcane tradition using INT to cast it.
+
+### Wood Elf
+
+**Required:** 1 WIS or higher
+
+* Elven Weapon Training: Gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+* Gain proficiency in Stealth or Survival or gain one cantrip selected from the Druid tradition using WIS to cast it.
+
+### Other Elf
+
+* Gain proficiency in one skill.
+* Gain one cantrip using INT, WIS, or CHA to cast it.
