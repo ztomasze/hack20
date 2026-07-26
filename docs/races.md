@@ -63,3 +63,27 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 * Gain proficiency in one skill.
 * Gain one cantrip using INT, WIS, or CHA to cast it.
+
+## Gnome
+
+* Gain +1 INT.
+* Small: -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
+* Dimsight: You can see clearly in dim conditions. See Light for details.
+* Mental Resilience: Gain advantage on INT, WIS, or CHA saves made against spells and magical effects, as well as INT checks made to discern illusions.
+
+### Forest Gnome
+
+**Required:** 1 DEX or higher
+
+* Gain one cantrip selected from Dancing Lights, Minor Illusion, Prestidigitation, or Speak With Animals.
+
+### Rock Gnome
+
+**Required:** 1 CON or higher
+
+* Gain proficiency in Arcana or Technology or gain the Prestidigitation cantrip.
+* Gain the Alchemy or Artifice knack.
+
+### Other Gnome
+
+* Gain proficiency in one skill.
