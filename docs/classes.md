@@ -79,22 +79,22 @@ Familiar | Arcane or Nature tradition |
 
 **Adding a Hit Die to a roll:** For feats that modify a die roll by expending a HD:
 
-* You can see the results of the roll before you decide whether to expend a HD to add +1d8 (min: 5) to the roll.
-* If you do not already know the DC that you need to meet, you must decide whether to modify the roll before the GM tells you whether you succeed or fail.
-* Expending the HD does not require an additional action.
-* You may expend more than one HD, one at a time, to modify the current roll.
+* You may see the results of the d20 or damage roll before you decide whether use the feat modify that roll with a HD. If you do not already know the DC that you need to meet, you must decide whether to modify the roll before the GM tells you whether you succeed or fail.
+* To modify the roll, roll one unexpended HD and add it to the roll result. If the HD's result is a 7 or 8, the HD is expended.
+* You may only add the result of a single HD to a roll.
+* Modifying the roll with an HD in this way does not require an additional action.
 
 ### General Feats
 
 | General Feat | Effect | Prereq |
 | :---- | :---- | :---- |
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
-| **Deadly Accuracy** | Expend a HD to add 1d8 (min: 5) to an attack roll. | |
+| **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 7 or 8. | |
 | **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
 | **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | |
-| **Great Fortitude** | Expend a HD to add 1d8 (min: 5) to a STR or CON save. | |
-| **Iron Will** | Expend a HD to add 1d8 (min: 5) to a WIS or CHA save. | |
-| **Lightning Reflexes** | Expend a HD to add 1d8 (min: 5) to a DEX save or initiative roll. | |
+| **Great Fortitude** | Add one HD to a STR or CON save. The HD is expended on a 7 or 8. | |
+| **Iron Will** | Add a HD to a WIS or CHA save. The HD is expended on a 7 or 8. | |
+| **Lightning Reflexes** | Add a HD to a DEX save or initiative roll. The HD is expended on a 7 or 8. | |
 | **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
 
 <!--
@@ -115,11 +115,11 @@ Extra Spell known
 | :---- | :---- | :---- |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
 | **Burly** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your AC (max: AC13) before adding your DEX or shield AC. | |
-| **Deadly Damage** | Expend a HD to add 1d8 (min: 5) to damage you deal with a weapon attack. | |
-| **Healing Surge** | As a quick action, expend a HD to regain 1d8 (min: 5) HP. | CON 5+, Athletics, or Great Fortitude |
+| **Deadly Damage** | Add a HD to the damage you deal with a weapon attack. The HD is expended on a 7 or 8. | |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. |
 | **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty |
-| **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: 5, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | DEX 5+, Acrobatics, or Lightning Reflexes |
+| **Second Wind** | Once per scene, as a quick action, expend a HD to regain 1d8 (min: CON) HP. | Athletics or Great Fortitude |
+| **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: DEX, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | Acrobatics or Lightning Reflexes |
 
 <!-- POTENTIAL warrior feats
 
