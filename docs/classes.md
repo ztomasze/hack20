@@ -114,11 +114,11 @@ Extra Spell known
 | Warrior Feat | Effect | Prereq |
 | :---- | :---- | :---- |
 | **Brawler** | Your unarmed attack deals d4 damage (+2d) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal 2d4 damage. | |
+| **Burly** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your AC (max: AC13) before adding your DEX or shield AC. | |
 | **Deadly Damage** | Expend a HD to add 1d8 (min: 5) to damage you deal with a weapon attack. | |
 | **Healing Surge** | As a quick action, expend a HD to regain 1d8 (min: 5) HP. | CON 5+, Athletics, or Great Fortitude |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. |
 | **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty |
-| **Rugged** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your AC (max: AC13) before adding your DEX or shield AC. | |
 | **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: 5, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | DEX 5+, Acrobatics, or Lightning Reflexes |
 
 <!-- POTENTIAL warrior feats
