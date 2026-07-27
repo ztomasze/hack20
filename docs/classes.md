@@ -183,14 +183,14 @@ When you gain a new level, you:
 
 ### Epic Levels
 
-You can continue to adventure after level 8, you no longer gain class features.  For this reason, epic levels are denoted as 8.1, 8.2, 8.3, etc.
+You can continue to adventure after level 8. However, you no longer gain class features.  For this reason, epic levels are denoted as 8.1, 8.2, 8.3, etc.
 
 Each time you gain a new epic level:
 
 1. **Reroll your max HP:** Roll 8d8 + CON.
     * If the result is higher than your current HP max, replace it.
     * Otherwise, add 1 to your current HP max.
-1. **Gain a d4 HD**
+1. **Gain +1 HD**
     * This epic HD does not contribute to your HP, but you can expend it to power character features like feats, talents, or spellcasting.
 
 <!--

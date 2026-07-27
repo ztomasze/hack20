@@ -220,7 +220,7 @@ While guidance may be found on how to contact such a being and gain its power, a
 As you start to cast the spell, roll an unexpended HD to see how many points of mana you draw:
 
 * Once you have drawn sufficient mana, you successfully cast the spell.  Any excess mana is harmlessly dispersed.
-* If you a roll a 7 or 8 on the HD (or a 4 on an epic level d4 HD), that HD is expended.
+* If you a roll a 7 or 8 on the HD, that HD is expended.
 * If you do not yet have enough mana, you can roll an unexpended HD again and add its result to your growing mana pool. Repeat until you have enough mana to cast the spell.
 * If the first two HD rolls of a casting attempt are both 1s, you suffer a mishap. (See below.)
 * If you expend your last HD before you accumulate enough mana, you fail to cast the spell and your casting action is wasted.
