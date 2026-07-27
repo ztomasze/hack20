@@ -175,7 +175,7 @@ Examples:
 
 | Makeshift Weapons | Damage | Properties |
 | :---- | :---- | :---- |
-| **One-handed:** sharp bone, frying pan, broken sword, rolling ping, table leg | d4 | Improvised, Melee |
+| **One-handed:** sharp bone, frying pan, broken sword, rolling pin, table leg | d4 | Improvised, Melee |
 | **Two-handed:** chair, barstool | d6 | Improvised, Melee, Two-Handed |
 | **Throwable:** rock, throwing a longsword | d3 | Improvised, Melee, Throwable |
 
