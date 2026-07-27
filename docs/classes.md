@@ -118,7 +118,7 @@ Extra Spell known
 | **Healing Surge** | As a quick action, expend a HD to regain 1d8 (min: 5) HP. | CON 5+, Athletics, or Great Fortitude |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. |
 | **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty |
-| **Rugged** | Add your STR to your HP. In addition, when you wear no armor, you have a base AC equal to 10+min(STR, CON), max: 14. As with AC from armor, you may potentially add DEX or shield AC to this. | |
+| **Rugged** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your AC (max: AC13) before adding your DEX or shield AC. | |
 | **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: 5, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | DEX 5+, Acrobatics, or Lightning Reflexes |
 
 <!-- POTENTIAL warrior feats
