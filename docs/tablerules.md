@@ -32,6 +32,12 @@ This leaves the door open for the wild magic barbarian trope.
 
 ### Attack
 
+#### Critical Hit
+
+> If you roll max damage, a crit grants you +1 damage.
+
+Since it generally speeds play to roll damage dice along with the attack dice, this rule prevents the disappointment of your crit effectively "doing nothing" if you happen to have already rolled max damage.
+
 #### Cover
 
 > A reach weapon doesn't deal damage to an intervening creature on a nat 1 that strikes cover, but it does impose a bane as you knock that creature aside with the haft of the weapon.
