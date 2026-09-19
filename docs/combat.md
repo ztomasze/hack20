@@ -19,7 +19,7 @@ You can perform up to one **reaction** per round, which typically occurs in resp
 >
 > * major action = standard action
 > * minor action = move or move-equivalent action
-> * quick action = swift action (except you can perform more than one per turn; more like 5e's object interaction)
+> * quick action = swift action (except it is possible to perform more than one per turn; more like 5e's object interaction)
 > * free action = free action
 > * reaction = immediate action (except a reaction does not consume a quick/swift action; more like 5e's reaction)
 
@@ -40,7 +40,7 @@ _Make an attack with a weapon._
 * Roll either STR or DEX, depending on the nature of your weapon (see [Weapons](Equipment.md#weapons)). You must meet or exceed the AC of your target to hit.
 * Ranged attacks are made at disadvantage if an adjacent enemy is currently threatening you with a potential melee attack.
 * On a success (hit), roll your weapon damage die and deal that amount to your target. Some class features let you add to this damage.
-* Regardless of AC, a natural 20 always hits and a natural 1 always misses.  If a natural 20 would already hit, you deal max damage.
+* Regardless of AC, a natural 20 always hits and a natural 1 always misses.  If a natural 20 would already hit, score a critical hit and deal max damage.
 
 #### Concealment
 

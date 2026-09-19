@@ -186,7 +186,7 @@ If the item is particularly unwieldy, you might also suffer disadvantage on atta
 You can make a nonlethal attack with making an improvised weapon attack with a weapon that doesn't draw blood.
 
 * For example, you could attack with a club, the pommel or haft of your weapon, the flat of your blade, or with a weapon that is padded or sheathed.
-* You can't non-lethally stab someone with a rapier or shoot them with an arrow (but you might carry arrows tipped with dull lead for this purpose).
+* You can't non-lethally stab someone with a rapier or shoot them with an arrow (but you might carry arrows tipped with dull lead or hard rubber for this purpose).
 
 If a creature is reduced to 0 HP by a nonlethal attack, they fall unconscious but do not take any wounds or die from that attack.
 
