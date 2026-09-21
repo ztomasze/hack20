@@ -143,13 +143,14 @@ There are 24 hours in a **day**.  If a clear ending point is needed for a magica
 
 ### Step & Measure
 
-Distances are defined around an abstract distance called a measure.  One **measure** (1M) is the distance a humanoid can move over clear ground and still attack, the accurate range of a thrown weapon, and the radius of illumination of a burning torch.
+Distances are defined around an abstract standard distance called a measure.  One **measure** (1M) is the distance a humanoid can move over clear ground and still attack, the accurate range of a thrown weapon, and the radius of illumination of a burning torch.
 
 This standard measure can be translated to other representations as needed:
 
 * **Feet:** A measure is about 30' in the game world.
 * **Map Inches:** A measure is about 6" on the battle map.  This generally translates to 6 squares or 6 hexes, depending on the grid used. On a gridless map (which is recommended), the GM adjudicates distances. One "inch" on a gridless map is approximately the width of a miniature's token or base.
 * **Range descriptors:** Anything within one measure of you is Near to you.
+* **Zones:** A measure is the distance across one zone or between two zones.
 
 For short distances, a **step** is used. One **step** away is how far you can reach out and touch or strike with a melee weapon.
 
@@ -157,9 +158,10 @@ For short distances, a **step** is used. One **step** away is how far you can re
 
 Nearly all game effects will use one of these ranges.
 
-| Measure | Abbr. | Descriptor | Description | ~Feet | Map Inches |
+| Measure | Abbr. | Descriptor | Description | Feet | Map Inches |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **step** | 1S | Adjacent (melee, touch) | Close enough to reach out and touch; a step away. Melee attack range. A &frac14;M rounds down to a step. | Up to 5' | 1" |
+| **step** | 1S | Adjacent (melee, touch) | Close enough to reach out and touch; a step away. Melee attack range. | Up to 5' | 1" |
+| **quarter measure** | &frac14;M | (reach) | A reach weapon; more than a step but less than two (rounding to either 1S or 2S depending on context). | 7.5' | 1.5" |
 | **half measure** | &half;M | Close | How far you can normally move over difficult terrain; two to four steps away; other things in the same small room as you. Candlelight. | 15'  (10' to 20') | 3" |
 | (full) **measure** | 1M | Near | How far you can travel with one Move over normal ground. Accurate throwing range. Torchlight; candlelight \+ dimsight. | 30'  (25' to 45') | 6" |
 | **double measure** | 2M | Far | How far you can travel in one turn with two Moves over normal ground. Max throwing distance with disadvantage. Accurate shooting range. Torchlight \+ dimsight. | 60'  (50' to 85') | 12" |
