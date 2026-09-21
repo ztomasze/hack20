@@ -197,7 +197,7 @@ Examples include:
 * drop prone
 * end concentration on a spell
 * speak a sentence or two without waiting for a reply, such as issuing a command or making a request
-* draw a piece of ammunition as part of attacking with it or loading it into your weapon
+* draw a piece of ammunition or thrown ranged weapon as part of attacking with it or loading it into your weapon
 
 ## Reactions
 

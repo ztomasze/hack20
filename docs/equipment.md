@@ -55,10 +55,10 @@ See _Weapons_ for more on size.
 
 | Shield | +AC | Cost (gp) | Type | Size | Special rules |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Buckler** | \+1 | 5 | Light | 1 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, but not offhand or two-handed melee attacks. |
-| **Wooden** | \+1* | 10 | Medium | 2 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
-| **Metal** | \+2 | 20 | Medium | 3 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
-| **Tower** | \+4 | 30 | Heavy | 4 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
+| **Buckler** | \+1 | 5 | Light | 2 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, but not offhand or two-handed melee attacks. |
+| **Wooden** | \+1* | 10 | Medium | 3 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
+| **Metal** | \+2 | 20 | Medium | 4 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
+| **Tower** | \+4 | 30 | Heavy | 5 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
 
 ## Weapons
 
@@ -76,57 +76,59 @@ Some of the most common fantasy medieval weapons are provided as samples of appl
 
 ### Weapon Size
 
-To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 5 (a polearm).  Characters can generally carry a total weapon size value around 8 or 9, but again, the specifics matter.  For example, carrying a polearm in hand with a longsword sheathed on one hip and a dagger on the other (8 total WS) feels reasonable. However, carrying four longswords (also 8 total WS) strapped to you in an readily accessible way does not feel as reasonable.
+To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 6 (a polearm).  Characters can generally carry a total weapon size value around 10 to 12, although the specifics matter.
 
 As further general guidance:
 
-* You can typically comfortably manage only one item of 4+ weapon size.
-* Reach weapons of size 5 need to be carried in hand; they are too long to sheathe or strap to you.  (You might carry an bit of rope to tie it your belt to dangle while climbing, though.)
+* You can typically comfortably manage only one item of 4+ weapon size, and you can't carry more than two.
+* Weapons of size 6 need to be carried in hand; they are too long or unwieldy to sheathe or strap to you.  (You might carry an bit of rope to tie it your belt to dangle below you while climbing, though.)
 
 ## Melee Weapons
 
-The default melee weapon is a one-handed weapon of size 2 that deals d8 damage.
+The default melee weapon is a one-handed weapon of size 3 that deals d8 damage.
 
 | Property | Adjustments | Description |
 | :---- | :---- | :---- |
-| **Finesse** | -d damage | _Prized more for its precision than its damage._ <br><br> You can choose to use DEX in place of STR when making an attack roll with this weapon. |
+| **Finesse** | -d damage<br>-1 size | _Prized more for its precision than its damage._ <br><br> You can choose to use DEX in place of STR when making an attack roll with this weapon. |
 | **Massive** | d/+d* damage<br>+1 size | _With enough force behind it, this heavy weapon is devastating._ <br><br> Must have the Two-Handed property and no other properties except Simple or Special. If you have a positive STR score, attacks with this weapon deal +d damage. |
 | **Reach** | +1 size | _Can attack targets a couple steps away._ <br><br> You may also be able attack over short allies or between allies in front of you. You can ready this weapon to hit a charging creature before they can touch you (if they don't also have reach). |
-| **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired even in a village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
+| **Simple** | -d damage<br>-1 size (soft) | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired even in a village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. (Size is reduced only if not already reduced by another property.) |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
 | **Throwable** | -d damage<br>-1 size | _Lighter and balanced for effective throwing._ <br><br> You can throw this weapon to make a STR-based ranged attack. Roll normally if the target is within one measure or at disadvantage up to a double measure. |
-| **Two-Handed** | +d damage<br>size 4 (min) | _A large heavy weapon._ <br><br> You must use both hands to wield this weapon. |
-| **Versatile** | size 3 (min) | _A large but balanced weapon that can be used effectively with either one hand or two._ <br><br> If you wield this weapon with both hands, it deals +d damage. |
+| **Two-Handed** | +d damage<br>min size 5 | _A large heavy weapon._ <br><br> You must use both hands to wield this weapon. |
+| **Versatile** | min size 4 | _A large but balanced weapon that can be used effectively with either one hand or two._ <br><br> If you wield this weapon with both hands, it deals +d damage. (A versatile weapon that has at least one _-d size_ property can sometimes be light, which is min size 3.) |
 
 ### Common Melee Weapons
 
+Equivalent weapons listed in parentheses are of a different general type (such as an axe rather than a sword), but are the same mechanically.
+
 | Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
-| **Battleaxe** | 1d8/1d10 | 3 | Versatile | (bastard sword) |
+| **Battleaxe** | 1d8/1d10 | 4 | Versatile | (bastard sword) |
 | **Club** | 1d6 | 2 | Simple | cudgel |
 | **Dagger** | 1d4 | 1 | Finesse, Throwable | knife |
-| **Handaxe** | 1d6 | 1 | Throwable | hatchet, throwing axe |
-| **Hammer** | 1d4 | 1 | Simple, Throwable | throwing hammer, light hammer |
-| **Javelin** | 1d4/1d6 | 3 | Finesse, Throwable, Versatile | shortspear |
-| **Lance** | 1d10 | 5 | Special(one-handed when mounted), Reach, Two-Handed | |
-| **Longsword** | 1d8 | 2 | | broadsword, falchion, knightly arming sword, sabre, scimitar |
-| **Mace** | 1d8 | 2 | | military flail, morningstar, war pick |
-| **Polearm** | 1d10 | 5 | Reach, Two-Handed | glaive, longspear, halberd, pike, poleaxe, ranseur, etc |
+| **Handaxe** | 1d6 | 2 | Throwable | hatchet, throwing axe |
+| **Hammer** | 1d4 | 2 | Simple, Throwable | throwing hammer, light hammer |
+| **Javelin** | 1d4/1d6 | 3 | Finesse, Throwable, Versatile (light) | shortspear |
+| **Lance** | 1d10 | 6 | Reach, Two-Handed, Special(one-handed when mounted) | |
+| **Longsword** | 1d8 | 3 | | broadsword, falchion, knightly arming sword, sabre, scimitar |
+| **Mace** | 1d8 | 3 | | military flail, morningstar, war pick |
+| **Polearm** | 1d10 | 6 | Reach, Two-Handed | glaive, longspear, halberd, pike, poleaxe, ranseur, etc |
 | **Shortsword** | 1d6 | 2 | Finesse | cutlas, dirk, kukri, rapier, sai, seax |
-| **Spear** | 1d6/1d8 | 4 | Throwable, Versatile, Special(+1 size) | trident |
-| **Staff** | 1d4/1d6 | 4 | Finesse, Simple, Versatile, Special(+1 size) | bo stick |
-| **Two-handed sword** | 1d10 | 4 | Two-Handed | (bardiche), claymore |
-| **Warhammer** | 1d8/1d10 | 3 | Versatile | horseman's pick |
+| **Spear** | 1d6/1d8 | 4 | Throwable, Versatile | trident |
+| **Staff** | 1d4/1d6 | 4 | Finesse, Simple, Versatile | bo stick |
+| **Two-handed sword** | 1d10 | 5 | Two-Handed | (bardiche), claymore |
+| **Warhammer** | 1d8/1d10 | 4 | Versatile | horseman's pick |
 
 ### Uncommon Melee Weapons
 
 | Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
-| **Cane** | 1d6/1d8 | 3 | Simple, Versatile | shillelagh, walking stick |
-| **Greataxe** | 1d10/1d12\* | 5 | Massive, Two-Handed | (greatsword), (maul) |
+| **Cane** | 1d6/1d8 | 3 | Simple, Versatile (light) | shillelagh, walking stick |
+| **Greataxe** | 1d10/1d12\* | 6 | Massive, Two-Handed | (greatsword), (maul) |
 | **Greatclub** | 1d8/1d10\* | 5 | Massive, Simple, Two-Handed | |
 | **Quarterstaff** | 1d8 | 5 | Reach, Simple, Two-Handed | "10-foot" pole |
-| **Sap** | 1d6 | 2 | Special(nonlethal) | |
+| **Sap** | 1d6 | 2 | Finesse, Special(nonlethal) | |
 
 ## Ranged Weapons
 
@@ -144,9 +146,9 @@ Reloading weapons accurately fire a projectile up to a double measure. You can t
 | **Reload(free)** | d6 damage | _Load this weapon with ammunition as you fire it._ <br><br> You can draw one piece of ammunition from your quiver as a free action as part of an attack with this weapon. |
 | **Reload(quick)** | d8 damage | _Quickly load this weapon with ammunition before you fire it._ <br><br> As a quick action, you can load this weapon with a piece of ammunition. |
 | **Reload(minor)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a minor action, you can load this weapon with a piece of ammunition. This property typically grants an additional benefit or free property. |
-| **Simple** | -d damage | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired in any village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. |
+| **Simple** | -d damage<br>-1 size | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired in any village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. (Size is reduced only if not already reduced by another property.) |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
-| **Thrown** | d4 damage<br>0.5 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within one measure or at disadvantage up to a double measure. You can carry 2 of these per 1 size. |
+| **Thrown** | d4 damage<br>1 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within one measure or at disadvantage up to a double measure. |
 
 ### Common Ranged Weapons
 
@@ -157,7 +159,7 @@ Reloading weapons accurately fire a projectile up to a double measure. You can t
 | **Light crossbow** | d8 | 3 | Reload(quick) | |
 | **Longbow** | d6/d8\* | 4 | Massive, Reload(free) | |
 | **Shortbow** | d6 | 3 | Reload(free) | |
-| **Sling** | d4 | 1 | One-Handed, Reload(quick), Simple, Special(-1 size), Special(you can reload with a medium shield in your offhand) | |
+| **Sling** | d4 | 2 | One-Handed, Reload(quick), Simple, Special(you can reload with a medium shield in your offhand) | |
 
 ### Uncommon Ranged Weapons
 
