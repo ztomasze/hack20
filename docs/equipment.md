@@ -205,8 +205,8 @@ If a creature is reduced to 0 HP by a nonlethal attack, they fall unconscious bu
 
 When you have no weapon in hand, you can still attack unarmed.
 
-| Unarmed attacks | Damage | Properties |
-| :---- | :---- | :---- |
-| punch, kick, choking | d2 | Melee, Special(nonlethal) |
-| metal gauntlet or buckler | d2 | Melee |
-| spiked gauntlet or buckler, cestus | d3 | Melee |
+| Unarmed attacks | Damage | Size | Properties |
+| :---- | :---- | :---- | :---- |
+| punch, kick, choking | d2 | 0 | Melee, Special(nonlethal) |
+| metal gauntlet or buckler | 0 | d2 | Melee |
+| spiked gauntlet or buckler, cestus | 1 | d3 | Melee |

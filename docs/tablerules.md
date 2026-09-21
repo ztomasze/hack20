@@ -41,3 +41,9 @@ Since it generally speeds play to roll damage dice along with the attack dice, t
 #### Cover
 
 > A reach weapon doesn't deal damage to an intervening creature on a nat 1 that strikes cover, but it does impose a bane as you knock that creature aside with the haft of the weapon.
+
+#### Two-Weapon Fighting
+
+> If you have the Dual Wielder feat and wield a staff in two hands, you can use each end of it to two-weapon fight as per two daggers.  With a quarterstaff, as per two short swords.
+
+This grants another common form of two weapon fighting and recalls 3.5e's double weapons.

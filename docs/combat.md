@@ -62,6 +62,15 @@ If one or more obstacles obscure the majority of your target, such that you can 
 
 If you roll a natural 1 that would miss when attacking at a creature with cover, you hit the cover instead.
 
+#### Two-Weapon Fighting
+
+When you Attack while wielding a weapon in each hand, you can use your offhand weapon to make one extra attack. If you choose to do this:
+
+* All attacks made with your primary weapon this turn are made at a -2 penalty.
+* You can make one extra attack this turn as a free action using your offhand weapon at a -4 penalty.
+* If your two weapons together have a total weapons size greater than 4, you are at a further -2 penalty to all weapon attacks this turn (to -4/-6).
+* If you wield matching weapons with a total weapon size is 2 or less (such as two daggers or two fists), your penalties are reduced by 2 (to -0/-2).
+
 ### Cast
 
 _Cast a spell or use a spell-like ability._
