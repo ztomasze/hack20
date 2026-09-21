@@ -157,7 +157,7 @@ Reloading weapons accurately fire a projectile up to a double measure. You can t
 | **Reload(minor)** | d8 damage | _Slowly load this weapon with ammunition before you fire it._ <br><br> As a minor action, you can load this weapon with a piece of ammunition. This property typically grants an additional benefit or free property. |
 | **Simple** | -d damage<br>-1 size | _Readily available tools that can serve as basic weapons._ <br><br> A crude but functional version of this weapon can be crafted for free or acquired in any village for mere copper pieces. This weapon can pass as a tool where weapons are forbidden. (Size is reduced only if not already reduced by another property.) |
 | **Special** | ? | _An unusual weapon._ <br><br> This weapon has custom rules or effects (as stated for the specific weapon). |
-| **Thrown** | d4 damage<br>1 size | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within one measure or at disadvantage up to a double measure. |
+| **Thrown** | d4 damage<br>size 1 | _Thrown rather than fired._ <br><br> Throw this weapon with one hand to make a DEX-based ranged attack. Roll normally if the target is within one measure or at disadvantage up to a double measure. |
 
 ### Common Ranged Weapons
 
