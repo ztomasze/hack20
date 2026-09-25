@@ -45,7 +45,7 @@ To make a single attack:
 * Ranged attacks are made at disadvantage if an adjacent enemy is currently threatening you with a potential melee attack.
 * You must meet or exceed the AC of your target to hit with your attack.
 * On a success (hit), roll your weapon damage die and deal that amount to your target. Some class features--particularly [fighting styles](classes.md#fighting-styles)--let you add to this damage.
-* Regardless of AC, a natural 20 always hits and a natural 1 always misses.  If a natural 20 would already hit, score a critical hit and deal max damage.
+* Regardless of AC, a natural 20 always hits and a natural 1 always misses.  If a natural 20 would already hit, you also score a **critical hit** and deal max damage.
 
 #### Concealment
 
