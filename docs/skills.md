@@ -4,35 +4,43 @@ A **skill** is a domain of practice that you excel at due to experience, trainin
 
 * Each character starts with proficiency in 5 skills.
 * Expertise or proficiency in more skills can be gained through [class](classes.md) feats.
+* This proficiency mechanic only applies to skill checks; it does not apply to weapons, attacks, or saves.
 
-**Proficiency:** When you make a check that falls within the bounds of a skill,
+## Using Skills
 
-* If you are **not proficient** in that skill, you can apply only up to +2 of your ability bonus.  (Natural talent only gets you so far!)
-* If you are **proficient** in that skill, apply a +2 bonus to your ability score when you make the check.
+### Proficiency
 
-| Ability Score | Not Proficient | Proficient |
-| :---- | :---- | :---- |
-| **-4** | -4 | -2 |
-| **-3** | -3 | -1 |
-| **-2** | -2 | +0 |
-| **-1** | -1 | +1 |
-| **+0** | +0 | +2 |
-| **+1** | +1 | +3 |
-| **+2** | +2 | +4 |
-| **+3** | _+2_ | +5 |
-| **+4** | _+2_ | +6 |
-| **+5** | _+2_ | +7 |
-| **+6** | _+2_ | +8 |
-| **+7** | _+2_ | +9 |
-| **+8** | _+2_ | +10 |
+When you make a check that falls within the bounds of a given skill for which you have proficiency, you gain a **+2 bonus** to your ability check.
 
-This proficiency mechanic only applies to skill checks; it does not apply to weapons, attacks, or saves.
+### Expertise
 
-**Expertise:** Expertise is a higher level of proficiency with additional benefits. If you have expertise in a skill, you roll with advantage and you automatically succeed on tests versus DC10 or lower.
+Expertise is a higher level of proficiency. If you have expertise in a skill, you also **roll with advantage**.
 
-**Ability:** A skill can be used with a variety of different ability scores, depending on the task.  The most commonly used abilities are given in examples for each skill below, but this can vary with the context.
+### Relevant Ability Score
 
-**Overlap:** A given task might fall under more than one skill.  For example, safely jumping down from a moderate height might be Athletics or Acrobatics. Mountaineering might be Athletics or Survival, while climbing a drainpipe to a second-story window might be Athletics or Thievery. You can gain the benefits of being skilled if you have either one the applicable skills. However, you gain only a single bonus, even if you have multiple skills or a background that might apply to the roll.
+A skill can be used with a variety of different ability scores, depending on the specific task.  The most commonly used abilities are given in examples for each skill below, but this can vary with the context.
+
+### Overlapping Skills
+
+A given task might fall under more than one skill.  For example, safely jumping down from a moderate height might be Athletics or Acrobatics. Mountaineering might be Athletics or Survival, while climbing a drainpipe to a second-story window might be Athletics or Thievery.
+
+In such cases, you can gain the benefits of being skilled if you have either one of the applicable skills. However, you gain only a single bonus, even if you have multiple skills or a background that might apply to the roll.
+
+### Unskilled Rolls
+
+Typically anyone can try a roll regardless of whether they have proficiency in the relevant skill.  For example, anyone can look around for broken branches or tracks in the sand to attempt to track (Survival). Anyone can put a stiff wire into a lock and poke around, hoping to get lucky (Thievery).
+
+### Limited Rolls
+
+However, sometimes there are limits on how far beginner's luck can carry you without proficiency. In these cases, the GM will call for a limited roll. **If you lack proficiency when making a limited roll, you cannot apply more than +2 of your ability bonus to the roll.**  In other words, if your ability score is +2 or less, you roll normally.  If it is higher than +2, you add only +2 to the roll.
+
+Some skills (such as Thievery) are more likely to involve limited rolls, while others (such as Athletics) rarely use limited rolls. But this is not universal rule.  For example, anyone can attempt a Thievery(DEX) roll to silently lift the ring of keys off the sleeping guard's belt, but someone proficient in Thievery would be a little bit better at the task (+2 proficiency bonus).  On the other hand, while anyone can try to scramble up a rope with Athletics(STR), it might require a limited Athletics(STR or DEX) roll to correctly and safely use the pitons, harness, and ropes of a climbing kit to scale a vertical stone face.
+
+### Automatic Success
+
+Sometimes having a proficiency will let you automatically succeed without rolling, especially if you are not rushed on a simple task or if you are simply recognizing or recalling information. <!--The GM might consider your passive skill score in this case, compared to a relevant DC, to determine whether you succeed or not.-->
+
+For example, "With a whiff of brimstone, a red-skinned humanoid with black bat-like wings steps through the flaming portal. Thanks to their religious training (Religion proficiency), your character recognizes this as a devil. Unlike chaotic demons, devils are lawful beings can be reasoned and bargained with, although not without risk." Someone with expertise might recall greater information in this same situation, such as recognizing the specific kind of devil, remembering some of its weaknesses, or recalling the most common pitfalls of devilish bargains.
 
 ## Skill List
 
