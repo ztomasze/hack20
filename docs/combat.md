@@ -41,9 +41,10 @@ While you may be able to make a single attack when triggered by certain events o
 
 To make a single attack:
 
-* Roll either STR or DEX, depending on the nature of your weapon (see [Weapons](Equipment.md#weapons)). You must meet or exceed the AC of your target to hit.
+* Roll either STR or DEX, depending on the nature of your weapon. Melee attacks typically use STR while ranged attacks typically use DEX. However, certain weapon properties can change this.  For example, you can use DEX to make a melee attack with a finesse weapon or STR to make a ranged attack with a throwable weapon. See [Weapons](equipment.md#weapons) for more.
 * Ranged attacks are made at disadvantage if an adjacent enemy is currently threatening you with a potential melee attack.
-* On a success (hit), roll your weapon damage die and deal that amount to your target. Some class features let you add to this damage.
+* You must meet or exceed the AC of your target to hit with your attack.
+* On a success (hit), roll your weapon damage die and deal that amount to your target. Some class features--particularly [fighting styles](classes.md#fighting-styles)--let you add to this damage.
 * Regardless of AC, a natural 20 always hits and a natural 1 always misses.  If a natural 20 would already hit, score a critical hit and deal max damage.
 
 #### Concealment
