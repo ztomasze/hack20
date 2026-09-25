@@ -35,7 +35,8 @@
 }
 .markdown-section blockquote p,
 .markdown-section blockquote ol,
-.markdown-section blockquote ul {
+.markdown-section blockquote ul, 
+.markdown-section blockquote > * {
   margin: 0.75em 1em;
   font-weight: 300;
 }

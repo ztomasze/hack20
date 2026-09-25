@@ -30,6 +30,17 @@ This rule leaves the door open for the wild magic barbarian trope.
 
 ## Combat
 
+### Opportunity Attacks
+
+> Certain actions suffer limitations when performed while threatened. Instead of suffering those limitations, you can choose to instead perform those actions recklessly. When one of these actions is performed recklessly, all creatures that are currently threatening the reckless creature may perform an opportunity attack on that creature. An **opportunity attack** is a single melee attack made as a reaction.
+>
+> | Threatened Action | Reckless Version |
+> | :---- | :---- |
+> | Attack (ranged) | Do not suffer disadvantage for being threatened |
+> | Move (disengaging from melee) | Move at full speed as you leave a foe's threatening reach |
+
+This rule provides both a rationale for why your action was initially limited (to avoid getting attacked) as well as the option to take that attack instead of the limitation.
+
 ### Attack
 
 #### Critical Hit
