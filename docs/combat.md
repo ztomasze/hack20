@@ -27,6 +27,17 @@ You can perform up to one **reaction** per round, which typically occurs in resp
 
 Specific common examples of each action type are given below, but you can improvise other actions not listed here. The GM will determine its action type (how much time or effort it requires), whether any rolls are required, and its outcome.
 
+## Threatening
+
+Some action have consequence if performed while you are threatened (engaged) in melee. A creature **threatens** any of its foes if it is aware of them and is currently capable of making a melee attack on them.  
+
+More specifically, for a defender to be threatened by an attacker:
+
+* The attacker must be armed with a melee weapon or an equivalent attack. A monster with natural attacks, such as a bite or claws, is considered armed. Some class features allow an unarmed character to be considered armed.
+* The defender must be within the attacker's melee reach.  For example, an attacker with a reach weapon threatens a greater area.
+* The attacker cannot be incapacitated, confused, charmed by the defender, or otherwise unwilling or unable to perform an attack targeting the defender.
+* The attacker must be aware of the defender's presence. They don't need to be able to see them, but they must at least know their current location.
+
 ## Major Actions
 
 A major action is the primary and significant action for your turn. A major action generally require a few seconds of close attention.
@@ -42,10 +53,10 @@ While you may be able to make a single attack when triggered by certain events o
 To make a single attack:
 
 * Roll either STR or DEX, depending on the nature of your weapon. Melee attacks typically use STR while ranged attacks typically use DEX. However, certain weapon properties can change this.  For example, you can use DEX to make a melee attack with a finesse weapon or STR to make a ranged attack with a throwable weapon. See [Weapons](equipment.md#weapons) for more.
-* Ranged attacks are made at disadvantage if an adjacent enemy is currently threatening you with a potential melee attack.
 * You must meet or exceed the AC of your target to hit with your attack.
 * On a success (hit), roll your weapon damage die and deal that amount to your target. Some class features--particularly [fighting styles](classes.md#fighting-styles)--let you add to this damage.
 * Regardless of AC, a natural 20 always hits and a natural 1 always misses.  If a natural 20 would already hit, you also score a **critical hit** and deal max damage.
+* If you make a ranged attack while threatened in melee, you make the attack at disadvantage.
 
 #### Concealment
 
