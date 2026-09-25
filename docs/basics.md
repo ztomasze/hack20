@@ -50,8 +50,8 @@ Most impromptu tasks are of either Normal or Hard difficulty, although a few oth
 
 | DC | Name | Notes |
 | :---- | :---- | :---- |
-| **25** | Extraordinarily Hard | Impossible without an extraordinary (+5 or higher) ability score |
-| **21** | Really Hard | "Truly" hard, as this is impossible without a positive ability score |
+| **30** | Nearly Impossible | Minimal chance for with someone with max ability score plus skill proficiency |
+| **25** | Extraordinarily Hard | Impossible untrained without an extraordinary (+5 or higher) ability score |
 | **20** | Very Hard | A remote-but-possible (5%) chance of success when rolling at \+0 |
 | **15** | **Hard** | 30% chance of success when rolling at \+0 |
 | **10** | **Normal** | 55% chance of success when rolling at \+0 <br>**If no DC is given for a roll, assume it is 10** |

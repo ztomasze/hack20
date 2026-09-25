@@ -43,7 +43,7 @@ The style of swashbucklers, assassins, and rogues.
 | Warrior Talent | Effect |
 | :---- | :---- |
 | **Battle Master** | If you roll 21+ on your attack roll, you can immediately perform a combat maneuver as a minor action. If your attack drops your target to 0 HP, you can instead spend a minor action to make a second attack using the same weapon against another valid target. |
-| **Expert** | Gain expertise in two [skills](skills.md) that you have proficiency in. In addition, when you roll a check for a skill you have expertise in, you can expend a HD to turn one of the rolled d20s to a 10. |
+| **Expert** | Gain expertise in two [skills](skills.md) that you have proficiency in. |
 | **Rage** | Once per scene, you can expend a HD to enter a rage as a quick action or as a reaction when you take damage. This typically involves appropriate performative acts like roaring, stomping, or biting your shield. While raging, you gain +2 STR, advantage on WIS and CHA saves, and +CON to AC (max: AC17). You cannot cast spells, concentrate, take the Defend action, or perform calm, careful, or focused tasks while raging. Your rage lasts until the end of the scene. It ends early if you fall unconscious, if you choose to end it as a free action, or if you do not make a melee attack or spend a quick action to extend your rage on your turn. |
 | **Spellcasting** | You gain a magical tradition and style as per a level 1 Spellcaster, but you do not gain a spellcaster talent. Your effective level for any spellcasting purpose is 1\. You cannot spend more HD than your spellcasting level per day on your spellcasting method. |
 | **Talented** | Gain any two feats (warrior or general) that you qualify for. |
@@ -91,7 +91,7 @@ Familiar | Arcane or Nature tradition |
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
 | **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 7 or 8. | |
 | **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
-| **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | |
+| **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | Expert |
 | **Great Fortitude** | Add one HD to a STR or CON save. The HD is expended on a 7 or 8. | |
 | **Iron Will** | Add a HD to a WIS or CHA save. The HD is expended on a 7 or 8. | |
 | **Lightning Reflexes** | Add a HD to a DEX save or initiative roll. The HD is expended on a 7 or 8. | |

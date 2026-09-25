@@ -5,9 +5,30 @@ A **skill** is a domain of practice that you excel at due to experience, trainin
 * Each character starts with proficiency in 5 skills.
 * Expertise or proficiency in more skills can be gained through [class](classes.md) feats.
 
-**Proficiency:** When you make a check that falls within the bounds of a skill you are proficient in, you gain +2 to the roll. Proficiency only applies to skill checks; it does not apply to weapons, attacks, or saves.
+**Proficiency:** When you make a check that falls within the bounds of a skill,
 
-**Expertise:** Expertise is a higher level of proficiency. If you have expertise in a skill, you add +5 to the roll instead of +2.
+* If you are **not proficient** in that skill, you can apply only up to +2 of your ability bonus.  (Natural talent only gets you so far!)
+* If you are **proficient** in that skill, apply a +2 bonus to your ability score when you make the check.
+
+| Ability Score | Not Proficient | Proficient |
+| :---- | :---- | :---- |
+| **-4** | -4 | -2 |
+| **-3** | -3 | -1 |
+| **-2** | -2 | +0 |
+| **-1** | -1 | +1 |
+| **+0** | +0 | +2 |
+| **+1** | +1 | +3 |
+| **+2** | +2 | +4 |
+| **+3** | _+2_ | +5 |
+| **+4** | _+2_ | +6 |
+| **+5** | _+2_ | +7 |
+| **+6** | _+2_ | +8 |
+| **+7** | _+2_ | +9 |
+| **+8** | _+2_ | +10 |
+
+This proficiency mechanic only applies to skill checks; it does not apply to weapons, attacks, or saves.
+
+**Expertise:** Expertise is a higher level of proficiency with additional benefits. If you have expertise in a skill, you roll with advantage and you automatically succeed on tests versus DC10 or lower.
 
 **Ability:** A skill can be used with a variety of different ability scores, depending on the task.  The most commonly used abilities are given in examples for each skill below, but this can vary with the context.
 
