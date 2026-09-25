@@ -26,7 +26,7 @@ This rule lets the GM acknowledge extreme circumstances with the dice without op
 
 > You can still cast a spell or concentrate on one while raging if you are a CHA caster (The Will). However, while raging, you suffer a mishap if only the first HD you roll to cast is a 1.
 
-This leaves the door open for the wild magic barbarian trope.
+This rule leaves the door open for the wild magic barbarian trope.
 
 ## Combat
 
@@ -40,10 +40,10 @@ Since it generally speeds play to roll damage dice along with the attack dice, t
 
 #### Cover
 
-> A reach weapon doesn't deal damage to an intervening creature on a nat 1 that strikes cover, but it does impose a bane as you knock that creature aside with the haft of the weapon.
+> A reach weapon doesn't deal damage to an intervening creature on a nat 1 that strikes cover. Instead, it imposes a bane as you knock that creature aside with the haft of the weapon.
 
 #### Two-Weapon Fighting
 
-> If you have the Dual Wielder feat and wield a staff in two hands, you can use each end of it to two-weapon fight as per two daggers.  With a quarterstaff, as per two short swords.
+> If you have the Dual Wielder feat and wield a staff in two hands, you can use each end of it to two-weapon fight as per two daggers.  You can similarly fight with a quarterstaff as per two shortswords.
 
-This grants another common form of two weapon fighting and recalls 3.5e's double weapons.
+This rule grants another common form of two weapon fighting and recalls 3.5e's double weapons. Obviously you still deal bludgeoning damage and apply any other properties or characteristics of the staff, but your total weapon size and damage dice are as if fighting with daggers or shortswords.
