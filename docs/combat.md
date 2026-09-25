@@ -35,7 +35,11 @@ You may perform a minor action in place of your major action.
 
 ### Attack
 
-_Make an attack with a weapon._
+_Make one or more attacks with a weapon._
+
+While you may be able to make a single attack when triggered by certain events or abilities, you must take a major Attack action to make an attack of your choice on your turn. If you are capable of making multiple attacks, you can only do so as part of a major Attack action.
+
+To make a single attack:
 
 * Roll either STR or DEX, depending on the nature of your weapon (see [Weapons](Equipment.md#weapons)). You must meet or exceed the AC of your target to hit.
 * Ranged attacks are made at disadvantage if an adjacent enemy is currently threatening you with a potential melee attack.
