@@ -60,7 +60,7 @@ If one or more obstacles obscure the majority of your target, such that you can 
 * A target has this level of cover if you must shoot through multiple intervening creatures.
 * They also have this cover if the target is wrestling, grappling, restrained by, or is otherwise entangled with another creature or is sharing its space.
 
-If you roll a natural 1 that would miss when attacking at a creature with cover, you hit the cover instead.
+If you roll a natural 1 that would miss when attacking a creature with cover, you hit the cover instead.
 
 #### Two-Weapon Fighting
 
