@@ -31,11 +31,12 @@ Awareness is important for two reasons:
 
 If one side opens the combat with surprise, that side gets to act first in combat.  Surprise can be gained because because the opposing side is unaware of the presence of the surprising side or simply because their actions are completely unexpected, such as with the sudden betrayal of a friend.
 
-The benefits of surprise are short lived, so this opening **surprise round** of combat is shorter than later rounds.
+The benefits of surprise only last a single turn:
 
-* Creatures acting during a surprise round do not get a minor action (although they can still take a minor action in place of a major action).
-* Only one creature on the attacking side acts during a surprise round unless the attack was pre-coordinated, such as upon a set signal. If pre-coordinated, then all creatures on that side who were ready can also act.
-* When a creature is unaware of a coming attack, the attacker gains advantage on that attack. (Hit or miss, the attacked creature then becomes aware.)
+* The first creature to act on the surprising side gets a full turn.
+* If the surprising side pre-coordinated, then any ready creatures on that side can also take their readied action. (See Ready below.)
+* When a creature is unaware of a coming attack, the attacker gains advantage on that attack. Surprised creature remain unaware for the length of this turn.
+
 
 ## Turn
 
