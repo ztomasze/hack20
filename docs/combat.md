@@ -12,6 +12,31 @@ An encounter between two groups becomes a combat encounter only once one or more
 
 Therefore, to untangle the start of combat, we must first determine the state at the start of the encounter and then see how that encounter transitions into a combat. Although a combat can have more than two sides involved, the following descriptions generally assume two sides for simplicity.
 
+### Awareness
+
+First, the GM determines which side is aware of the other.
+
+* If the one side is making noise or carrying a light in a dark place, they typically automatically alert the other side.
+* If a side is exceptionally stealthy or well hidden, they might automatically go unnoticed. Examples include a carefully constructed ambush setup or a creature that can appear like a natural object while motionless.
+* If one side is trying to move stealthily--either because they know they are in hostile territory generally or because they are aware of another group but are trying to get closer unnoticed--the GM can call for Stealth(DEX) rolls verses the other side's passive Perception score to remain unnoticed. This can result in only some members of the opposing group becoming aware.
+* Sometimes there is a chance that two groups might stumble into each other (such as at a sharp bend in a mountain trail near a waterfall) or wander past each other (such as in a windy field of tall grasses). In such cases, the GM can roll a 2-in-6 chance for each side to determine whether that side initially passes unnoticed by the other.
+* Otherwise, both sides typically notice each other.
+
+Awareness is important for two reasons:
+
+1. If a group is not aware of the other side, that group cannot choose to how proceed with the encounter (talk, attack, flee, hide, watch, etc).
+2. If only one side is aware of the other, that side can choose to start a combat with surprise.
+
+### Surprise
+
+If one side opens the combat with surprise, that side gets to act first in combat.  Surprise can be gained because because the opposing side is unaware of the presence of the surprising side or simply because their actions are completely unexpected, such as with the sudden betrayal of a friend.
+
+The benefits of surprise are short lived, so this opening **surprise round** of combat is shorter than later rounds.
+
+* Creatures acting during a surprise round do not get a minor action (although they can still take a minor action in place of a major action).
+* Only one creature on the attacking side acts during a surprise round unless the attack was pre-coordinated, such as upon a set signal. If pre-coordinated, then all creatures on that side who were ready can also act.
+* When a creature is unaware of a coming attack, the attacker gains advantage on that attack. (Hit or miss, the attacked creature then becomes aware.)
+
 ## Turn
 
 On your turn, you can perform one **major action**, one **minor action**, and one **quick action**, as well a reasonable number of **free actions**.
