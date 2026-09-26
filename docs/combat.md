@@ -1,12 +1,16 @@
 # Combat
 
-During any [round](basics.md#round), whether the current scene involves combat or not, every active creature should typically get an opportunity to act (if it is able to, depending on its current [conditions](adventuring.md#conditions)).
+During a [round](basics.md#round) at any time scale, whether the current scene involves combat or not, every active creature should typically get an opportunity to act (if it is able to, depending on its current [conditions](adventuring.md#conditions)).
 
-However, once members of two or more groups decide to use violence to resolve a conflict, those groups are in combat. Before the second side has a chance to fight back, it is an ambush. If the second side can't fight back, it is a slaughter. Combat continues until one side stops fighting, either by fleeing (which might become a chase if the other side pursues), surrendering, dying, or otherwise being incapacitated.
+In tense situations, like combat, multiple creatures are typically trying to act quickly and at the same time. For this reason, time is tracked closely in **combat rounds**, and each creature is limited in the number and duration of actions it can perform within each of those rounds.
 
-The key feature of **combat** is that multiple creatures are trying to act quickly and at the same time. For this reason, time is tracked closely in combat rounds, and each creature is limited in the number and duration of actions it can perform within each of those rounds.  
+These same action-oriented combat rules can be used for any similarly tense or fast-paced situation, such as a chase or trying to solve a puzzle to stop a descending ceiling before it crushes the party.
 
-These same combat rules can be used for similarly tense or face-paced situations, such as a chase or trying to solve a puzzle to stop a descending ceiling before it crushes the party.
+## Encounter
+
+An encounter between two groups becomes a combat encounter only once one or more of those groups decides to use violence to achieve their goals. It remains a combat as long as two or more sides keep using violence. A combat ends when only one side is left fighting because the other groups has fled (which might become a chase if another side pursues), surrendered, died, or been incapacitated.  (If the fighting side continues the violent on another group that does not fight back or flee, it becomes a slaughter, for which detailed combat rules are no longer needed.)
+
+Therefore, to untangle the start of combat, we must first determine the state at the start of the encounter and then see how that encounter transitions into a combat. Although a combat can have more than two sides involved, the following descriptions generally assume two sides for simplicity.
 
 ## Turn
 
