@@ -30,11 +30,11 @@ In such cases, you can gain the benefits of being skilled if you have either one
 
 Typically anyone can try a roll regardless of whether they have proficiency in the relevant skill.  For example, anyone can look around for broken branches or tracks in the sand to attempt to track (Survival). Anyone can put a stiff wire into a lock and poke around, hoping to get lucky (Thievery).
 
-### Limited Rolls
+### Trained Rolls
 
-However, sometimes there are limits on how far beginner's luck can carry you without proficiency. In these cases, the GM will call for a limited roll. **If you lack proficiency when making a limited roll, you cannot apply more than +2 of your ability bonus to the roll.**  In other words, if your ability score is +2 or less, you roll normally.  If it is higher than +2, you add only +2 to the roll.
+However, sometimes there are limits on how far beginner's luck can carry you without proficiency. In these cases, the GM will call for a trained roll. **If you lack proficiency when making a trained roll, you cannot apply more than +2 of your ability bonus to the roll.**  In other words, if your ability score is +2 or less, you roll normally.  If it is higher than +2, you add only +2 to the roll.
 
-Some skills (such as Thievery) are more likely to involve limited rolls, while others (such as Athletics) rarely use limited rolls. But this is not universal rule.  For example, anyone can attempt a Thievery(DEX) roll to silently lift the ring of keys off the sleeping guard's belt, but someone proficient in Thievery would be a little bit better at the task (+2 proficiency bonus).  On the other hand, while anyone can try to scramble up a rope with Athletics(STR), it might require a limited Athletics(STR or DEX) roll to correctly and safely use the pitons, harness, and ropes of a climbing kit to scale a vertical stone face.
+Some skills (such as Thievery) are more likely to involve trained rolls, while others (such as Athletics) rarely use trained rolls. But this is not universal rule.  For example, anyone can attempt a Thievery(DEX) roll to silently lift the ring of keys off the sleeping guard's belt, but someone proficient in Thievery would be a little bit better at the task (+2 proficiency bonus).  On the other hand, while anyone can try to scramble up a rope with Athletics(STR), it might require a trained Athletics(STR or DEX) roll to correctly and safely use the pitons, harness, and ropes of a climbing kit to scale a vertical stone face.
 
 ### Automatic Success
 
