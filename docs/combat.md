@@ -183,11 +183,11 @@ Until the start of your group's next initiative phase, you gain +4 AC and advant
 
 _Stand ready to perform a major action once the time is right._
 
-Declare a specific major action that you will hold until you perceive a stated trigger. You can interrupt the triggering action if you can perceive it in time; otherwise, you perform your readied action immediately afterward. Performing the readied action uses your reaction.
+Declare a specific major (or lesser) action that you will hold until you perceive a stated trigger. You can interrupt the triggering action if you can perceive it in time; otherwise, you perform your readied action immediately afterward. Performing the readied action uses your reaction.
 
 For example, you can typically interrupt the casting of a spell or an attack with your readied attack. However, if the creature is invisible, you cannot interrupt its attack, although readying may still be valuable so you can immediately attack it back before it has a chance to move from its location.
 
-You can hold a readied action until the start of your group's next initiative phase.  When the triggering event occurs, you can decline to act or decide to keep holding for another instance of the trigger.
+You can hold a readied action for the rest of the round. When the triggering event occurs, you can decline to act or decide to keep holding for another instance of the trigger.
 
 ### Use
 
