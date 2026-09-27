@@ -69,25 +69,37 @@ Sometimes an outcome is more a matter of pure chance than any skill.  In this ca
 * _X%_ means roll a d100 and the result happens on a result of X or lower.  
 * Luck rolls are unaffected by any conditions that currently impose advantage or disadvantage.
 
-<!--
-
 ### Contests
 
-Contents are rolled as checks, with the defender providing a static DC.
+Contents are rolled as checks with the defender providing a static DC, much like rolling an attack against AC. Because rolling exactly the DC counts as a success, ties go to the active participant. Fortune favors the bold (by 5%)!
 
 #### PC vs PC
 
-The active (instigating) character rolls a check versus DC 11 \+ the defender's relevant ability modifier to succeed.
+The active (instigating) character rolls a check versus the defender's relevant passive ability score. A **passive score** equals DC 10 \+ ability modifier + any modifiers (such as a skill proficiency) + 5 with advantage - 5 with disadvantage.
 
-* Such player contests should occur rarely, except perhaps when one of the characters is magically compelled.
+Character vs character contests should occur rarely, except perhaps when one of the characters is magically compelled.
 
-#### PC vs Monster
+#### PC vs NPC
 
-As a hero of the story, character is always treated as the active party in such contests, and so they make the roll. Because monsters lack ability scores, they typically provide a DC of 10+HD.
+When the PC is the active party, the GM sets a DC for the NPC's passive score.  When the NPC is the active party, the GM gives the creature a relevant modifier.
 
-* The GM may choose to substitute an appropriate DC based on the monster's details (such as if it is particularly strong, dextrous, etc) or on the current context. (See [Monsters](monsters.md) for more.)
+Determining a NPC's DC or modifier depends on the nature of the contest and the nature of the NPC.
 
--->
+* For mental contests, a monster's HD (or 10+HD for DCs) is a good place to start.  But this may vary if the monster is a beast versus a studied wizard.
+* For physical contests, again HD may a factor, but this might be overshadowed by a monster's physical structure and capabilities, size, number of legs, etc.
+
+To simplify the process, the GM usually picks an approximate row on the following table. Start with the closest increment of 5 and then adjust up or down if it doesn't feel quite right.
+
+| NPC is... | DC (% for +0) | Mod (% vs DC10) | Matchup (NPC/PC) |
+| :------- | :------- | :------- | :------- |
+| **Dominator** | **20** (5%) | **+10** (100%) | \~100/\~0 |
+| **Very favored** | **18** (15%) | **+8** (95%) | 90/10 |
+| **Favored** | **15** (30%) | **+5** (80%) | 75/25 |
+| **Weakly favored** | **12** (45%) | **+2** (65%) | 60/40 |
+| **Even match** | **10** (55%) | **+0** (55%) | 50/50 |
+| **Weakly unfavored** | **8** (65%) | **-2** (45%) | 40/60 |
+| **Unfavored** | **5** (80%) | **-5** (30%) | 25/75 |
+| **Very unfavored** | **2** (95%) | **-8** (15%) | 10/90 |
 
 ## Time
 
