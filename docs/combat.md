@@ -84,28 +84,28 @@ On your turn, you can perform one **major action**, one **minor action**, and on
 
 You can perform up to one **reaction** per round, which typically occurs in response to a triggering event when it is not your turn.
 
-> **Parallels**  
+> **Edition Parallels**  
 > While similar to most earlier editions of the source game, these action types are most similar to those found in 3.5e or Pathfinder 1e:
 >
 > * major action = standard action
 > * minor action = move or move-equivalent action
-> * quick action = swift action (except it is possible to perform more than one per turn; more like 5e's object interaction)
+> * quick action = swift action (except it is possible to perform more than one quick action per turn; combines 5e's object interaction and bonus action)
 > * free action = free action
 > * reaction = immediate action (except a reaction does not consume a quick/swift action; more like 5e's reaction)
 
-### Improvising
+### Improvising Actions
 
 Specific common examples of each action type are given below, but you can improvise other actions not listed here. The GM will determine its action type (how much time or effort it requires), whether any rolls are required, and its outcome.
 
 ## Threatening
 
-Some action have consequence if performed while you are threatened (engaged) in melee. A creature **threatens** any of its foes if it is aware of them and is currently capable of making a melee attack on them.  
+Some actions have consequence if performed while you are threatened (engaged) in melee. A creature **threatens** any of its foes if it is aware of them and is currently capable of making a melee attack on them.  
 
 More specifically, for a defender to be threatened by an attacker:
 
 * The attacker must be armed with a melee weapon or an equivalent attack. A monster with natural attacks, such as a bite or claws, is considered armed. Some class features allow an unarmed character to be considered armed.
 * The defender must be within the attacker's melee reach.  For example, an attacker with a reach weapon threatens a greater area.
-* The attacker cannot be incapacitated, confused, charmed by the defender, or otherwise unwilling or unable to perform an attack targeting the defender.
+* The attacker cannot be incapacitated, confused, charmed by the defender, or otherwise unwilling or unable to attack the defender.
 * The attacker must be aware of the defender's presence. They don't need to be able to see them, but they must at least know their current location.
 
 ## Major Actions
