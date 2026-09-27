@@ -161,9 +161,17 @@ When you Attack while wielding a weapon in each hand, you can use your offhand w
 
 _Cast a spell or use a spell-like ability._
 
-Most spells take a major action to cast. However, some can be can as a minor or quick action, and other might take longer than turn to cast.
+Most spells take a major action to cast. However, some can be can as a minor or quick action, and other might take longer than a turn to cast.
 
-The mechanics of casting a spell depends on your spellcasting method.  See [Magic](magic.md) for more.
+Spells have verbal, somatic, and material components:
+
+* Verbal - You must be able to speak clearly. You cannot cast if you are gagged or silenced.
+* Somatic - You must e able to gesture freely with at least one empty hand.  You cannot cast if you are bound, held, paralyzed, etc.
+* Material - Some spells may require a particular material item or a spellcasting focus. You can manipulate any material component using the same hand you use the satisfy the somatic component.
+
+Casting a spell requires concentration. If you take damage (such as from a readied attack), are significantly jostled, or suffer some other notable distraction while casting, you must make a CON save. On a failure, you expend any spell resources used by this casting but the spell fails to take effect.
+
+See [Magic](magic.md) for more on the spells available to you, their trappings, your spellcasting method, and the resources expended when you cast a spell.
 
 ### Defend
 
