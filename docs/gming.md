@@ -32,3 +32,7 @@ Diplomacy, Fast-Talk, and Intimidation are social skills.
 ### Movement Modes (Athletics)
 
 Most short athletic tasks that involve movement--such as climbing, leaping, running, or swimming--should offer a choice between using STR or DEX.  While high STR is helpful here, high STR also typically means that your own body is heavier. A halfling or child, with less body mass to move, may be just as capable at athletics using DEX as a heavy warrior who relies on STR.
+
+...
+
+two characters want to act at the same time, whether in combat or out of it, contest DEX (like rolling initiative)

@@ -37,6 +37,46 @@ The benefits of surprise only last a single turn:
 * If the surprising side pre-coordinated, then any ready creatures on that side can also take their readied action. (See Ready below.)
 * When a creature is unaware of a coming attack, the attacker gains advantage on that attack. Surprised creature remain unaware for the length of this turn.
 
+## Initiative
+
+How combat starts depends on the opening context, but the narrative spotlight then passes back and forth between sides from there.
+
+### Phase Order
+
+Once combat starts, each side acts in the following order each round:
+
+* PC phase
+* NPC phase
+
+The NPC phase might be broken into further subgroup phases, such as monsters, bystanders, allies, etc.
+
+Within the phase of a given side or group, individual creatures choose the order in which they act. This can be a different order each round.
+
+### Starting with Surprise
+
+If one side opens with surprise, that surprise turn (as described above) fills that group's initiative phase of the opening round and then combat continues from there.  For example, if a set of monsters surprise the party, one of the monsters (and any readied monsters) act in the NPC phase of the first round, and then all of the characters can act in the PC phase at the start of the following round. On the other hand, if the characters start with surprise in the PC phase, the NPC phase then immediately follows.
+
+### Starting Aware with an Action
+
+If both sides are aware of each other, then combat typically starts when someone commits a hostile act: They draw a sword, shout an order, pull a pit trap lever, etc.
+
+As soon as this action completes, regardless of which side committed it, combat then starts with the PC phase. However, in this case, the characters must **roll initiative** by making a normal (DC10) DEX check. Those that succeed can act in the PC phase of the first round. Those that fail must wait until the PC phase of the second round.
+
+If it was a character that committed the combat-opening action, they might gain advantage on their initiative roll depending on the nature of that action.  For example, if a tense standoff with a band of orc warriors devolves into combat when a character suddenly shouts "Kill their leader!" (free action) or draws their sword (quick action), that character is much more likely to be among the first to act during the PC phase and so gains advantage on initiative. On the other hand, if they squeezed the trigger of their loaded crossbow (major action) while pointing it toward the orcs, that character will have to roll initiative normally to see whether they can reload, draw another weapon, or run before the wary orcs can respond.
+
+### Starting Aware with Position
+
+Sometimes combat starts naturally because one side can do so while the other cannot.  For example, if the characters are standing on a castle wall watching the approach of a flying dragon, all of the characters can start attacking as soon as the dragon is in range of their arrows, since the dragon is still to far away to affect them in return.
+
+However, if the dragon bears a rider with a longbow, then you might roll initiative (possibly using WIS instead of DEX, since it's more a question of judging the distance correctly) to see who can land the first shot of the battle.
+
+### Round Durations
+
+Many effects last for one combat round. These might be phrased as "for a round", "for the rest of the round", "until next round", etc. Such an effect starts when it is produced and lasts until the next start of the same initiative phase.
+
+For example, if a character stuns a monster for one round during the PC phase, that monster remains stunned until the start of the next PC phase. This means that it may be more valuable if this character can take their turn earlier in the phase, so her allies can take advantage of the monster's stunned state on their turns this round.
+
+On the other hand, if that same character stuns a monster with a readied action during the NPC phase, the monster remains stunned through the following PC phase until the start of the next NPC phase.  Interestingly, now the character can benefit from the monster's stun on their own turn next round.
 
 ## Turn
 
