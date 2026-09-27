@@ -179,6 +179,17 @@ _Devote your full attention to defending yourself with a combination of dodging,
 
 Until the start of your group's next initiative phase, you gain +4 AC and advantage on DEX saves.  You lose these benefits if you cannot see the incoming attack or damaging effect or if you are immobilized.
 
+### Help
+
+_Directly aid an ally._
+
+There are many ways you might help an adjacent ally. The following are some examples:
+
+* **Assist** - The next ability check your ally makes this round is made with advantage. You must explain what you are doing to provide this assistance. If you are assisting with a trained skill roll, you may need to succeed on your own normal (DC10) check to do so.
+* **First Aid** - If your adjacent ally is dying, you make a Medicine check to help stabilize them. See [Adventuring: Wounds: First Aid](adventuring.md#first-aid) for more
+* **Protect** - The attacks on your ally this round are made at disadvantage. You must explain what you are doing to provide this protection.  For example, you might parry a melee attack or block it with a shield. You cannot parry ranged attacks, but you might be able to block one if you are wielding a medium or heavy shield. Alternatively, instead of imposing disadvantage, you can throw yourself in the way of any attacks you choose, becoming the target of that attack before the attack roll is made.
+* **Wake** - If your ally is subjected to magical slumber, you can give them a firm shake to wake them.
+
 ### Ready
 
 _Stand ready to perform a major action once the time is right._
