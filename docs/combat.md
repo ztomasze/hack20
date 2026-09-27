@@ -190,6 +190,14 @@ There are many ways you might help an adjacent ally. The following are some exam
 * **Protect** - The attacks on your ally this round are made at disadvantage. You must explain what you are doing to provide this protection.  For example, you might parry a melee attack or block it with a shield. You cannot parry ranged attacks, but you might be able to block one if you are wielding a medium or heavy shield. Alternatively, instead of imposing disadvantage, you can throw yourself in the way of any attacks you choose, becoming the target of that attack before the attack roll is made.
 * **Wake** - If your ally is subjected to magical slumber, you can give them a firm shake to wake them.
 
+### Hinder
+
+_Harass, harry, or badger an adjacent foe._
+
+By a viable means that you describe, you distract an adjacent ally. Until the end of that creature's next turn, the first attack roll it makes gains disadvantage or the first attack roll that targets it gains advantage. This distraction ends early once it has affected a roll.
+
+To impose a more significant condition or impairment, see the Manuever action.
+
 ### Ready
 
 _Stand ready to perform a major action once the time is right._
