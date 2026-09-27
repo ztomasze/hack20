@@ -199,7 +199,7 @@ Examples include:
 * Perform a significant operation on an item, such as lighting a torch or emptying a flask.
 * Undertake a significant interaction with the environment, such as picking a lock, cranking a wheel, flipping a heavy table, and shoving the dusty stone top off of a sarcophagus.
 
-Some of these uses (like cranking open a portcullis) might take more than a single Use action to complete.  If the operation is does not require significant time or attention (such as drawing a weapon or piece of ammunition), it might be a lesser action (minor, quick, or even free).
+Some of these uses (like cranking open a portcullis) might take more than a single Use action to complete.  If the operation does not require significant time or attention (such as drawing a weapon or piece of ammunition), it might be a lesser action (minor, quick, or even free).
 
 Especially in the time pressure of combat, some significant uses might require an ability check.
 
