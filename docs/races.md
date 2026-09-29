@@ -15,23 +15,23 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ## Dwarf
 
 * Gain +1 CON.
-* Dimsight: You can see clearly in dim conditions. See Light for details.
-* Poison Resistance: You have advantage on saves to resist poison, and you have resistance to poison damage.
-* Stout: +2 to the AC limit that you can wear before becoming encumbered. See [Equipment: Armor Class](equipment.md#armor-class) for more.
+* **Dimsight:** You can see clearly in dim conditions. See Light for details.
+* **Poison Resistance:** You have advantage on saves to resist poison, and you have resistance to poison damage.
+* **Stout:** +2 to the AC limit that you can wear before becoming encumbered. See [Equipment: Armor Class](equipment.md#armor-class) for more.
 
 ### Hill Dwarf
 
 **Required:** 1 WIS or higher
 
-* Stonecunning: You have advantage on checks related to discerning the nature, structure, history, and quality of stonework. You can also discern direction and your approximate depth while underground.
-* Robust: Gain advantage on CON saves made against spells and magical effects.
+* **Stonecunning:** You have advantage on checks related to discerning the nature, structure, history, and quality of stonework. You can also discern direction and your approximate depth while underground.
+* **Robust:** Gain advantage on CON saves made against spells and magical effects.
 
 ### Mountain Dwarf
 
 **Required:** 1 STR or higher
 
-* Stonecunning: You have advantage on checks related to discerning the nature, structure, history, and quality of stonework. You can also discern direction and your approximate depth while underground.
-* Dwarven Weapon Training: Gain +1 to attacks made with a handaxe, battleaxe, hammer, or warhammer. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+* **Stonecunning:** You have advantage on checks related to discerning the nature, structure, history, and quality of stonework. You can also discern direction and your approximate depth while underground.
+* **Dwarven Weapon Training:** Gain +1 to attacks made with a handaxe, battleaxe, hammer, or warhammer. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
 
 ### Other Dwarf
 
@@ -40,24 +40,24 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ## Elf
 
 * Gain +1 DEX.
-* Delicate: -1 CON.
-* Dimsight: You can see clearly in dim conditions. See Light for details.
-* Fey Ancestry: You have advantage versus charm effects, and magic cannot put you to sleep.
-* Keen Senses: Gain proficiency in Perception.
+* **Delicate:** -1 CON.
+* **Dimsight:** You can see clearly in dim conditions. See Light for details.
+* **Fey Ancestry:** You have advantage versus charm effects, and magic cannot put you to sleep.
+* **Keen Senses:** Gain proficiency in Perception.
 
 ### High Elf
 
 **Required:** 1 INT or higher
 
-* Elven Weapon Training: Gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
-* Gain proficiency in Arcana or History or gain one cantrip selected from the Arcane tradition using INT to cast it.
+* **Elven Weapon Training:** Gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+* **High Elf Lore:** Gain proficiency in Arcana or History or gain one cantrip selected from the Arcane tradition using INT to cast it.
 
 ### Wood Elf
 
 **Required:** 1 WIS or higher
 
-* Elven Weapon Training: Gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
-* Gain proficiency in Stealth or Survival or gain one cantrip selected from the Druid tradition using WIS to cast it.
+* **Elven Weapon Training:** Gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+* **Wood Elf Lore:** Gain proficiency in Stealth or Survival or gain one cantrip selected from the Druid tradition using WIS to cast it.
 
 ### Other Elf
 
@@ -67,22 +67,22 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ## Gnome
 
 * Gain +1 INT.
-* Small: -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
-* Dimsight: You can see clearly in dim conditions. See Light for details.
-* Mental Resilience: Gain advantage on INT, WIS, or CHA saves made against spells and magical effects, as well as INT checks made to discern illusions.
+* **Small:** -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
+* **Dimsight:** You can see clearly in dim conditions. See Light for details.
+* **Mental Resilience:** Gain advantage on INT, WIS, or CHA saves made against spells and magical effects, as well as INT checks made to discern illusions.
 
 ### Forest Gnome
 
 **Required:** 1 DEX or higher
 
-* Gain one cantrip selected from Dancing Lights, Minor Illusion, Prestidigitation, or Speak With Animals.
+* **Woodland Magic:** Gain one cantrip selected from Dancing Lights, Minor Illusion, Prestidigitation, or Speak With Animals using INT to cast it.
 
 ### Rock Gnome
 
 **Required:** 1 CON or higher
 
-* Gain proficiency in Arcana or Technology or gain the Prestidigitation cantrip.
-* Gain the Alchemy or Artifice knack.
+* **Tinkerer:** Gain the Alchemy or Artifice knack.
+* **Artificer Lore:** Gain proficiency in Arcana or Technology or gain the Prestidigitation cantrip.
 
 ### Other Gnome
 
@@ -91,17 +91,17 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ## Goblin
 
 * Gain +1 DEX.
-* Small: -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
-* Dimsight: You can see clearly in dim conditions. See Light for details.
-* Hardy: You have advantage on saves to resist disease or poison.
+* **Small:** -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
+* **Dimsight:** You can see clearly in dim conditions. See Light for details.
+* **Hardy:** You have advantage on saves to resist disease or poison.
 
 ### Warren-Born Goblin
 
 **Required:** 1 CON or higher
 
-* Darkvision: You can see up to 2 measures (2M) through darkness.
-* Bite: You can make an unarmed attack that deals d4 damage.
-* Nimble: Gain proficiency in Acrobatics or Stealth.
+* **Darkvision:** You can see up to 2 measures (2M) through darkness.
+* **Bite:** You can make an unarmed attack that deals d4 damage.
+* **Nimble:** Gain proficiency in Acrobatics or Stealth.
 
 ### Other Goblin
 
@@ -111,22 +111,22 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ## Half-Elf
 
 * Gain +1 DEX or +1 CHA.
-* Dimsight: You can see clearly in dim conditions. See Light for details.
-* Fey Ancestry: You have advantage versus charm effects, and magic cannot put you to sleep.
-* Gain proficiency in Perception or Diplomacy.
+* **Dimsight:** You can see clearly in dim conditions. See Light for details.
+* **Fey Ancestry:** You have advantage versus charm effects, and magic cannot put you to sleep.
+* **Worldly:** Gain proficiency in Perception or Persuasion.
 
 ## Half-Orc
 
 * Gain +1 STR.
-* Dimsight: You can see clearly in dim conditions. See Light for details.
+* **Dimsight:** You can see clearly in dim conditions. See Light for details.
 
 ### Horde-Born Half-Orc
 
 **Required:** 1 CON or higher
 
-* Darkvision: You can see up to 2 measures (2M) through darkness.
-* Savage Attack: When you score a critical hit on a melee attack roll, add one roll of the weapon's damage die to the damage dealt.
-* Gain proficiency in Intimidation.
+* **Darkvision:** You can see up to 2 measures (2M) through darkness.
+* **Savage Attack:** When you score a critical hit on a melee attack roll, add one roll of the weapon's damage die to the damage dealt.
+* **Menacing:** Gain proficiency in Intimidation.
 
 ### Other Half-Orc
 
@@ -136,24 +136,24 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ## Halfling
 
 * Gain +1 DEX.
-* Small: -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
-* Lucky: Reroll (once) any natural 1 on a check, attack, or save roll.
+* **Small:** -1 STR, and you have disadvantage on attacks with Massive weapons and Two-Handed melee weapons.
+* **Lucky:** Reroll (once) any natural 1 on a check, attack, or save roll.
 
 ### Lightfoot Halfling
 
 **Required:** 1 CHA or higher
 
-* Halfling Weapon Training: Gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
-* Brave: You have advantage on saves to resist fear.
-* Nimble: Gain proficiency in Acrobatics or Stealth.
+* **Halfling Weapon Training:** Gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
+* **Brave:** You have advantage on saves to resist fear.
+* **Nimble:** Gain proficiency in Acrobatics or Stealth.
 
 ### Stout Halfling
 
 **Required:** 1 CON or higher
 
-* Halfling Weapon Training: Gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
-* Poison Resistance: You have advantage on saves to resist poison, and you have resistance to poison damage.
-* Robust: Gain advantage on CON saves made against spells and magical effects.
+* **Halfling Weapon Training:** Gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
+* **Poison Resistance:** You have advantage on saves to resist poison, and you have resistance to poison damage.
+* **Robust:** Gain advantage on CON saves made against spells and magical effects.
 
 ### Other Halfling
 
@@ -163,6 +163,6 @@ Most races include subraces.  While such subraces often include cosmetic physica
 ## Tiefling
 
 * Gain +1 CHA or +1 INT.
-* Darkvision: You can see up to 2 measures (2M) through darkness.
-* Hellish Resistance: You have resistance to fire damage.
-* Fiendish Legacy: Gain proficiency in Fast-Talk or Stealth or gain either the Firebolt or Flame Blade cantrip using either CHA or INT to cast it.
+* **Darkvision:** You can see up to 2 measures (2M) through darkness.
+* **Hellish Resistance:** You have resistance to fire damage.
+* **Fiendish Legacy:** Gain proficiency in Fast-Talk or Stealth or gain either the Firebolt or Flame Blade cantrip using either CHA or INT to cast it.
