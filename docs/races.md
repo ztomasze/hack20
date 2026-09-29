@@ -85,7 +85,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 ### Other Gnome
 
-* Gain proficiency in one skill.
+* Gain proficiency in two skills.
 
 ## Goblin
 
