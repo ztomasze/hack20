@@ -83,15 +83,6 @@ _Track-and-field activities_
 * **running** - sprinting (DEX); chasing or fleeing (DEX or CON).
 * **swimming** - keeping your head above rough water; swimming quickly; diving or submerging (STR or DEX); making headway through swift or rough water (STR or CON).
 
-### Diplomacy
-
-_Convincing others through tact, logic, or negotiation._
-
-* **debate** (INT or CHA) - convincing through logical or factual argument.
-* **gossip** - gathering information and rumors (WIS or CHA); sowing rumors or putting out the word (CHA).
-* **negotiation** (CHA or WIS) - reaching a mutually beneficial agreement or compromise; bartering or haggling.
-* **persuasion** (CHA) - convincing through eloquence, charm, or flattery.
-
 ### Fast-Talk
 
 _Verbally tricking someone by hurrying them along before they have time to think._
@@ -159,6 +150,15 @@ _Entertaining audiences._
 * **motion** (CHA or DEX) - includes dancing, juggling, and miming.
 * **music** (CHA) - includes singing or playing a musical instrument.
 * **oration** (CHA) - includes singing, poetry, storytelling, riddles, and jokes.
+
+### Persuasion
+
+_Convincing others through tact, logic, or negotiation._
+
+* **debate** (INT or CHA) - convincing through logical or factual argument.
+* **diplomacy** (CHA) - convincing through eloquence, charm, or flattery.
+* **gossip** - gathering information and rumors (WIS or CHA); sowing rumors or putting out the word (CHA).
+* **negotiation** (CHA or WIS) - reaching a mutually beneficial agreement or compromise; bartering or haggling.
 
 ### Religion
 
