@@ -159,3 +159,10 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 * Gain one general feat.
 * Gain proficiency in one skill.
+
+## Tiefling
+
+* Gain +1 CHA or +1 INT.
+* Darkvision: You can see up to 2 measures (2M) through darkness.
+* Hellish Resistance: You have resistance to fire damage.
+* Fiendish Legacy: Gain proficiency in Fast-Talk or Stealth or gain either the Firebolt or Flame Blade cantrip using either CHA or INT to cast it.
