@@ -75,14 +75,13 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 **Required:** 1 DEX or higher
 
-* **Woodland Magic:** Gain one cantrip selected from Dancing Lights, Minor Illusion, Prestidigitation, or Speak With Animals using INT to cast it.
+* **Woodland Magic:** Gain the Speak with Animals cantrip and one cantrip selected from Dancing Lights, Minor Illusion, or Prestidigitation.
 
 ### Rock Gnome
 
 **Required:** 1 CON or higher
 
-* **Tinkerer:** Gain the Alchemy or Artifice knack.
-* **Artificer Lore:** Gain proficiency in Arcana or Technology or gain the Prestidigitation cantrip.
+* **Tinkerer:** Gain proficiency in Arcana or Technology and gain the Mending or Prestidigitation cantrip.
 
 ### Other Gnome
 
