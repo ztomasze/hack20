@@ -28,7 +28,7 @@ The style of fighters and barbarians.
 The style of rangers and monks.
 
 * Add half your WIS (rounded down) to damage rolls with finesse weapons and ranged [weapons](equipment.md#weapons)
-* Add your WIS to DEX when applying your DEX to [Armor Class](equipment.md#armor-class).
+* Add your WIS to DEX when computing your dodge [Armor Class](equipment.md#armor-class).
 * Minimum starting HP: +0
 
 #### Cunning
@@ -90,7 +90,7 @@ Familiar | Arcane or Nature tradition |
 | :---- | :---- | :---- |
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
 | **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 7 or 8. | |
-| **Dodge** | The max AC you can achieve when adding your DEX to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
+| **Dodge** | The max AC you can achieve when adding your dodge AC to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
 | **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | Expert |
 | **Great Fortitude** | Add one HD to a STR or CON save. The HD is expended on a 7 or 8. | |
 | **Iron Will** | Add a HD to a WIS or CHA save. The HD is expended on a 7 or 8. | |
@@ -114,7 +114,7 @@ Extra Spell known
 | Warrior Feat | Effect | Prereq |
 | :---- | :---- | :---- |
 | **Brawler** | Your unarmed attack deals +d damage (d3 or d4 instead of d2 or d3) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal both unarmed attack damage dice (2d3 or 2d4) as a single attack. | |
-| **Burly** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your AC (max: AC13) before adding your DEX or shield AC. | |
+| **Burly** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your armor AC to a max of armor AC 13. | |
 | **Deadly Damage** | Add a HD to the damage you deal with a weapon attack. The HD is expended on a 7 or 8. | |
 | **Dual Wielder** | When two weapon fighting, your offhand attack penalty is reduced by 2 (usually from -4 to -2). You can draw an offhand weapon as part of the same action you use to draw your primary weapon. | DEX +3 |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. |

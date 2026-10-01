@@ -22,21 +22,26 @@ The details of this guidance may vary based on the specific situation. For examp
 
 Your **armor class** (AC) determines how difficult you are to hit in combat.
 
-To compute your AC:
+Your AC = armor AC + shield AC + dodge AC + cover AC + untyped bonuses to AC
 
-* Start with your armor's AC (or 10 if you are unarmored)
-* Add your shield AC (if any)
-* Add your DEX score
-  * A positive DEX score cannot raise your AC above 15.
-  * If your DEX score is negative, it reduces your AC only by the amount that it exceeds your (armor's AC - 10). For example, if you are wearing leather armor (AC 12) with -3 DEX, you apply a -1 penalty to your AC, for a total of 11 AC.  If you instead wore ring mail or heavier armor (AC 13 or higher), your AC would not be reduced by DEX.
+* **Armor AC:** Start with your highest armor AC or 10 if you are unarmored. For example, while some armor combinations are unreasonable, you might wear a padded gambeson (AC 11) under your plate mail (AC 16). Similarly, you might wear leather armor (AC12) but then receive the Mage Armor spell (AC13). Apply only the single highest armor AC value available to you.
+* **Shield AC:** Add your shield AC (if any). Again, apply only your highest shield AC value.
+* **Dodge AC:** Add your DEX score, with the following caveats:
+  * A positive dodge AC bonus cannot raise your total AC above 15.
+  * If your DEX score is negative, reduce the penalty by (armor's AC - 10). For example, if you are wearing leather armor (AC 12) with -3 DEX, your dodge AC is -1, for a total AC of 11.  If you instead wore ring mail or heavier armor (AC 13 or higher), your dodge AC would be 0.
+  * Certain class abilities may allow you add other bonuses to dodge AC or change the upper limit of your dodge AC.
+* **Cover AC:** Is situational. See [Combat: Cover](combat.md#cover).
+* **Other bonuses:** Most often come from [Magic: Bonuses](magic.md#bonuses)
 
-Disregarding any magical bonuses on them, **the AC granted by your armor + shield cannot exceed 13 + STR**. If you do not meet this requirement, you are encumbered (physically impaired) and can't cast spells.
+Magically enchanted armor and shields grant their magical bonuses to their respective armor AC or shield AC rather than to your total AC.
+
+Disregarding any magical bonuses on them, **the AC granted by a physical armor + physical shield cannot exceed 13 + STR**. If you do not meet this requirement, you are encumbered (physically impaired) and cannot cast spells.
 
 * For example, if you have -3 STR, you cannot wear any armor without penalty. You must have at least +3 STR to wear plate mail, or +5 STR to also carry a metal shield.
 
 ### Armor
 
-| Armor | AC | Cost (gp) | Type | Equivalents |
+| Armor | Armor AC | Cost (gp) | Type | Equivalents |
 | :---- | :---- | :---- | :---- | :---- |
 | **(unarmored)** | 10 | - | - | |
 | **Padded** | 11 | 5 | Light | _gambeson_, _quilted_ |
@@ -53,12 +58,12 @@ Disregarding any magical bonuses on them, **the AC granted by your armor + shiel
 
 See _Weapons_ for more on size.
 
-| Shield | +AC | Cost (gp) | Type | Size | Special rules |
+| Shield | Shield AC | Cost (gp) | Type | Size | Special rules |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Buckler** | \+1 | 5 | Light | 2 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, or make an offhand unarmed melee attack, but you cannot wield an offhand weapon or make two-handed melee weapon attacks. |
-| **Wooden** | \+1* | 10 | Medium | 3 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
-| **Metal** | \+2 | 20 | Medium | 4 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
-| **Tower** | \+4 | 30 | Heavy | 5 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
+| **Buckler** | 1 | 5 | Light | 2 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, or make an offhand unarmed melee attack, but you cannot wield an offhand weapon or make two-handed melee weapon attacks. |
+| **Wooden** | 1* | 10 | Medium | 3 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
+| **Metal** | 2 | 20 | Medium | 4 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
+| **Tower** | 4 | 30 | Heavy | 5 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
 
 #### Shield Bash
 
