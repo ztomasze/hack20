@@ -23,6 +23,12 @@ Your POWER equals the lesser of your level or your MAGIC, divided by 2, rounded 
 
 Your POWER determines the most powerful spells that you can cast and determines some spell effects.
 
+### Casting
+
+See [Combat: Cast](combat.md#cast) for the common details of casting a spell.
+
+Further mechanics are explained below for each casting method.
+
 ### Spell Tiers
 
 Spells are assigned to **tiers** 0 through 4. You must have POWER greater than or equal to a spell's tier in order to cast that spell.
