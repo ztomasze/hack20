@@ -264,3 +264,22 @@ Transformation is typed depending on the nature of its source, such as: corrupti
 * At 10 points within a single type, your transformation is complete: You lose your humanity. Your character becomes an NPC or monster under the GM's control.
 
 There is no default way to remove points of transformation. Certain rare substances, obscure ceremonies, or wishes may allow some respite.
+
+## Effects
+
+### Spell Stacking
+
+You can only be affected by one instance of an ongoing spell at a time. A second instance of the same spell may refresh the duration of the spell.
+
+### Bonuses
+
+Many spells grant bonuses to stats or rolls.  In such cases, **apply only the single largest positive bonus and single largest negative bonus** from spells, spell-like abilities, magic items, and similar magical effects.
+
+* Dice bonuses and penalties cancel each other out if they are the same size (+1d4 + -1d4 = 0).
+* Ignore any dice bonuses (or penalties) if a static bonus (or penalty) is greater than the max value of the die.
+
+_Example:_ You are currently making an attack roll while subjected to Benediction (+1 to attacks), Bless (+1d4 to attacks), any enemy's Prayer (-1 to attacks), and True Strike (+20 to next attack). The greatest bonus from magic is +20; the greatest penalty is -1. Therefore, you are at +19 to this roll.
+
+_Example:_ You are making an attack roll while subjected to a Bane (-1d4 to attacks) and an ally's Prayer (+1 to attack).  You are at +(1 - 1d4) to this roll.
+
+_Example:_ You are wearing padded armor (armor AC 11), carrying a buckler (shield AC 1), have 1 DEX (dodge AC 1). You are then subjected to a Mage Armor spell (armor AC 13), an ongoing Shield spell (shield AC 4),  a Shield of Faith spell (+2 AC), and a Protection from Evil (+2 AC vs fiends and others). By the [Armor Class](equipment.md#armor-class) rules and the magic bonus rules, your total AC is now 19 (armor AC 13 + shield AC 4 + dodge AC 0 + bonus AC +2), even when attacked by a fiend.
