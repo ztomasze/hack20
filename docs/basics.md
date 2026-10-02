@@ -176,9 +176,10 @@ Nearly all game effects will use one of these ranges.
 | **quarter measure** | &frac14;M | (reach) | A reach weapon; more than a step but less than two (rounding to either 1S or 2S depending on context). | 7.5' | 1.5" |
 | **half measure** | &half;M | Close | How far you can normally move over difficult terrain; two to four steps away; other things in the same small room as you. Candlelight. | 15'  (10' to 20') | 3" |
 | (full) **measure** | 1M | Near | How far you can travel with one Move over normal ground. Accurate throwing range. Torchlight; candlelight \+ dimsight. | 30'  (25' to 45') | 6" |
-| **double measure** | 2M | Far | How far you can travel in one turn with two Moves over normal ground. Max throwing distance with disadvantage. Accurate shooting range. Torchlight \+ dimsight. | 60'  (50' to 85') | 12" |
-| - | - | **(far) afield** | Beyond reach of movement or thrown weapons this turn, but still on the battlefield (map). Within range of inaccurately fired projectile weapons, such as bows, and some spells. | 90'+ (90' to 150') | 13+" |
-| - | - | **faraway** (far-off) | Beyond weapon range but still in sight. | \+ | \+ |
+| **double measure** | 2M | Far | How far you can travel in one turn with two Moves over normal ground. Max throwing distance with disadvantage. Accurate shooting range. Torchlight \+ dimsight. | 60'  (50' to 80') | 12" |
+| **quadruple measure** | 4M | Very Far | Beyond reach of movement, thrown weapons, or accurately fired weapons this turn, but within range of inaccurately fired weapons, such as bows, and some spells. | 120' | 24" |
+| - | - | **(far) afield** | Out of reach this turn, but still reachable this scene (still on the battlefield) | \+ | \+ |
+| - | - | **faraway** (far-off) | Out of reach this scene. | \+ | \+ |
 
 <!--
 
