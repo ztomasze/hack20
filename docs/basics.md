@@ -153,6 +153,10 @@ There are 24 hours in a **day**.  If a clear ending point is needed for a magica
 
 ## Distance
 
+It is recommended to play on an abstract gridless map. The GM can either adjudicate distances or use demarcated zones.
+
+However, the abstract measurement system also works for both theater-of-the-mind play or more specific gridded play.
+
 ### Step & Measure
 
 Distances are defined around an abstract standard distance called a measure.  One **measure** (1M) is the distance a humanoid can move over clear ground and still attack, the accurate range of a thrown weapon, and the radius of illumination of a burning torch.
@@ -181,26 +185,23 @@ Nearly all game effects will use one of these ranges.
 | - | - | **(far) afield** | Out of reach this turn, but still reachable this scene (still on the battlefield) | \+ | \+ |
 | - | - | **faraway** (far-off) | Out of reach this scene. | \+ | \+ |
 
-<!--
+### Areas
 
-### Aura
+Many effects produce an area or affects a volume of space.  
 
-An **aura** is an effect that originates from a creature or object and includes or affects everything within a given distance of that center point. For example, a candle illuminates a close aura. This illuminates the creature carrying it and everything that is close to them.
+* When casting a spell with a given area, it typically affects the stated number of targets if they are present to be affected. This is a useful metric when playing theater of the mind or adjudicating an unclear situation on an abstract map. The GM may lower this value if targets are scattered or increase it if they are densely packed within the area.
+* If a creature is on the edge of a hazardous area of effect, they might gain advantage on their save.
 
-* An aura effect moves with its point of origin.
+| Area | Description | Radius | Diameter /<br>Side&nbsp;Length | Targets |
+| :---- | :---- | :---- | :---- | :---- |
+| **Tiny** | The fighting or personal space of a single humanoid-size creature | - | 1S | 1 |
+| **Small** | A creature's space and everything adjacent or one step away; a quarter of a typical dungeon room | &frac14;M | &frac12;M | 2 to 3 |
+| **Large** | A creature or point and everything close to it; fills a typical dungeon room | &frac12; M | 1M | <!--3--> 4 to 6 |
+| **Huge** | A creature or point and everything near to it; a massive area; a cathedral hall; four zones or adjacent "rooms" | 1M | 2M | 6 to 12 |
 
-#### Area {#area}
+Some areas come in a particular shape, especially for spell effects.
 
-An **area** is much like an aura, but it is centered on a single point or personal-sized space.
-
-* An area does not move once in place.
-
-| Area | Description | Radius | Diameter |
-| :---- | :---- | :---- | :---- |
-| **Tiny** | Covers the fighting space of a single humanoid-size creature | Personal (\~2') | Adjacent (\~5') |
-| **Small** | A creature and its adjacent allies; a tight cluster of 2 to 4 creatures; a quarter of a typical dungeon room | Adjacent (\~5' to 7') | Close  (\~15') |
-| **Large** | A central creature or point and everything close to it; fills a typical dungeon room | Close (\~12' to 15') |  Near (\~30') |
-
-The *Magic* section includes some additional time, distance, and area details.
-
--->
+* An **aura** is an area effect that originates from a creature or object and includes or affects everything within a given distance of that center point. An aura effect moves with its point of origin. For example, a candle illuminates a small aura and torch illuminates a large aura.
+* A **cone** extends from the caster or source of the effect. Its length is equivalent to the area's side length, but it affects only one target within the area near the caster and more farther away.  It affects the lower end of the Targets range.
+* A **cube** affects the upper end of the Targets range, while a **cylinder** or **sphere** affects somewhere in the middle.
+* A **line** is 1S to 2S wide and a given length, usually 2M or 4M, that affects 1 to 2 targets per measure.
