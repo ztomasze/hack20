@@ -107,7 +107,7 @@ If you should ever lose your spellbook, you can spend 1 day of downtime to recon
 
 **Preparing spell slots:** You can only prepare the fragile mental constructs of spell energies when you mind is fresh. At end of a long rest, you can empty any occupied spells slots. You can then fill any empty slots with spells from your spellbook.
 
-* You need to be able to read your spellbook with uninterrupted focus over several minutes to do this.
+* You need to be able to read your spellbook with uninterrupted focus over several minutes (a scene) to do this.
 * Each slot represents a separate future casting of a spell.  Therefore, if you expect you may want to cast a given spell more than once, you need to prepare more than one copy (slot) of it.
 * You may prepare spells of a lower tier in a slot of a higher tier. For example, you can use a Tier 3 slot to prepare a Tier 2 spell. You might need to do this if have you a low MAGIC score, such that you do not have sufficient POWER to cast spells of your higher tiered slots.
 * To indicate your prepared spells on your character sheet, you can draw a small box next to a spell known for each copy of that spell that you have prepared. You'll then check these boxes off when you cast that prepared spell. If you place that spell in a higher-level spell slot, write the tier of the slot under the box.
