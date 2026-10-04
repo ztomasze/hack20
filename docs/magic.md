@@ -135,26 +135,39 @@ If you should ever lose your spellbook, you can spend 1 day of downtime to recon
 * A priest, clutching his prayer book, descends into the gloom of a defiled tomb.
 * A grimscribe, bearing the spells of her dark magic inked in black on her own skin, pulls her sleeves down over her arms before stepping from the dark alley.
 
-#### The Way (WIS)
+### The Way (WIS)
 
 The Way relies on magic **inspired** directly from its source. Practitioners of the Way meditate upon, pray to, or otherwise commune with the wellspring of their magic.  In return, they gain mystical or arcane insights that allow them to reshape reality. While this communion is often physically exhausting, it leaves the practitioner internally thrumming with magical energy, which typically causes them to feel bouyed, ecstatic, or intensely focused. The Way can be taught to some degree, but such learning relies more on long hours of meditative practice or on mental exercises intended to help the neophyte reach beyond logic or reason to connect with a greater truth or power that lies beyond.
 
 **MAGIC:** WIS
 
-**Spells known:** You begin play knowing MAGIC+POWER Tier 1 spells.
+**Spells known:** Because you pull your knowledge directly from a wellspring of your tradition, you can prepare any spell from that tradition that you have sufficient POWER to cast.
 
-At the end of a long rest, you can commune with your magical source:
+**Spell slots:** However, while any spell is available to you, you can only hold so many in your mind at once. This is represented as spell slots. You gain additional spell slots as you level up:
 
-* This requires several minutes of uninterrupted focus.
-* Depending your tradition, a particular ritual, holy symbol, or material focus might be commonly used to shorten the time required to reach the necessary mental state.
-* You can then swap one spell known for another spell from your tradition that is of a tier you can cast.
+| Level | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+| :-- | :-- | :-- | :-- | :-- |
+| **1** | 2 | | | |
+| **2** | 4 | | | |
+| **3** | 4 | 2 | | |
+| **4** | 4 | 3 | | |
+| **5** | 4 | 3 | 2 | |
+| **6** | 4 | 3 | 3 | |
+| **7** | 4 | 3 | 3 | 1 |
+| **8** | 4 | 3 | 3 | 2 |
 
-**Spell points (SP):** You cast your spells using spell points, as described below.
+**Spell points (SP):** Unlike a caster of the Word, your spell slots contain only the knowledge of the spell, but not the energy needed to make it manifest in the world. To do that, you must expend spell points, as described below.
 
-**Preparing spell points:** At the end of any rest (short or long), you can commune with your magical source to gather magical energy.
+**Preparing spell slots:** At the end of a long rest, you can commune with your magical source:
 
-* This process is the same as described above for swapping spells known and can be combined with that effort.
-* As part of the communion, you can expend HD to gain spell points.  
+* This requires several minutes (a scene) of uninterrupted focus.
+* You must have on hand a special meditative focus specific to your tradition, such a holy symbol, prayer beads, crystal ball, wand, athame, sprig of mistletoe, etc. Without this focus, your preparation requires a full hour.
+* You may prepare spells of a lower tier in a slot of a higher tier. For example, you can use a Tier 3 slot to prepare a Tier 2 spell. You might need to do this if have you a low MAGIC score, such that you do not have sufficient POWER to cast spells of your higher tiered slots.
+
+**Preparing spell points:** As part of any rest (short or long), you can commune with your magical source to gather magical energy.
+
+* This process is the same as described above for preparing spell slots and can be combined with that effort.
+* As part of the communion, you can expend HD to gain spell points:
   * You gain 4 SP for each HD expended, or 9 SP for each 2 HD expended.  
   * At level 5 and above, you gain +1 SP per HD expended.
 
@@ -171,10 +184,11 @@ The following table shows the maximum SP you can gain at each level if you choos
 | **7** | 38 |
 | **8** | 44 |
 
-**Casting a spell:** To cast a spell you know, you must first pay its spell point cost as part of casting it:
+**Casting a spell:** To cast a spell you have prepared, you must first pay its spell point cost as part of casting it:
 
 | Tier | SP Cost |
 | :-- | :-- |
+| **0** | 0 |
 | **1** | 2 |
 | **2** | 3 |
 | **3** | 5 |
@@ -182,13 +196,13 @@ The following table shows the maximum SP you can gain at each level if you choos
 
 **Features of the Way:** You should use the Way if:
 
-* You want a flexible way to reliably cast any spell that you know.
+* You want a flexible way to reliably cast any spell that you have prepared today.
 * You want to have the greatest range of spells readily available to you over the course of play: A good night's sleep is all that stands between you and any spell available from your tradition!
 
 **Example practitioners of the Way:**
 
-* A young druid reaches out, becoming one with the Green; then he moves together with the grasses around him to strangle and bind the invaders of this ancient forest.
-* A theurge contemplates the Weave that binds all of reality together; by plucking a thread here and tugging another there, she causes fire to blossom in her hand.
+* A young druid reaches out, becoming one with the Green; he moves together with the grasses around him to strangle and bind the invaders of this ancient forest.
+* A theurge contemplates the Weave that binds all of reality together; by plucking a thread here and tugging another there, she causes fire to blossom from her hand.
 * An votary quietly sings hymns of praise to his goddess; he prays that he might understand her will so that she might fortify him to do her bidding in this world.
 
 #### The WILL (CHA)
