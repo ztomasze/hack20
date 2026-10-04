@@ -1,6 +1,6 @@
 # Magic
 
-Magic is used by spellcasting characters to cast spells.  Magic also fuels magic items and is wielded by some monsters.
+Magic is used by spellcasting characters to cast spells.  Magic also fuels magic items, and it is wielded by some NPCs and monsters.
 
 ## Spellcasting
 
@@ -10,7 +10,7 @@ When you gain the ability to cast spells, you gain two additional derived [stats
 
 #### MAGIC
 
-Your MAGIC score equals that of the ability score that powers your magic. This is determined by your spellcasting method, described below.
+Your MAGIC score equals that of the ability score that powers your magic. Your spellcasting [method](#method) determines which ability score you use for this.
 
 Your MAGIC limits your POWER and determines some spell effects.
 
@@ -27,7 +27,7 @@ Your POWER determines the most powerful spells that you can cast and determines 
 
 See [Combat: Cast](combat.md#cast) for the common details of casting a spell.
 
-Further mechanics are explained below for each casting method.
+Further mechanics are explained below for each spellcasting [method](#method).
 
 ### Spell Tiers
 
