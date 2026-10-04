@@ -10,10 +10,11 @@ Warriors are proficient with all weapons, all armor, and all shields.
 
 At level 1:
 
-1. Choose a **fighting style**.
-1. Choose one starting **talent**.
-1. Minimum starting HP: 6+CON
-    * Your fighting style choice may then modify this.
+1. Choose one [fighting style](#fighting-styles).
+    * This choice will also affect your minimum starting HP.
+1. Choose one [warrior talent](#warrior-talents).
+1. Start with a minimum HP of 6+CON.
+    * Your fighting style choice may modify this.
 
 ### Fighting Styles
 
@@ -21,7 +22,7 @@ At level 1:
 
 The style of fighters and barbarians.
 
-* Add half your STR (rounded down) to damage rolls with melee and throwable [weapons](equipment.md#weapons)
+* Add half your STR (rounded down) to damage rolls with melee and throwable [weapons](equipment.md#weapons).
 * When you expend a HD to recover HP as part of a short rest, +CON to the result (if your CON is positive).
 * Minimum starting HP: +1
 
@@ -29,7 +30,7 @@ The style of fighters and barbarians.
 
 The style of rangers and monks.
 
-* Add half your WIS (rounded down) to damage rolls with finesse weapons and ranged [weapons](equipment.md#weapons)
+* Add half your WIS (rounded down) to damage rolls with finesse weapons and ranged [weapons](equipment.md#weapons).
 * Add your WIS to DEX when computing your dodge [Armor Class](equipment.md#armor-class).
 * Minimum starting HP: +0
 
