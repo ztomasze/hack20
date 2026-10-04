@@ -33,12 +33,7 @@ Further mechanics are explained below for each spellcasting [method](#method).
 
 Spells are assigned to **tiers** 0 through 4. You must have POWER greater than or equal to a spell's tier in order to cast that spell.
 
-#### Cantrips
-
-Tier 0 spells are called **cantrips**. They do not require you to draw mana to cast, and so casting them always succeeds without expending any resources.
-
-* A spellcaster knows 2+POWER cantrips, selected from those available to their magical tradition.
-* A spellcaster can choose to know another cantrip in place of a Tier 1 spell.
+Tier 0 spells do not require you to draw mana to cast, and so casting them always succeeds without expending any resources.
 
 #### Ceremonies
 
@@ -60,6 +55,12 @@ The default spell list indicates whether a given spell is available to each of t
 
 If you GM is open to it for the current campaign, you can work with them to define a new tradition.
 Example additional traditions might include artifice, bardic song, dark magic, etc.
+
+## Cantrips
+
+Each spellcaster gains 2+POWER cantrips. A **cantrip** is a Tier 0 spell, selected from your tradition's spell list, that is so well-practiced as to always be available to you. Your cantrips can be cast at will, and they do not count against your spells known or prepared according to your method (below).
+
+Each time you gain a level, you can swap one cantrip you know for another.
 
 ## Method
 
