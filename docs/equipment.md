@@ -129,16 +129,16 @@ Equivalent weapons listed in parentheses are of a different general type (such a
 | Weapon | Damage | Size | Properties | Equivalent Weapons |
 | :---- | :---- | :---- | :---- | :---- |
 | **Battleaxe** | 1d8/1d10 | 4 | Versatile | (bastard sword) |
-| **Club** | 1d6 | 2 | Simple | cudgel |
+| **Club** | 1d6 | 2 | Simple | cudgel, (machete, sickle) |
 | **Dagger** | 1d4 | 1 | Finesse, Throwable | knife |
 | **Handaxe** | 1d6 | 2 | Throwable | hatchet, throwing axe |
 | **Hammer** | 1d4 | 2 | Simple, Throwable | throwing hammer, light hammer |
 | **Javelin** | 1d4/1d6 | 3 | Finesse, Throwable, Versatile (light) | shortspear |
 | **Lance** | 1d10 | 6 | Reach, Two-Handed, Special(one-handed when mounted) | |
-| **Longsword** | 1d8 | 3 | | broadsword, falchion, knightly arming sword, sabre, scimitar |
+| **Longsword** | 1d8 | 3 | | broadsword, falchion, knightly arming sword, sabre |
 | **Mace** | 1d8 | 3 | | military flail, morningstar, war pick |
 | **Polearm** | 1d10 | 6 | Reach, Two-Handed | glaive, longspear, halberd, pike, poleaxe, ranseur, etc |
-| **Shortsword** | 1d6 | 2 | Finesse | cutlas, dirk, kukri, rapier, sai, seax |
+| **Shortsword** | 1d6 | 2 | Finesse | cutlas, dirk, kukri, rapier, sai, scimitar, seax |
 | **Spear** | 1d6/1d8 | 4 | Throwable, Versatile | trident |
 | **Staff** | 1d4/1d6 | 4 | Finesse, Simple, Versatile | bo stick |
 | **Two-handed sword** | 1d10 | 5 | Two-Handed | (bardiche), claymore |
