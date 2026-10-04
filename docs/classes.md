@@ -20,7 +20,7 @@ At level 1:
 The style of fighters and barbarians.
 
 * Add half your STR (rounded down) to damage rolls with melee and throwable [weapons](equipment.md#weapons)
-* When you expend a HD to recover HP as part of a short rest, you recover a minimum of CON HP.
+* When you expend a HD to recover HP as part of a short rest, +CON to the result (if your CON is positive).
 * Minimum starting HP: +1
 
 #### Intuitive
