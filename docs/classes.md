@@ -6,6 +6,8 @@ There are two base classes: **Warrior** or **Spellcaster**. The **talent** that 
 
 A warrior relies primarily on their martial training, skills, or feats to succeed.
 
+Warriors are proficient with all weapons, all armor, and all shields.
+
 At level 1:
 
 1. Choose a **fighting style**.
