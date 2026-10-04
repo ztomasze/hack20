@@ -66,15 +66,7 @@ Other traditions might include alchemy, artifice, bardic song, etc.
 
 When defining a new tradition, work with your GM to determine its source, which spells are available from that source, and what its typical trappings are. The default spell list indicates whether a given spell is available to each of the three traditions above.
 
-### Trappings
-
-Trappings primarily describe the cosmetic effects of your magic. For example, the _bolt_ cantrip deals damage at range. What this looks like depends on your trappings: a glowing orb of green light, a fist of fire, a ball of ice, a spinning blade, a spectral serpent that slithers along the ground to the target, a beam of momentarily engulfing shadow, etc.
-
-However, your trappings may occasionally have more substantial consequences. A fire _bolt_ would let you ignite spilled oil, but it would leave a fire-immune demon unharmed. A spinning-blade _bolt_ might let you sever a chandelier rope from across the room, but an ice-ball _bolt_ would not. A lightning-based trapping would produce a bright flash of light, while a thunder-based trapping would be heard far down the hall, even around corners.
-
-Starting with the trappings that are thematically relevant to the source of your magic, your character's unique workings of that magic may further customize those trappings. A spell you know should have the same trappings every time you cast it (unless you adjust the trappings by the same means you would use to learn a new spell).  You can choose to rename a spell to reflect your unique version of it.
-
-### Method
+## Method
 
 Each spellcaster, regardless of their tradition, has a method that they use to draw and cast their magic.
 
