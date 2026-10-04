@@ -46,13 +46,7 @@ Tier 0 spells are called **cantrips**. They do not require you to draw mana to c
 
 ## Tradition
 
-Each spellcaster belongs to a magical tradition. This tradition includes the source of their magic, the spells available to them, and the typical trappings of their magic or any mishap effects.  
-
-The available traditions can vary with the campaign setting.
-
-### Source
-
-The source of your magic does much to define the flavor or limitations of your magic.
+Each spellcaster belongs to a magical tradition. This tradition includes the source of their magic and the spells available to them. The available traditions can vary with the campaign setting.
 
 As a starting default, here are three classic traditions, including the source and flavor of each:
 
@@ -62,9 +56,10 @@ As a starting default, here are three classic traditions, including the source a
 | **Divine** | Gods or a faith in greater moral powers | Tends to bolster, heal, and aid, but it can be destructive when smiting opposing forces. May channel radiant energy but typically not raw elemental energies. |
 | **Nature** | The primal energies of living plants, biomes, and the elemental planes | Tends to support or manipulate living creatures in non-destructive ways, but can summon elemental energies, such as storm or fire, when needed. |
 
-Other traditions might include alchemy, artifice, bardic song, etc.
+The default spell list indicates whether a given spell is available to each of the three traditions above.
 
-When defining a new tradition, work with your GM to determine its source, which spells are available from that source, and what its typical trappings are. The default spell list indicates whether a given spell is available to each of the three traditions above.
+If you GM is open to it for the current campaign, you can work with them to define a new tradition.
+Example additional traditions might include artifice, bardic song, dark magic, etc.
 
 ## Method
 
