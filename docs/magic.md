@@ -35,10 +35,10 @@ Spells are assigned to **tiers** 0 through 4. You must have POWER greater than o
 
 #### Cantrips
 
-Tier 0 spells are called **cantrips**. They do not require you to draw mana to cast, and so casting them always succeeds.
+Tier 0 spells are called **cantrips**. They do not require you to draw mana to cast, and so casting them always succeeds without expending any resources.
 
-* The number of cantrips available to a character depends on their class.
-* A spellcaster can choose to learn a cantrip in place of Tier 1 spell. However, cantrips acquired by this means are treated as a Tier 1 spell for that spellcaster for purposes of casting costs.
+* A spellcaster knows 2+POWER cantrips, selected from those available to their magical tradition.
+* A spellcaster can choose to know another cantrip in place of a Tier 1 spell.
 
 #### Ceremonies
 
