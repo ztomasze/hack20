@@ -68,13 +68,13 @@ Each spellcaster, regardless of their tradition, has a method that they use to d
 
 * You choose your method when you gain the ability to cast spells. You cannot change this choice later.
 * Each method is associated with a different mental ability score.  
-* All spellcasters start with the same number of spells known to them, but each method has a different means of adding or changing that spell list.
+* Each method varies on how the spellcaster powers their casting and what spells are available to them from their tradition.
 
-| Method | Ability (MAGIC) | Spellcasting Mechanic | Changes to Spells Known | Starting HP |
+| Method | Ability (MAGIC) | Spellcasting Mechanic | Spells Available | Starting HP |
 | -- | -- | -- | -- | -- |
-| The Word | INT | Prepared spell slots | Can add discovered spells to spellbook | -1 |
-| The Way | WIS | Spell points prepared from HD | Can commune to swap 1 spell known per day | +0 |
-| The Will | CHA | Raw mana drawn directly from HD | Can swap 1 spell known per level up | +1 |
+| The Word | INT | Prepared spell slots or adhoc from your spellbook | Only those in your spellbook | -1 |
+| The Way | WIS | Prepared spell slots only, powered by spell points from HD | Can commune to prepare any spell from your tradition | +0 |
+| The Will | CHA | Raw mana drawn directly from HD, which can mishap | Limited number of spells known | +1 |
 
 #### The Word (INT)
 
