@@ -4,7 +4,6 @@ A **skill** is a domain of practice that you excel at due to experience, trainin
 
 * Each character starts with proficiency in 5 skills.
 * Expertise or proficiency in more skills can be gained through [class](classes.md) feats.
-* This proficiency mechanic only applies to skill checks; it does not apply to weapons, attacks, or saves.
 
 ## Using Skills
 

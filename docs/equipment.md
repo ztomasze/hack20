@@ -88,6 +88,10 @@ Weapons are then differentiated by **properties**, which are specific to either 
 
 Some of the most common fantasy medieval weapons are provided as samples of applying these rules. A few of them have special rules. Players can propose additional historical weapons that are not on the table.
 
+### Weapon Proficiency
+
+If you use a weapon for which you lack proficiency, your attack rolls with that weapon are made at -4.
+
 ### Weapon Size
 
 To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 6 (a polearm).  Characters can generally carry a total weapon size value around 10 to 12, although the specifics matter.
