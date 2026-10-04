@@ -283,7 +283,9 @@ There is no default way to remove points of transformation. Certain rare substan
 
 ### Spell Stacking
 
-You can only be affected by one instance of an ongoing spell at a time. A second instance of the same spell may refresh the duration of the spell.
+Ongoing instances of the same spell don't stack; you gain the spell's effect only once. However, the spells do overlap and so must be ended separately.
+
+For example, if you are the subject of two Bless spells, you gain only a single +1d4 die benefit. If another creature cast Bane on you (which would normally counter an instance of Bless), you retain one instance of Bless (your choice as to which one and its corresponding source) and you would continue to receive Bless's benefits.
 
 ### Bonuses
 
