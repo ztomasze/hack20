@@ -35,9 +35,15 @@ Your AC = armor AC + shield AC + dodge AC + cover AC + untyped bonuses to AC
 
 Magically enchanted armor and shields grant their magical bonuses to their respective armor AC or shield AC rather than to your total AC.
 
-Disregarding any magical bonuses on them, **the AC granted by a physical armor + physical shield cannot exceed 13 + STR**. If you do not meet this requirement, you are encumbered (physically impaired) and cannot cast spells.
+### Strength Requirement
 
-* For example, if you have -3 STR, you cannot wear any armor without penalty. You must have at least +3 STR to wear plate mail, or +5 STR to also carry a metal shield.
+Disregarding any magical bonuses on them, the AC granted by a physical armor + physical shield cannot exceed 13 + STR. If you do not meet this requirement, you are encumbered (physically impaired) and cannot cast spells.
+
+For example, if you have -3 STR, you cannot wear any armor without penalty. You must have at least +3 STR to wear plate mail, or +5 STR to also carry a metal shield.
+
+### Armor Proficiency
+
+If you are a spellcaster and wear armor or a shield with which you are not proficient, you cannot cast spells.
 
 ### Armor
 
