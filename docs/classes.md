@@ -52,6 +52,18 @@ The style of swashbucklers, assassins, and rogues.
 
 ## Spellcaster
 
+A spellcaster reminds primarily on their magical ability to succeed. See [Magic](magic.md) for more.
+
+At level 1:
+
+1. Choose your [magical tradition](magic.md#tradition).
+    * This choice will also determine your weapon and armor proficiencies.
+1. Choose your [magical method](magic.md#method).
+    * This choice will determine your [MAGIC](magic.md#magic-1) stat and may affect your minimum starting HP.
+1. Choose one [spellcaster talent](#spellcaster-talents).
+1. Start with a minimum HP of 5+CON.
+    * Your magical method choice may modify this.
+
 ### Spellcaster Talents
 
 | Spellcaster Talent | Effect |
