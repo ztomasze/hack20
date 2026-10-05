@@ -41,19 +41,52 @@ Tier 0 spells do not require you to draw mana to cast, and so casting them alway
 
 ## Tradition
 
-Each spellcaster belongs to a magical tradition. This tradition includes the source of their magic and the spells available to them. The available traditions can vary with the campaign setting.
+Each spellcaster belongs to a magical tradition. Your tradition defines the source of your magic and the spells available to you, as well as your weapon and armor proficiencies.  These proficiencies are more lenient for warriors who gain spellcasting abilities through the warrior's Spellcasting talent.
 
-As a starting default, here are three classic traditions, including the source and flavor of each:
+The available traditions can vary with the campaign setting. As a starting default, here are the details for three classic traditions.
 
-| Tradition | Magical Source | Flavor / Limitations |
-| -- | -- | -- |
-| **Arcane** | The raw energies latent within reality itself | Tends to be flashy, destructive, or transformative. Cannot heal. |
-| **Divine** | Gods or a faith in greater moral powers | Tends to bolster, heal, and aid, but it can be destructive when smiting opposing forces. May channel radiant energy but typically not raw elemental energies. |
-| **Nature** | The primal energies of living plants, biomes, and the elemental planes | Tends to support or manipulate living creatures in non-destructive ways, but can summon elemental energies, such as storm or fire, when needed. |
+### Arcane
 
-The default spell list indicates whether a given spell is available to each of the three traditions above.
+| Facet | Details |
+| -- | -- |
+| **Source** | The raw energies latent within reality itself. |
+| **Flavor** | Tends to be flashy, destructive, or transformative. Cannot heal. |
+| **Spell List** | See the _Arc_ column of the default spell list. |
+| **Armor Proficiency** | None. |
+| **Shield Proficiency** | None. |
+| **Weapon Proficiency** | Only weapons with the Simple property. |
+| **Casting** | - |
+| **Warrior Proficiencies** | Light armor; light shield; all weapons. |
 
-If you GM is open to it for the current campaign, you can work with them to define a new tradition.
+### Divine
+
+| Facet | Details |
+| -- | -- |
+| **Source** | Gods or a faith in greater moral powers |
+| **Flavor** | Tends to bolster, heal, and aid, but it can be destructive when smiting opposing forces. May channel radiant energy but typically not raw elemental energies. |
+| **Spell List** | See the _Div_ column of the default spell list. |
+| **Armor Proficiency** | All. |
+| **Shield Proficiency** | Light or Medium. |
+| **Weapon Proficiency** | All. |
+| **Casting** | You can satisfy your somatic component casting requirement with a weapon in your hand, but you can only touch a willing target if that weapon is blunt (deals bludgeoning damage). |
+| **Warrior Proficiencies** | All armor; all shields; all weapons. |
+
+### Nature
+
+| Facet | Details |
+| -- | -- |
+| **Source** | The primal energies of living plants, biomes, and the elemental planes |
+| **Flavor** | Tends to support or manipulate living creatures in non-destructive ways, but can summon elemental energies, such as storm or fire, when needed. |
+| **Spell List** | See the _Nat_ column of the default spell list. |
+| **Armor Proficiency** | Light or Medium - But no metal. |
+| **Shield Proficiency** | Light or Medium - But no metal. |
+| **Weapon Proficiency** | Only weapons with the Simple, Finesse, or Thrown property. |
+| **Casting** | You can satisfy your somatic component casting requirement with a Simple wooden weapon in your hand, but you can only touch a willing target if that weapon is blunt (deals bludgeoning damage). |
+| **Warrior Proficiencies** | Light and medium armor; light and medium shields; all weapons. |
+
+### Other Traditions
+
+If your GM is open to it for the current campaign, you can work with them to define a new tradition.
 Example additional traditions might include artifice, bardic song, dark magic, etc.
 
 ## Cantrips

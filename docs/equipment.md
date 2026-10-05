@@ -66,7 +66,7 @@ See _Weapons_ for more on size.
 
 | Shield | Shield AC | Cost (gp) | Type | Size | Special rules |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Buckler** | 1 | 5 | Light | 2 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, or make an offhand unarmed melee attack, but you cannot wield an offhand weapon or make two-handed melee weapon attacks. |
+| **Buckler** | 1 | 5 | Light | 2 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, or make an offhand unarmed melee attack, but you cannot wield an offhand weapon or make two-handed melee weapon attacks. Can be made of metal or wood. |
 | **Wooden** | 1* | 10 | Medium | 3 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
 | **Metal** | 2 | 20 | Medium | 4 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
 | **Tower** | 4 | 30 | Heavy | 5 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
