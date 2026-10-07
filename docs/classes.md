@@ -104,7 +104,8 @@ Familiar | Arcane or Nature tradition |
 | General Feat | Effect | Prereq |
 | :---- | :---- | :---- |
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
-| **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 7 or 8. | |
+| **Cantrip** | Gain one cantrip. Choose whether you use INT, WIS, or CHA for any spellcasting rolls. | |
+| **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 5 or higher. | |
 | **Dodge** | The max AC you can achieve when adding your dodge AC to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
 | **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | Expert |
 | **Great Fortitude** | Gain a +2 bonus on STR and CON saves. | |
@@ -117,8 +118,6 @@ SPELLCASTER
 just convert to general - if it's not something a Spellcasting warrior can do, it's a Talent
 
 | **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
-
-Cantrip
 
 Extra Spell known
 
