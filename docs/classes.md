@@ -107,9 +107,9 @@ Familiar | Arcane or Nature tradition |
 | **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 7 or 8. | |
 | **Dodge** | The max AC you can achieve when adding your dodge AC to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
 | **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | Expert |
-| **Great Fortitude** | Add one HD to a STR or CON save. The HD is expended on a 7 or 8. | |
-| **Iron Will** | Add a HD to a WIS or CHA save. The HD is expended on a 7 or 8. | |
-| **Lightning Reflexes** | Add a HD to a DEX save or initiative roll. The HD is expended on a 7 or 8. | |
+| **Great Fortitude** | Gain a +2 bonus on STR and CON saves. | |
+| **Iron Will** | Gain a +2 bonus on WIS and CHA saves. | |
+| **Lightning Reflexes** | Gain a +2 bonus on DEX saves and initiative rolls. | |
 | **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
 
 <!--
