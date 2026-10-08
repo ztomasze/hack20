@@ -95,7 +95,7 @@ Familiar | Arcane or Nature tradition |
 **Adding a Hit Die to a roll:** For feats that modify a die roll by expending a HD:
 
 * You may see the results of the d20 or damage roll before you decide whether use the feat modify that roll with a HD. If you do not already know the DC that you need to meet, you must decide whether to modify the roll before the GM tells you whether you succeed or fail.
-* To modify the roll, roll one unexpended HD and add it to the roll result. If the HD's result is a 7 or 8, the HD is expended.
+* To modify the roll, roll one unexpended HD and add it to the roll result. If the HD's result is a 5 or higher, the HD is expended.
 * You may only add the result of a single HD to a roll.
 * Modifying the roll with an HD in this way does not require an additional action.
 
@@ -129,7 +129,7 @@ Extra Spell known
 | :---- | :---- | :---- |
 | **Brawler** | Your unarmed attack deals +d damage (d3 or d4 instead of d2 or d3) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal both unarmed attack damage dice (2d3 or 2d4) as a single attack. | |
 | **Burly** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your armor AC to a max of armor AC 13. | |
-| **Deadly Damage** | Add a HD to the damage you deal with a weapon attack. The HD is expended on a 7 or 8. | |
+| **Deadly Damage** | Add a HD to the damage you deal with a weapon attack. The HD is expended on a 5 or higher. | |
 | **Dual Wielder** | When two weapon fighting, your offhand attack penalty is reduced by 2 (usually from -4 to -2). You can draw an offhand weapon as part of the same action you use to draw your primary weapon. | DEX +3 |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. |
 | **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty |
