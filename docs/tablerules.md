@@ -28,6 +28,14 @@ This rule lets the GM acknowledge extreme circumstances with the dice without op
 
 This rule leaves the door open for the wild magic barbarian trope.
 
+### Warrior Feats
+
+#### Brawler + Extra Attack
+
+> If you have both Brawler and Extra Attack, when you take the single extra attack granted by Extra Attack, you can instead make two unarmed following the two-weapon fighting rules.
+
+This rule lets you better simulate a Flurry of Blows aesthetic of multiple light hits. The default Brawler rules already let you combine the damage of two unarmed attacks into one hit, so this table rule doesn't add a lot.  But it lets you spread your hits around to an extra target and also gain any Fighting Style damage bonus one more time.
+
 ## Combat
 
 ### Opportunity Attacks
