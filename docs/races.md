@@ -31,7 +31,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 **Required:** 1 STR or higher
 
 * **Stonecunning:** You have advantage on checks related to discerning the nature, structure, history, and quality of stonework. You can also discern direction and your approximate depth while underground.
-* **Dwarven Weapon Training:** Gain +1 to attacks made with a handaxe, battleaxe, hammer, or warhammer. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+* **Dwarven Weapon Training:** You are proficient with and gain +1 to attacks made with a handaxe, battleaxe, hammer, or warhammer. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
 
 ### Other Dwarf
 
@@ -49,14 +49,14 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 **Required:** 1 INT or higher
 
-* **Elven Weapon Training:** Gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+* **Elven Weapon Training:** You are proficient with and gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
 * **High Elf Lore:** Gain proficiency in Arcana or History or gain one cantrip selected from the Arcane tradition using INT to cast it.
 
 ### Wood Elf
 
 **Required:** 1 WIS or higher
 
-* **Elven Weapon Training:** Gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
+* **Elven Weapon Training:** You are proficient with and gain +1 to attacks made with a longsword, shortsword, longbow, or shortbow. This bonus does not stack with Weapon Specialization, but, if you have both features, you may reroll (once) a natural 1 on an attack roll made with that weapon.
 * **Wood Elf Lore:** Gain proficiency in Stealth or Survival or gain one cantrip selected from the Druid tradition using WIS to cast it.
 
 ### Other Elf
@@ -142,7 +142,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 **Required:** 1 CHA or higher
 
-* **Halfling Weapon Training:** Gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
+* **Halfling Weapon Training:** You are proficient with and gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
 * **Brave:** You have advantage on saves to resist fear.
 * **Nimble:** Gain proficiency in Acrobatics or Stealth.
 
@@ -150,7 +150,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 **Required:** 1 CON or higher
 
-* **Halfling Weapon Training:** Gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
+* **Halfling Weapon Training:** You are proficient with and gain +1 to attacks made with a sling, staff sling, or stone. This bonus does not stack with Weapon Specialization, but, if you have both features, you gain +1 damage when making a ranged attack with that weapon.
 * **Poison Resistance:** You have advantage on saves to resist poison, and you have resistance to poison damage.
 * **Robust:** Gain advantage on CON saves made against spells and magical effects.
 

@@ -50,6 +50,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Rage** | Once per scene, you can expend a HD to enter a rage as a quick action or as a reaction when you take damage. This typically involves performing appropriate acts like roaring, stomping, or biting your shield. While raging, you gain +2 STR, advantage on WIS and CHA saves, and +CON to AC (max: AC17). You cannot cast spells, concentrate, take the Defend action, or perform any calm, careful, or focused tasks while raging. Your rage lasts until the end of the scene. It ends early if you fall unconscious, if you choose to end it as a free action, or if you do not make a melee attack or spend a quick action to extend your rage on your turn. |
 | **Spellcasting** | You gain a magical tradition and method as per a level 1 Spellcaster, but you do not gain a spellcaster talent. Your effective level for any spellcasting purpose is 1\. You cannot spend more HD than your spellcasting level per day on your spellcasting method. |
 | **Talented** | Gain any two feats (warrior or general) that you qualify for. |
+| **Weapon Master** | Gain two instances of the Weapon Specialization feat. Whenever you attack with a weapon that you have Weapon Specialization for, you deal an additional +1 damage. |
 
 ## Spellcaster
 
@@ -137,6 +138,7 @@ Extra Spell known
 | **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty | 1 |
 | **Second Wind** | Once per scene, as a quick action, expend a HD to regain 1d8 (min: CON) HP. | Athletics or Great Fortitude | 1 |
 | **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: DEX, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | Acrobatics or Lightning Reflexes | 1 |
+| **Weapon Specialization (X)** | Choose one weapon type, such as longbow or shortsword. You gain +1 to attack and damage rolls when you attack with a weapon of that type. Each time you gain a level, you may change the weapon type you have chosen for this feat. | Proficiency in the chosen weapon | U |
 
 <!-- POTENTIAL warrior feats
 
@@ -155,8 +157,6 @@ mounted combat - reaction (and Animal Handling(DEX) check?) to negate a hit on y
 Sharpshooter - Ignore cover.  Or downgrade cover by 1 step.
 
 Stunning Fist - quick action when you hit with an unarmed attack and expend a HD to force a save vs DC10+WIS or be stunned for a round.  Can't stun constructs, oozes, plants, undead, incorporeal creatures, or creatures immune to critical hits.
-
-Weapon Specialization - +1 attack, +1 damage
 
 | **Extra Attack** | When you make a weapon attack, you can expend a HD to attack again. You can only do this only once per round on your turn. | |
 | **Extraordinary Ability** | Choose three cantrips or tier 1 spells. One of these spells can be of tier 2 with some kind of limitation. The spell effects should have trappings subtle enough to have a supernatural explanation (subject to GM approval), and all of them may require some other limitation to activate. You always produce a tiered spell effect by rolling a single HD; if you fail to draw sufficient mana with that HD, it is expended. Your magic ability score can be any ability score appropriate to the effect.  See _Archetypes_ for examples. | **Level 1** |
