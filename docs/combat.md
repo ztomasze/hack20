@@ -165,9 +165,9 @@ Most spells take a major action to cast. However, some can be can as a minor or 
 
 Spells have verbal, somatic, and material components:
 
-* Verbal - You must be able to speak clearly. You cannot cast if you are gagged or silenced.
-* Somatic - You must e able to gesture freely with at least one empty hand.  You cannot cast if you are bound, held, paralyzed, etc.
-* Material - Some spells may require a particular material item or a spellcasting focus. You can manipulate any material component using the same hand you use the satisfy the somatic component.
+* **Verbal** - You must be able to speak clearly. You cannot cast if you are gagged or silenced.
+* **Somatic** - You must be able to gesture freely with at least one empty hand.  You cannot cast if you are bound, held, paralyzed, etc.
+* **Material** - Some spells may require a particular material item or a spellcasting focus. You can manipulate any material component using the same hand you use to the satisfy the somatic component.
 
 Casting a spell requires concentration. If you take damage (such as from a readied attack), are significantly jostled, or suffer some other notable distraction while casting, you must make a CON save. On a failure, you expend any spell resources used by this casting but the spell fails to take effect.
 
@@ -286,7 +286,7 @@ You can also spend a Half Move (or a full Move) to accomplish short movements in
 * stand up from prone
 * mount or unmount
 
-#### Driving
+#### Riding and Driving
 
 You can use your Move to direct the movement of a mount or vehicle that you control.
 
