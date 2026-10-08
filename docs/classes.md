@@ -51,7 +51,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Rage** | Once per scene, you can expend a HD to enter a rage as a quick action or as a reaction when you take damage. This typically involves performing appropriate acts like roaring, stomping, or biting your shield. While raging, you gain +2 STR, advantage on WIS and CHA saves, and +CON to AC (max: AC17). You cannot cast spells, concentrate, take the Defend action, or perform any calm, careful, or focused tasks while raging. Your rage lasts until the end of the scene. It ends early if you fall unconscious, if you choose to end it as a free action, or if you do not make a melee attack or spend a quick action to extend your rage on your turn. |
 | **Spellcasting** | You gain a magical tradition and method as per a level 1 Spellcaster, but you do not gain a spellcaster talent. Your effective level for any spellcasting purpose is 1\. You cannot spend more HD than your spellcasting level per day on your spellcasting method. |
 | **Talented** | Gain any two feats (warrior or general) that you qualify for. |
-| **Weapon Master** | Gain two instances of the Weapon Specialization feat. Whenever you attack with a weapon that you have Weapon Specialization for, you deal an additional +1 damage. |
+| **Weapon Master** | Gain two instances of the Weapon Specialization feat. Whenever you attack with a weapon for which you have Weapon Specialization, you deal an additional +1 damage. |
 
 ## Spellcaster
 
