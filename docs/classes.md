@@ -92,6 +92,8 @@ Familiar | Arcane or Nature tradition |
 
 ## Feats
 
+**Limit:** Specifies how many times you can take this feat, with _U_ standing for unlimited.
+
 **Adding a Hit Die to a roll:** For feats that modify a die roll by expending a HD:
 
 * You may see the results of the d20 or damage roll before you decide whether use the feat modify that roll with a HD. If you do not already know the DC that you need to meet, you must decide whether to modify the roll before the GM tells you whether you succeed or fail.
@@ -101,17 +103,17 @@ Familiar | Arcane or Nature tradition |
 
 ### General Feats
 
-| General Feat | Effect | Prereq |
-| :---- | :---- | :---- |
-| **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ |
-| **Cantrip** | Gain one cantrip. Choose whether you use INT, WIS, or CHA for any spellcasting rolls. | |
-| **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 5 or higher. | |
-| **Dodge** | The max AC you can achieve when adding your dodge AC to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ |
-| **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | Expert |
-| **Great Fortitude** | Gain a +2 bonus on STR and CON saves. | |
-| **Iron Will** | Gain a +2 bonus on WIS and CHA saves. | |
-| **Lightning Reflexes** | Gain a +2 bonus on DEX saves and initiative rolls. | |
-| **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | |
+| General Feat | Effect | Prereq | Limit |
+| :---- | :---- | :---- | :---- |
+| **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ | U |
+| **Cantrip** | Gain one cantrip. Choose whether you use INT, WIS, or CHA for any spellcasting rolls. | | U |
+| **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 5 or higher. | | 1 |
+| **Dodge** | The max AC you can achieve when adding your dodge AC to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ | 1 |
+| **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | Expert | U |
+| **Great Fortitude** | Gain a +2 bonus on STR and CON saves. | | 1 |
+| **Iron Will** | Gain a +2 bonus on WIS and CHA saves. | | 1 |
+| **Lightning Reflexes** | Gain a +2 bonus on DEX saves and initiative rolls. | | 1 |
+| **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | | U |
 
 <!--
 SPELLCASTER
@@ -125,16 +127,16 @@ Extra Spell known
 
 ### Warrior Feats
 
-| Warrior Feat | Effect | Prereq |
-| :---- | :---- | :---- |
-| **Brawler** | Your unarmed attack deals +d damage (d3 or d4 instead of d2 or d3) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal both unarmed attack damage dice (2d3 or 2d4) as a single attack. | |
-| **Burly** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your armor AC to a max of armor AC 13. | |
-| **Deadly Damage** | Add a HD to the damage you deal with a weapon attack. The HD is expended on a 5 or higher. | |
-| **Dual Wielder** | When two weapon fighting, your offhand attack penalty is reduced by 2 (usually from -4 to -2). You can draw an offhand weapon as part of the same action you use to draw your primary weapon. | DEX +3 |
-| **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. |
-| **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty |
-| **Second Wind** | Once per scene, as a quick action, expend a HD to regain 1d8 (min: CON) HP. | Athletics or Great Fortitude |
-| **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: DEX, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | Acrobatics or Lightning Reflexes |
+| Warrior Feat | Effect | Prereq | Limit |
+| :---- | :---- | :---- | :---- |
+| **Brawler** | Your unarmed attack deals +d damage (d3 or d4 instead of d2 or d3) and you can choose to deal lethal damage. Even if your hands are full, you can make an unarmed attack using a kick, knee, elbow, etc. If both hands are free, you can either gain the benefits of two-weapon fighting or deal both unarmed attack damage dice (2d3 or 2d4) as a single attack. | | 1 |
+| **Burly** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your armor AC to a max of armor AC 13. | | 1 |
+| **Deadly Damage** | Add a HD to the damage you deal with a weapon attack. The HD is expended on a 5 or higher. | | 1 |
+| **Dual Wielder** | When two weapon fighting, your offhand attack penalty is reduced by 2 (usually from -4 to -2). You can draw an offhand weapon as part of the same action you use to draw your primary weapon. | DEX +3 | 1 |
+| **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. | 3 |
+| **Mighty Cleave** | If you are wielding a melee weapon, you can spend your Attack action to make (level) attacks this turn against targets of 1 HD or less. You may make these attacks as you move. | Fighting Style: Mighty | 1 |
+| **Second Wind** | Once per scene, as a quick action, expend a HD to regain 1d8 (min: CON) HP. | Athletics or Great Fortitude | 1 |
+| **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: DEX, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | Acrobatics or Lightning Reflexes | 1 |
 
 <!-- POTENTIAL warrior feats
 
