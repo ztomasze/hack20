@@ -125,6 +125,11 @@ just convert to general - if it's not something a Spellcasting warrior can do, i
 
 Extra Spell known
 
+Agonizing Blast - Your Eldritch Blast deals damage equal to d3 + level / 2, round down.
+or: d6 or d8 damage?
+
+Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) action. When you cast a spell that restores hit points, +2 to the number of hit points per spell tier. 
+
 -->
 
 ### Warrior Feats
