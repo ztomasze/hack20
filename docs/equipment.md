@@ -223,5 +223,5 @@ When you have no weapon in hand, you can still attack unarmed.
 | Unarmed attacks | Damage | Size | Properties |
 | :---- | :---- | :---- | :---- |
 | punch, kick, choking | d2 | 0 | Melee, Special(nonlethal) |
-| metal gauntlet or buckler | 0 | d2 | Melee |
-| spiked gauntlet or buckler, cestus | 1 | d3 | Melee |
+| gauntlet | 0 | d2 | Melee |
+| spiked gauntlet, cestus | 1 | d3 | Melee |
