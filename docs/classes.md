@@ -140,7 +140,7 @@ Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) 
 | **Burly** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your armor AC to a max of armor AC 13. | | 1 |
 | **Deadly Damage** | Add a roll of one (max) unexpended HD to the damage you deal with a weapon attack. The HD is expended on a 5 or higher. | | 1 |
 | **Dual Wielder** | When two weapon fighting, your attack penalty reduced by 2 for each hand (usually from -2/-4 to -0/-2). You can draw an offhand weapon as part of the same action you use to draw your primary weapon. | DEX 3+ | 1 |
-| **Extra Attack** | When you take the Attack action on your turn, you can spend a minor action to make a single additional attack. | Level 5+ | 1 |
+| **Extra Attack** | When you take the Attack action on your turn, you may spend a quick action later this turn to make a single additional attack at -5 using the same weapon. | Level 5+ | 1 |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. | 3 |
 | **Second Wind** | Once per scene, as a quick action, expend a HD to regain 1d8 (min: CON) HP. | Athletics or Great Fortitude | 1 |
 | **Uncanny Dodge** | As a reaction when you take damage, expend a HD to subtract 1d8 (min: DEX, or half of the incoming damage, rounded down) from the damage you are about to take. Expending two HD reduces the damage to 0. You cannot use this ability if you are immobilized. | Acrobatics or Lightning Reflexes | 1 |
