@@ -119,17 +119,17 @@ You may perform a minor action in place of your major action.
 
 ### Attack
 
-_Make one or more attacks with a weapon._
+_Make an attack with a weapon._
 
-While you may be able to make a single attack when triggered by certain events or abilities, you must take a major Attack action to make an attack of your choice on your turn. If you are capable of making multiple attacks, you can only do so as part of a major Attack action.
+Performing an attack of your choice on your turn typically requires a major Attack action. Certain class features or weapon combinations may allow you to perform an attack using a faster action type. For example, when [two-weapon fighting](#two-weapon-fighting), you can make your offhand attack as a quick action after making your primary attack as a major Attack action.  Generally, each attack that you make requires its own action.
 
 To make a single attack:
 
 * Roll either STR or DEX, depending on the nature of your weapon. Melee attacks typically use STR while ranged attacks typically use DEX. However, certain weapon properties can change this.  For example, you can use DEX to make a melee attack with a finesse weapon or STR to make a ranged attack with a throwable weapon. See [Weapons](equipment.md#weapons) for more.
 * You must meet or exceed the AC of your target to hit with your attack.
-* On a success (hit), roll your weapon damage die and deal that amount to your target. Some class features--particularly [fighting styles](classes.md#fighting-styles)--let you add to this damage.
+* On a success (hit), roll your weapon damage die and deal that amount to your target. Some class features--particularly [fighting styles](classes.md#fighting-styles)--or weapon features let you add to this damage.
 * Regardless of AC, a natural 20 always hits and a natural 1 always misses.  If a natural 20 would already hit, you also score a **critical hit** and deal max damage.
-* If you make a ranged attack while threatened in melee, you make the attack at disadvantage.
+* If you make a ranged attack while [threatened](#threatening) in melee, you make the attack at disadvantage.
 
 #### Concealment
 
