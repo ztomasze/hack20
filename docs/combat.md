@@ -202,7 +202,7 @@ To impose a more significant condition or impairment, see the Manuever action.
 
 _Stand ready to perform a major action once the time is right._
 
-Give up your minor action this turn to declare a specific major (or lesser) action that you will hold until you perceive a stated trigger. You can interrupt the triggering action if you can perceive it in time; otherwise, you perform your readied action immediately afterward. Performing the readied action uses your reaction.
+If you also give up your minor action this turn, you can declare a specific major (or lesser) action that you will hold until you perceive a stated trigger. You can interrupt the triggering action if you can perceive it in time; otherwise, you perform your readied action immediately afterward. Performing the readied action uses your reaction.
 
 For example, you can typically interrupt the casting of a spell or an attack with your readied attack. However, if the creature is invisible, you cannot interrupt its attack, although readying may still be valuable so you can immediately attack it back before it has a chance to move from its location.
 
