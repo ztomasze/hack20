@@ -262,7 +262,7 @@ Some creatures have speeds that allow them to move naturally over or through spe
 
 #### Movement Modes
 
-Even if you lack a speed specific to moving over a given surface (like spider's climb speed) or through a given substance (like a shark's swim speed, a dragon's fly speed, or a earth elemental's burrow speed), you can usually still Move by using a different movement mode. Examples of movement modes include a humanoid character climbing, swimming, or crawling.
+Even if you lack a speed specific to moving over a given surface (like spider's climb speed) or through a given substance (like a shark's swim speed, a dragon's fly speed, or a earth elemental's burrow speed), you can usually still Move by using a different movement mode. Examples of movement modes include a humanoid character climbing, swimming, crawling, or squeezing through a narrow space.
 
 When using a different movement mode, your speed is halved.
 
