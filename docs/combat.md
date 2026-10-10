@@ -219,7 +219,7 @@ Examples include:
 
 * Use a magical or alchemical item, such as a scroll, wand, potion, etc.
 * Perform a significant operation on an item, such as lighting a torch or emptying a flask.
-* Undertake a significant interaction with the environment, such as picking a lock, cranking a wheel, flipping a heavy table, and shoving the dusty stone top off of a sarcophagus.
+* Undertake a significant interaction with the environment, such as picking a lock, cranking a wheel, flipping a heavy table, or shoving the dusty stone top off of a sarcophagus.
 
 Some of these uses (like cranking open a portcullis) might take more than a single Use action to complete.  If the operation does not require significant time or attention (such as drawing a weapon or piece of ammunition), it might be a lesser action (minor, quick, or even free).
 
@@ -233,11 +233,12 @@ Examples include:
 
 * load a heavy crossbow
 * cast a spell with a minor action casting time
+* direct an ongoing spell effect
 * scan the battlefield for signs of an invisible foe
 * examine a creature or object to try to determine whether it is illusory without touching it
-* steel yourself to gain advantage on an end-of-turn save against an ongoing effect (such as frightened)
+<!--* steel yourself to gain advantage on an end-of-turn save against an ongoing effect (such as frightened)-->
 
-Or you may perform two quick actions in place of your minor action.
+Or you may perform any two quick actions in place of your minor action.
 
 ### Move
 
