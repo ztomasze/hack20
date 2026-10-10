@@ -115,7 +115,7 @@ More specifically, for a defender to be threatened by an attacker:
 
 A major action is the primary and significant action for your turn. A major action generally require a few seconds of close attention.
 
-You may perform a minor action in place of your major action.
+You may perform any minor action in place of your major action.
 
 ### Attack
 
@@ -133,13 +133,13 @@ To make a single attack:
 
 #### Concealment
 
-If you can't clearly see your target--such as through fog, foliage, darkness, etc.--your attack is made at disadvantage.
+If you cannot clearly see your target--such as when attacking through fog, foliage, darkness, etc.--your attack is made at disadvantage.
 
 #### Cover
 
-If a solid obstacle partly obscures your target, they are harder to hit. This cover can affect both melee and ranged attacks. You also apply any bonus to DEX saves to attacks that must pass through that cover.
+If a solid obstacle partly obscures your target, they are harder to hit. This cover can affect both melee and ranged attacks. You also apply any cover bonus to DEX saves to attacks that must pass through that cover.
 
-If an obstacle obscures about half of your target, the target gain +2 to their AC and DEX saves.
+If an obstacle obscures about half of your target, the target gains +2 to their AC and DEX saves.
 
 * If you are using a ranged or reach weapon, an intervening creature imposes this level of cover.
 * The target also has this cover from your ranged attack if it is currently engaged in melee combat with one of your allies, even if the target is located between you and your ally.
@@ -156,7 +156,7 @@ If you roll a natural 1 that would miss when attacking a creature with cover, yo
 When you Attack on your turn while wielding a weapon in each hand, you can use your offhand weapon to make an extra attack. If you choose to do this:
 
 * Your initial attack with your primary weapon is made at a -2 penalty.
-* You can make one extra attack at any point later this turn as a quick action using your offhand weapon at a -4 penalty (giving you -2/-4 penalties on your two attacks)
+* You can make one extra attack at any point later this turn as a quick action using your offhand weapon at a -4 penalty (giving you -2/-4 penalties on your two attacks).
 * If your two weapons together have a total weapon size greater than 4, you are at a further -2 penalty to both hands this turn (giving you -4/-6).
 * If you wield matching weapons with a total weapon size of 2 or less (such as two daggers or two fists), your offhand penalty is reduced by 2 (give you -2/-2).
 
@@ -164,23 +164,23 @@ When you Attack on your turn while wielding a weapon in each hand, you can use y
 
 _Cast a spell or use a spell-like ability._
 
-Most spells take a major action to cast. However, some can be can as a minor or quick action, and other might take longer than a turn to cast.
+Most spells take a major action to cast. However, some can be can as a minor or quick action, and others might take longer than a turn to cast.
 
 Spells have verbal, somatic, and material components:
 
 * **Verbal** - You must be able to speak clearly. You cannot cast if you are gagged or silenced.
 * **Somatic** - You must be able to gesture freely with at least one empty hand.  You cannot cast if you are bound, held, paralyzed, etc.
-* **Material** - Some spells may require a particular material item or a spellcasting focus. You can manipulate any material component using the same hand you use to the satisfy the somatic component.
+* **Material** - Some spells may require a particular material item or a spellcasting focus. You can manipulate any material component using the same hand you would use to the satisfy the somatic component.
 
 Casting a spell requires concentration. If you take damage (such as from a readied attack), are significantly jostled, or suffer some other notable distraction while casting, you must make a CON save. On a failure, you expend any spell resources used by this casting but the spell fails to take effect.
 
-See [Magic](magic.md) for more on the spells available to you, their trappings, your spellcasting method, and the resources expended when you cast a spell.
+See [Magic](magic.md) for more on the spells available to you, your spellcasting method, and the resources expended when you cast a spell.
 
 ### Defend
 
 _Devote your full attention to defending yourself with a combination of dodging, parrying or blocking with a shield._
 
-Until the start of your group's next initiative phase, you gain +4 AC and advantage on DEX saves.  You lose these benefits if you cannot see the incoming attack or damaging effect or if you are immobilized.
+For the rest of the round, you gain +4 AC and advantage on DEX saves.  You lose these benefits if you cannot see the incoming attack or damaging effect or if you are immobilized.
 
 ### Help
 
