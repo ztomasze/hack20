@@ -85,16 +85,16 @@ On the other hand, if that same character stuns a monster with a readied action 
 
 On your turn, you can perform one **major action**, one **minor action**, and one **quick action**, as well a reasonable number of **free actions**.
 
-You can perform up to one **reaction** per round, which typically occurs in response to a triggering event when it is not your turn.
+You can perform up to one **reaction** per round, which occurs in response to a triggering event when it is not your turn.
 
 > **Edition Parallels**  
-> While similar to most earlier editions of the source game, these action types are most similar to those found in 3.5e or Pathfinder 1e:
+> While similar to most earlier editions of the source game, these action types are most similar to those found in 3.5e or Pathfinder 1e, blended with those of 5e:
 >
-> * major action = standard action
-> * minor action = move or move-equivalent action
-> * quick action = swift action (except it is possible to perform more than one quick action per turn; combines 5e's object interaction and bonus action)
+> * major action = 3.5e's standard action; 5e's action
+> * minor action = 3.5e's move or move-equivalent action; 5e's move
+> * quick action = 3.5e's swift action (except it is possible to perform more than one quick action per turn); combines 5e's object interaction and bonus action
 > * free action = free action
-> * reaction = immediate action (except a reaction does not consume a quick/swift action; more like 5e's reaction)
+> * reaction = 3.5e's immediate action (except a reaction does not consume a quick/swift action); 5e's reaction
 
 ### Improvising Actions
 
