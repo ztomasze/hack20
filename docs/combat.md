@@ -189,8 +189,8 @@ _Directly aid an ally._
 There are many ways you might help an adjacent ally. The following are some examples:
 
 * **Assist** - The next ability check your ally makes this round is made with advantage. You must explain what you are doing to provide this assistance. If you are assisting with a trained skill roll, you may need to succeed on your own normal (DC10) check to do so.
-* **First Aid** - If your adjacent ally is dying, you make a Medicine check to help stabilize them. See [Adventuring: Wounds: First Aid](adventuring.md#first-aid) for more
-* **Protect** - The attacks on your ally this round are made at disadvantage. You must explain what you are doing to provide this protection.  For example, you might parry a melee attack or block it with a shield. You cannot parry ranged attacks, but you might be able to block one if you are wielding a medium or heavy shield. Alternatively, instead of imposing disadvantage, you can throw yourself in the way of any attacks you choose, becoming the target of that attack before the attack roll is made.
+* **First Aid** - If your ally is dying, you make a Medicine(INT or WIS) check to help stabilize them. See [Adventuring: Wounds: First Aid](adventuring.md#first-aid) for more
+* **Protect** - The attacks on your ally this round are made at disadvantage. You must explain what you are doing to provide this protection.  For example, you might parry a melee attack or block it with a shield. You cannot parry ranged attacks, but you might be able to block one if you are wielding a medium or heavy shield. Alternatively, instead of imposing disadvantage, you can pull your ally aside from or throw yourself in the way of any attacks you choose, becoming the target of that attack before the attack roll is made.
 * **Wake** - If your ally is subjected to magical slumber, you can give them a firm shake to wake them.
 
 ### Hinder
