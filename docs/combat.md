@@ -244,21 +244,21 @@ Or you may perform any two quick actions in place of your minor action.
 
 _Move from one location to another._
 
-You can move up to your speed over normal terrain, or half this distance if using a different movement mode or traveling over difficult terrain.
-
 You cannot interrupt your Move with other actions. However, if your speed is not currently reduced, you may break your move into two Half Moves.
 
 #### Speed
 
-Characters normally cover one measure per Move when walking or running over level ground. Some monsters have a slower or faster speed than characters, so they will cover a shorter or longer distance per Move.
-
-Some creatures have speeds that allow them to move naturally over or through specific kinds of terrain, such as a climb, swim, fly, or burrow speed. Provided the terrain is not unusually difficult (such as climbing a slick wall, flying through a windstorm, or swimming through a whirlpool), a creature with an terrain-appropriate speed moves as easily using that speed as walking.
+Characters normally cover one measure (1M) per Move when walking or running over level ground. Some monsters have a slower or faster speed than characters, so they will cover a shorter or longer distance per Move. Similarly, some effects might change a character's speed.
 
 Some effects halve your speed. Such effects are typically cumulative. As an example, if your speed is normally one measure and it is halved, you move only a half measure per Move.  Halved again, and you can only move a step.  Halved again, and you can't Move from your current location.  You can spend two Moves to double your initial speed.
 
+#### Alternate Speeds
+
+Some creatures have speeds that allow them to move naturally over or through specific kinds of terrain, such as a climb, swim, fly, or burrow speed. Provided the terrain is not unusually difficult (such as climbing a slick wall, flying through a windstorm, or swimming through a whirlpool), a creature with an terrain-appropriate speed moves as easily using that speed as walking.
+
 #### Movement Modes
 
-You may still be able to Move over a surface or through a substance that you lack a specific speed for by using a different movement mode. Examples include a humanoid character climbing, swimming, or crawling.
+Even if you lack a speed specific to moving over a given surface (like spider's climb speed) or through a given substance (like a shark's swim speed, a dragon's fly speed, or a earth elemental's burrow speed), you can usually still Move by using a different movement mode. Examples of movement modes include a humanoid character climbing, swimming, or crawling.
 
 When using a different movement mode, your speed is halved.
 
@@ -266,13 +266,15 @@ When using a different movement mode, your speed is halved.
 
 You traverse difficult terrain at half speed. Depending on the nature of the terrain, you may be able to make a check to traverse it at full speed. Alternatively, if the terrain is very difficult, you may need to make a roll to move at all.
 
-For example, there's typically not much you can do about thick mud or thigh-deep snow other than just wade through it. On the other hand, when traversing slick ice or a narrow beam, you might be able to make an Acrobatics(DEX) check to cross it at full speed. However, if you roll a natural 1 on such a roll, you trip, fall, make no progress at all, or suffer some similar mishap.
+For example, there's typically not much you can do about thick mud other than just wade through it. On the other hand, when traversing slick ice or a narrow beam, you might be able to make an Acrobatics(DEX) check to cross it at full speed. However, if you roll a natural 1 on such a roll, you trip, fall, make no progress at all, or suffer some similar mishap.
 
 #### Other combatants
 
-You cannot move through the space occupied by an active opponent, unless they are of a much different size than you, such as a single rat or a towering giant. You can move through the spaces of allies in a corridor, step over bodies, or push aside incapacitated opponents as difficult terrain.
+You cannot move through the space occupied by an active opponent, unless they are of a much different size than you (usually two or more size categories smaller or larger, provided they don't completely fill their space), such as a single rat or a towering giant, but not a gelatinous cube. You can move through the spaces of allies in a corridor, step over bodies, or push aside incapacitated opponents, but this counts as difficult terrain.
 
-An opponent who is aware of you threatens the area around itself to the range of its melee attacks. You can freely move either into, within, or out of this threatened area as part of your Move. However, if you are trying to move past or between opponents by passing through their threatened area (that is, you Move more than a step within their threatened area on the same turn that you also enter or exit it), treat the area as difficult terrain.
+#### Withdrawing
+
+An opponent who is aware of you [threatens](#threatening) the area around itself to the range of its melee attacks. You can freely move either into, within, or out of this threatened area as part of your Move. However, if you move out of a threatened area, treat that Move as passing through difficult terrain, since you must first feint, dodge, or wait a moment for an safe moment to disengage.
 
 #### Half Moves
 
@@ -283,7 +285,7 @@ If your speed is not reduced for a given Move, you may break the Move into eithe
 * one Half Move + one Half Move (with any other actions taken between them)
 * one Half Move + one quick action (in either order)
 
-A Half Move is like a normal Move but at half your speed.  
+A Half Move is like a normal Move but at half your speed.
 
 You can also spend a Half Move (or a full Move) to accomplish short movements in place, such as to:
 

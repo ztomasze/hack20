@@ -39,7 +39,7 @@ This rule leaves the door open for the wild magic barbarian trope.
 > | Threatened Action | Reckless Version |
 > | :---- | :---- |
 > | Attack (ranged) | Do not suffer disadvantage for being threatened |
-> | Move (disengaging from melee) | Move at full speed as you leave a foe's threatening reach |
+> | Move (withdrawing from melee) | Move at full speed as you leave a foe's threatening reach |
 
 This rule provides both a rationale for why your action was initially limited (to avoid getting attacked) as well as the option to take that attack instead of the limitation.
 
