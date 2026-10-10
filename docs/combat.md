@@ -270,7 +270,9 @@ For example, there's typically not much you can do about thick mud other than ju
 
 #### Other combatants
 
-You cannot move through the space occupied by an active opponent, unless they are of a much different size than you (usually two or more size categories smaller or larger, provided they don't completely fill their space), such as a single rat or a towering giant, but not a gelatinous cube. You can move through the spaces of allies in a corridor, step over bodies, or push aside incapacitated opponents, but this counts as difficult terrain.
+You cannot move through the space occupied by an active opponent, unless they are of a much different size than you (usually two or more size categories smaller or larger, provided they don't completely fill their space), such as a single rat or a towering giant, but not a gelatinous cube.
+
+Even if you can move through an occupied space, it is still treated as difficult terrain.  This includes moving through the space of an ally in a corridor or doorway, stepping over a body, or pushing past an incapacitated opponent.
 
 #### Withdrawing
 
