@@ -107,9 +107,9 @@ Some actions have consequence if performed while you are threatened (engaged) in
 More specifically, for a defender to be threatened by an attacker:
 
 * The attacker must be armed with a melee weapon or an equivalent attack. A monster with natural attacks, such as a bite or claws, is considered armed. Some class features allow an unarmed character to be considered armed.
-* The defender must be within the attacker's melee reach.  For example, an attacker with a reach weapon threatens a greater area.
+* The defender must be within the attacker's melee reach. For example, an attacker with a reach weapon threatens a greater area.
 * The attacker cannot be incapacitated, confused, charmed by the defender, or otherwise unwilling or unable to attack the defender.
-* The attacker must be aware of the defender's presence. They don't need to be able to see them, but they must at least know their current location.
+* The attacker must be able to adequately sense the defender. They don't need to be able to see them, but they must at least know their current location.
 
 ## Major Actions
 
