@@ -197,7 +197,7 @@ There are many ways you might help an adjacent ally. The following are some exam
 
 _Harass, harry, or badger an adjacent foe._
 
-By a viable means that you describe, you distract an adjacent ally. Until the end of that creature's next turn, the first attack roll it makes gains disadvantage or the first attack roll that targets it gains advantage. This distraction ends early once it has affected a roll.
+By a viable means that you describe, you distract an adjacent foe. Until the end of that creature's next turn, the first attack roll it makes gains disadvantage or the first attack roll that targets it gains advantage. This distraction ends early once it has affected a roll.
 
 To impose a more significant condition or impairment, see the Manuever action.
 
