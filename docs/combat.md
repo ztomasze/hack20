@@ -135,6 +135,10 @@ To make a single attack:
 
 If you cannot clearly see your target--such as when attacking through fog, foliage, darkness, etc.--your attack is made at disadvantage.
 
+You must be able to sense your target well enough to know their current location to target or attack them at all.  However, you might be able to do this by the sound of their movement or by the footprints an invisible creature is leaving in the sand. If a target attacks you, they reveal their current location, even on a miss.
+
+If you can see your target but they can't see you, you gain advantage on your attack.
+
 #### Cover
 
 If a solid obstacle partly obscures your target, they are harder to hit. This cover can affect both melee and ranged attacks. You also apply any cover bonus to DEX saves to attacks that must pass through that cover.
