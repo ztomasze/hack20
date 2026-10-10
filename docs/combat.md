@@ -1,25 +1,25 @@
 # Combat
 
-During a [round](basics.md#round) at any time scale, whether the current scene involves combat or not, every active creature should typically get an opportunity to act (if it is able to, depending on its current [conditions](adventuring.md#conditions)).
+During a [round](basics.md#round) of any time scale, whether the current scene involves combat or not, every active creature should typically get an opportunity to act (assuming it is able to, depending on its current [conditions](adventuring.md#conditions)).
 
-In tense situations, like combat, multiple creatures are typically trying to act quickly and at the same time. For this reason, time is tracked closely in **combat rounds**, and each creature is limited in the number and duration of actions it can perform within each of those rounds.
+In tense situations, like combat, multiple creatures typically try to act quickly and at the same time. For this reason, time is tracked closely in **combat rounds**, and each creature is limited in the number and duration of actions it can perform within each of those rounds.
 
-These same action-oriented combat rules can be used for any similarly tense or fast-paced situation, such as a chase or trying to solve a puzzle to stop a descending ceiling before it crushes the party.
+These same action-oriented combat rules can be used for any similarly tense or fast-paced situation, such as a chase scene or trying to solve a puzzle quickly enough to stop a descending ceiling from crushing the party.
 
 ## Encounter
 
-An encounter between two groups becomes a combat encounter only once one or more of those groups decides to use violence to achieve their goals. It remains a combat as long as two or more sides keep using violence. A combat ends when only one side is left fighting because the other groups has fled (which might become a chase if another side pursues), surrendered, died, or been incapacitated.  (If the fighting side continues the violent on another group that does not fight back or flee, it becomes a slaughter, for which detailed combat rules are no longer needed.)
+An encounter between two groups becomes a combat encounter when one of those groups decides to use violence to achieve their goals. The encounter then remains a combat for as long as two or more sides keep using violence. A combat ends when only one side is left fighting because the other groups have either fled, surrendered, died, or been incapacitated. (If one group flees, the encounter might transition to a chase scene if another side pursues. If the fighting side continues to deal violence upon a sole remaining group that cannot fight back or flee, it becomes a slaughter, for which detailed rounds and combat rules are no longer needed.)
 
-Therefore, to untangle the start of combat, we must first determine the state at the start of the encounter and then see how that encounter transitions into a combat. Although a combat can have more than two sides involved, the following descriptions generally assume two sides for simplicity.
+Because the start of an encounter and the start of combat are different, we must first determine the state of participants at the start of the encounter and then see how that encounter transitions into a combat. Although a combat can have more than two sides involved, the following descriptions generally assume two sides for simplicity.
 
 ### Awareness
 
 First, the GM determines which side is aware of the other.
 
-* If the one side is making noise or carrying a light in a dark place, they typically automatically alert the other side.
-* If a side is exceptionally stealthy or well hidden, they might automatically go unnoticed. Examples include a carefully constructed ambush setup or a creature that can appear like a natural object while motionless.
-* If one side is trying to move stealthily--either because they know they are in hostile territory generally or because they are aware of another group but are trying to get closer unnoticed--the GM can call for Stealth(DEX) rolls verses the other side's passive Perception score to remain unnoticed. This can result in only some members of the opposing group becoming aware.
-* Sometimes there is a chance that two groups might stumble into each other (such as at a sharp bend in a mountain trail near a waterfall) or wander past each other (such as in a windy field of tall grasses). In such cases, the GM can roll a 2-in-6 chance for each side to determine whether that side initially passes unnoticed by the other.
+* If one side is making noise or carrying a light in a dark place, they typically alert the other side automatically.
+* If one side is exceptionally stealthy or well hidden, they might automatically go unnoticed. Examples include a carefully constructed ambush setup or a creature that can appear like a natural object while motionless.
+* If one side is trying to move stealthily--either because they know they are in hostile territory generally or because they are aware of another group but are trying to get closer unnoticed--the GM can call for Stealth(DEX) rolls verses the other side's passive Perception(WIS) scores to remain unnoticed. This can result in only some members of the opposing group becoming aware.
+* Sometimes there is a chance that two groups might stumble into each other (such as at a sharp bend in a mountain trail) or wander past each other (such as in a windy field of tall grasses). In such cases, the GM can roll a 2-in-6 chance for each side to determine whether that side initially passes unnoticed by the other.
 * Otherwise, both sides typically notice each other.
 
 Awareness is important for two reasons:
@@ -29,21 +29,22 @@ Awareness is important for two reasons:
 
 ### Surprise
 
-If one side opens the combat with surprise, that side gets to act first in combat.  Surprise can be gained because because the opposing side is unaware of the presence of the surprising side or simply because their actions are completely unexpected, such as with the sudden betrayal of a friend.
+If one side start a combat with surprise, that side gets to act first in combat. Surprise can be gained either because the opposing side is unaware of the presence of the surprising side or simply because their actions are completely unexpected, such as with a sudden betrayal of a friend.
 
-The benefits of surprise only last a single turn:
+The benefits of surprise last for only a single turn:
 
 * The first creature to act on the surprising side gets a full turn.
-* If the surprising side pre-coordinated, then any ready creatures on that side can also take their readied action. (See Ready below.)
-* When a creature is unaware of a coming attack, the attacker gains advantage on that attack. Surprised creature remain unaware for the length of this turn.
+* If the surprising side pre-coordinated, then any ready creatures on that side can also take their readied action. (See [Ready](#ready) below.)
+* When a defender is unaware of a coming attack, the attacker gains advantage on their attack rolls.
+* Surprised creatures remain unaware (surprised) for the length of this surprise turn.
 
 ## Initiative
 
-How combat starts depends on the opening context, but the narrative spotlight then passes back and forth between sides from there.
+Once combat starts, the narrative spotlight passes back and forth between sides.
 
 ### Phase Order
 
-Once combat starts, each side acts in the following order each round:
+Each side of a combat acts in the following order each round:
 
 * PC phase
 * NPC phase
@@ -54,7 +55,9 @@ Within the phase of a given side or group, individual creatures choose the order
 
 ### Starting with Surprise
 
-If one side opens with surprise, that surprise turn (as described above) fills that group's initiative phase of the opening round and then combat continues from there.  For example, if a set of monsters surprise the party, one of the monsters (and any readied monsters) act in the NPC phase of the first round, and then all of the characters can act in the PC phase at the start of the following round. On the other hand, if the characters start with surprise in the PC phase, the NPC phase then immediately follows.
+If one side starts with surprise, that surprise turn (as described above) fills that group's initiative phase of the opening round and then combat continues from there.  
+
+For example, if a group of monsters surprise the party, one of the monsters (and any readied monsters) act in the NPC phase of the first round, and then all of the characters can act in the PC phase at the start of the following round. On the other hand, if the characters start with surprise in the PC phase, the NPC phase then immediately follows.
 
 ### Starting Aware with an Action
 
@@ -62,19 +65,19 @@ If both sides are aware of each other, then combat typically starts when someone
 
 As soon as this action completes, regardless of which side committed it, combat then starts with the PC phase. However, in this case, the characters must **roll initiative** by making a normal (DC10) DEX check. Those that succeed can act in the PC phase of the first round. Those that fail must wait until the PC phase of the second round.
 
-If it was a character that committed the combat-opening action, they might gain advantage on their initiative roll depending on the nature of that action.  For example, if a tense standoff with a band of orc warriors devolves into combat when a character suddenly shouts "Kill their leader!" (free action) or draws their sword (quick action), that character is much more likely to be among the first to act during the PC phase and so gains advantage on initiative. On the other hand, if they squeezed the trigger of their loaded crossbow (major action) while pointing it toward the orcs, that character will have to roll initiative normally to see whether they can reload, draw another weapon, or run before the wary orcs can respond.
+If it was a character that committed the combat-opening action, they might gain advantage on their initiative roll depending on the nature of that opening action. For example, if a tense standoff with a band of orc warriors devolves into combat when a character suddenly shouts "Kill their leader!" (free action) or draws their sword (quick action), that character is much more likely to be among the first to act during the PC phase and so gains advantage on their initiative check. On the other hand, if they squeezed the trigger of their loaded crossbow (major action) while pointing it toward the orcs, that character will have to roll initiative normally to see whether they can reload, draw another weapon, or run before the wary orcs can respond.
 
 ### Starting Aware with Position
 
-Sometimes combat starts naturally because one side can do so while the other cannot.  For example, if the characters are standing on a castle wall watching the approach of a flying dragon, all of the characters can start attacking as soon as the dragon is in range of their arrows, since the dragon is still to far away to affect them in return.
+Sometimes combat starts naturally because one side can do so while the other cannot.  For example, if the characters are standing on a castle wall watching the approach of a flying dragon, all of the characters can start attacking as soon as the dragon is in range of their arrows, since the dragon is still too far away to affect them in return.
 
-However, if the dragon bears a rider with a longbow, then you might roll initiative (possibly using WIS instead of DEX, since it's more a question of judging the distance correctly) to see who can land the first shot of the battle.
+However, if the dragon bears a rider with a longbow, then the GM might ask for initiative rolls (possibly using WIS instead of DEX, since it is more a question of judging the distance correctly) to see who can land the first shot of the battle.
 
 ### Round Durations
 
-Many effects last for one combat round. These might be phrased as "for a round", "for the rest of the round", "until next round", etc. Such an effect starts when it is produced and lasts until the next start of the same initiative phase.
+Many effects last for one combat round. These durations might be phrased as "for a round", "for the rest of the round", "until next round", etc. Such an effect starts when it is produced and lasts until the next start of the same initiative phase.
 
-For example, if a character stuns a monster for one round during the PC phase, that monster remains stunned until the start of the next PC phase. This means that it may be more valuable if this character can take their turn earlier in the phase, so her allies can take advantage of the monster's stunned state on their turns this round.
+For example, if a character stuns a monster for one round during the PC phase, that monster remains stunned until the start of the next PC phase. This means that it may be more valuable if this character can take their turn earlier in the phase, so her allies can take advantage of the monster's stunned condition on their turns this round.
 
 On the other hand, if that same character stuns a monster with a readied action during the NPC phase, the monster remains stunned through the following PC phase until the start of the next NPC phase.  Interestingly, now the character can benefit from the monster's stun on their own turn next round.
 
