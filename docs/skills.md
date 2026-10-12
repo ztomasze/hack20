@@ -2,7 +2,7 @@
 
 A **skill** is a domain of practice that you excel at due to experience, training, or natural ability.
 
-* Each character starts with proficiency in 5 skills.
+* Each character starts with proficiency in 4 skills.
 * Expertise or proficiency in more skills can be gained through [class](classes.md) feats.
 
 ## Using Skills
