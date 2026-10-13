@@ -118,21 +118,6 @@ Familiar | Arcane or Nature tradition |
 | **Lightning Reflexes** | Gain a +2 bonus on DEX saves and initiative rolls. | | 1 |
 | **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | | U |
 
-<!--
-SPELLCASTER
-just convert to general - if it's not something a Spellcasting warrior can do, it's a Talent
-
-| **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
-
-Extra Spell known
-
-Agonizing Blast - Your Eldritch Blast deals damage equal to d3 + level / 2, round down.
-or: d6 or d8 damage?
-
-Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) action. When you cast a spell that restores hit points, +2 to the number of hit points per spell tier. 
-
--->
-
 ### Warrior Feats
 
 | Warrior Feat | Effect | Prereq | Limit |
@@ -154,29 +139,36 @@ Blindfight
 
 ?Close Quarter Shot - Being threatened in melee does not impose disadvantage on your ranged attack rolls.
 
-Deflect Missiles
-
 Defender - able to shield an adjacent ally
 
 mounted combat - reaction (and Animal Handling(DEX) check?) to negate a hit on your mount; mount or dismount as a quick action; can trample (quick action to direct your mount to attack)
-
-?Rapid Shot - 2 shots per Attack at -2
 
 Sharpshooter - Ignore cover.  Or downgrade cover by 1 step.
 
 Stunning Fist - quick action when you hit with an unarmed attack and expend a HD to force a save vs DC10+WIS or be stunned for a round.  Can't stun constructs, oozes, plants, undead, incorporeal creatures, or creatures immune to critical hits.
 
-| **Extra Attack** | When you make a weapon attack, you can expend a HD to attack again. You can only do this only once per round on your turn. | |
 | **Extraordinary Ability** | Choose three cantrips or tier 1 spells. One of these spells can be of tier 2 with some kind of limitation. The spell effects should have trappings subtle enough to have a supernatural explanation (subject to GM approval), and all of them may require some other limitation to activate. You always produce a tiered spell effect by rolling a single HD; if you fail to draw sufficient mana with that HD, it is expended. Your magic ability score can be any ability score appropriate to the effect.  See _Archetypes_ for examples. | **Level 1** |
 
 | ***Magical Dabbler*** | You can activate a scroll, wand, or magic item even if it requires a spell that is not on your spell list or you have no spell list at all. Choose either INT or CHA as the basis of your pseudo-spellcasting ability when you take this talent. | |
 
 Maybe: +Get a random magic item of a category you choose. Each level up, you can acquire a replacement random item, but your previous item then becomes unusable.
 
-Evasion: half damage from area effects provided you are not paralyzed or restrained.  pre: Level 5+, Lighting Reflexes
-* See: Uncanny Dodge
-
 Sentinel - ability to hit things that try to leave or move past you
+
+-->
+
+<!--
+SPELLCASTER
+just convert to general - if it's not something a Spellcasting warrior can do, it's a Talent
+
+| **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
+
+Extra Spell known
+
+Agonizing Blast - Your Eldritch Blast deals damage equal to d3 + level / 2, round down.
+or: d6 or d8 damage?
+
+Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) action. When you cast a spell that restores hit points, +2 to the number of hit points per spell tier. 
 
 -->
 
