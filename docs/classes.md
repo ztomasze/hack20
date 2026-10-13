@@ -108,6 +108,7 @@ Familiar | Arcane or Nature tradition |
 | General Feat | Effect | Prereq | Limit |
 | :---- | :---- | :---- | :---- |
 | **Ability Score Improvement** | Gain \+1 to an ability score that you did not already increase this level up. | Level 2+ | U |
+| **All Saves** | Gain a +2 bonus on all saves. This bonus does not stack with the bonus granted by any of the listed prerequisite feats. | Great Fortitude, Iron Will, or Lightning Reflexes | 1 |
 | **Cantrip** | Gain one cantrip. Choose whether you use INT, WIS, or CHA for any spellcasting rolls. | | U |
 | **Deadly Accuracy** | Add one HD to an attack roll. The HD is expended on a 5 or higher. | | 1 |
 | **Dodge** | The max AC you can achieve when adding your dodge AC to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ | 1 |
