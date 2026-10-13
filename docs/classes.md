@@ -1,6 +1,8 @@
 # Classes
 
-There are two base classes: **Warrior** or **Spellcaster**. The **talent** that you choose at first level and the **feats** you choose a later levels will significantly customize your class.
+There are two base classes: **Warrior** or **Spellcaster**.
+
+At first level, the **fighting style** and **talent** that you choose as a warrior or the magical **tradition** and spellcasting **method** that you choose as a spellcaster will significantly customize your class. At later levels, you can can continue to extend your abilities with **feats**.
 
 ## Warrior
 
@@ -61,40 +63,14 @@ At level 1:
 
 1. Choose your [magical tradition](magic.md#tradition).
     * This choice will also determine your weapon and armor proficiencies.
-1. Choose your [magical method](magic.md#method).
+1. Choose your [spellcasting method](magic.md#method).
     * This choice will determine your [MAGIC](magic.md#magic-1) stat and may affect your minimum starting HP.
-1. Choose one [spellcaster talent](#spellcaster-talents).
 1. Start with a minimum HP of 5+CON.
     * Your magical method choice may modify this.
 
-### Spellcaster Talents
-
-| Spellcaster Talent | Effect |
-| :---- | :---- |
-
-<!--
-| **Domain Spells** | Work with your GM to define a list of spells, one per tier, that represents your specific arcane school, deity, patron, or other source of magic. You gain each of these spells as an additional spell known when you are able to cast spells of that tier. | |
-
-Feat
-
-Scholar - Gain expertise in two of the following skills: Arcana, History, Nature, Religion | Proficiency |
-* Or is knowledge expertise an INT knack?
-
-| **Turn Undead** | You gain an extra cantrip that is equivalent to the spell Turn the Unholy, but it only affects undead.  If you fail to turn at least one creature when you cast it, you cannot cast it again for the remainder of the scene. | Divine tradition |
-| **Wild Stride** | Gain the Survival class skill. In addition, passing through non-magical vegetation does not reduce your speed. | Nature tradition |
-
-Theurgy - Second tradition
-
-| **Dark Harvest** | When a creature dies within 1M of you, you can gain MAGIC temp HP as a reaction. | |
-| **Soul Burn** | When you draw mana to cast a spell, you can choose to take one or more wounds. Each wound taken this way adds 8 points to your mana pool. | Way (CHA) caster |
-| **Spellbook** | You maintain a record of your swapped spells. Can add scrolls. Cast as adhoc spells.  appearance is up to you.  (As with trappings, your choice may have an impact.) | Word (INT) caster |
-
-Familiar | Arcane or Nature tradition |
--->
-
 ## Feats
 
-**Limit:** Specifies how many times you can take this feat, with _U_ standing for unlimited.
+**Limit:** Specifies how many times you can take this feat. _U_ stands for unlimited.
 
 **Adding a Hit Die to a roll:** For feats that modify a die roll by expending a HD:
 
@@ -158,6 +134,27 @@ Sentinel - ability to hit things that try to leave or move past you
 
 -->
 
+### Spellcaster Feats
+
+<!--SPELLCASTER talents (previously)
+| **Domain Spells** | Work with your GM to define a list of spells, one per tier, that represents your specific arcane school, deity, patron, or other source of magic. You gain each of these spells as an additional spell known when you are able to cast spells of that tier. | |
+
+Feat
+
+Scholar - Gain expertise in two of the following skills: Arcana, History, Nature, Religion | Proficiency |
+* Or is knowledge expertise an INT knack?
+
+| **Turn Undead** | You gain an extra cantrip that is equivalent to the spell Turn the Unholy, but it only affects undead.  If you fail to turn at least one creature when you cast it, you cannot cast it again for the remainder of the scene. | Divine tradition |
+| **Wild Stride** | Gain the Survival class skill. In addition, passing through non-magical vegetation does not reduce your speed. | Nature tradition |
+
+Theurgy - Second tradition
+
+| **Dark Harvest** | When a creature dies within 1M of you, you can gain MAGIC temp HP as a reaction. | |
+| **Soul Burn** | When you draw mana to cast a spell, you can choose to take one or more wounds. Each wound taken this way adds 8 points to your mana pool. | Way (CHA) caster |
+| **Spellbook** | You maintain a record of your swapped spells. Can add scrolls. Cast as adhoc spells.  appearance is up to you.  (As with trappings, your choice may have an impact.) | Word (INT) caster |
+
+Familiar | Arcane or Nature tradition |
+-->
 <!--
 SPELLCASTER
 just convert to general - if it's not something a Spellcasting warrior can do, it's a Talent
