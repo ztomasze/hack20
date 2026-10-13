@@ -183,12 +183,13 @@ When you gain a new level, you:
 1. **Gain +1 to one ability score**
     * You cannot increase an ability score above the max shown in the table below.
     * Remember to update any derived stats, such as MAGIC or POWER.
-1. Warriors get to learn a feat (either general or warrior) at every level.
+1. Warriors get to learn a feat (either general or warrior) at every level after first.
 1. Spellcasters gain access to a new spell tier at odd levels and gain a feat (general or spellcaster) at every even level.
 
-| Level | Total Hit Dice | Ability Score | Max Ability Score | Warrior | Spellcaster |
+| Level | Total Hit Dice | Ability Score Increase | Max Ability Score | Warrior | Spellcaster |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **2** | 2d8 | +1 | +5 | Feat | Feat |
+| 1 | 1d8 | ([generate](stats.md#generating-scores)) | +4 (with racial bonus) | Fighting Style, Talent | Tradition, Method, Spell Tier 1 |
+| 2 | 2d8 | +1 | +5 | Feat | Feat |
 | 3 | 3d8 | +1 | +5 | Feat | Spell Tier 2 |
 | 4 | 4d8 | +1 | +6 | Feat | Feat |
 | 5 | 5d8 | +1 | +6 | Feat | Spell Tier 3 |
@@ -206,7 +207,7 @@ Each time you gain a new epic level:
     * If the result is higher than your current HP max, replace it.
     * Otherwise, add 1 to your current HP max.
 1. **Gain +1 HD**
-    * This epic HD does not contribute to your HP, but you can expend it to power character features like feats, talents, or spellcasting.
+    * This epic HD does not contribute to your HP, but you can expend it to power class features like feats, talents, or spellcasting or to recover HP during a rest.
 
 <!--
 ## Archetypes
