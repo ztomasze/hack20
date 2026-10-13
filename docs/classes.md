@@ -1,8 +1,21 @@
 # Classes
 
-There are two base classes: **Warrior** or **Spellcaster**.
+There are two base classes: **Spellcaster** or **Warrior**.
 
-At first level, the **fighting style** and **talent** that you choose as a warrior or the magical **tradition** and spellcasting **method** that you choose as a spellcaster will significantly customize your class. At later levels, you can can continue to extend your abilities with **feats**.
+At first level, the magical **tradition** and spellcasting **method** that you choose as a spellcaster or the **fighting style** and **talent** that you choose as a warrior will significantly customize your class. At later levels, you can can continue to extend your abilities with **feats**.
+
+## Spellcaster
+
+A spellcaster reminds primarily on their magical ability to succeed. See [Magic](magic.md) for more.
+
+At level 1:
+
+1. Choose your [magical tradition](magic.md#tradition).
+    * This choice will also determine your weapon and armor proficiencies.
+1. Choose your [spellcasting method](magic.md#method).
+    * This choice will determine your [MAGIC](magic.md#magic-1) stat and may affect your minimum starting HP.
+1. Start with a minimum HP of 5+CON.
+    * Your magical method choice may modify this.
 
 ## Warrior
 
@@ -55,19 +68,6 @@ The style of swashbucklers, assassins, and rogues.
 | **Talented** | Gain any two feats (warrior or general) that you qualify for. |
 | **Weapon Master** | Gain two instances of the Weapon Specialization feat. Whenever you attack with a weapon for which you have Weapon Specialization, you deal an additional +1 damage. |
 
-## Spellcaster
-
-A spellcaster reminds primarily on their magical ability to succeed. See [Magic](magic.md) for more.
-
-At level 1:
-
-1. Choose your [magical tradition](magic.md#tradition).
-    * This choice will also determine your weapon and armor proficiencies.
-1. Choose your [spellcasting method](magic.md#method).
-    * This choice will determine your [MAGIC](magic.md#magic-1) stat and may affect your minimum starting HP.
-1. Start with a minimum HP of 5+CON.
-    * Your magical method choice may modify this.
-
 ## Feats
 
 **Limit:** Specifies how many times you can take this feat. _U_ stands for unlimited.
@@ -95,6 +95,42 @@ At level 1:
 | **Lightning Reflexes** | Gain a +2 bonus on DEX saves and initiative rolls. | | 1 |
 | **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | | U |
 | **Tough** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your armor AC to a max of armor AC 13. | STR 1+ | 1 |
+
+### Spellcaster Feats
+
+<!--SPELLCASTER talents (previously)
+| **Domain Spells** | Work with your GM to define a list of spells, one per tier, that represents your specific arcane school, deity, patron, or other source of magic. You gain each of these spells as an additional spell known when you are able to cast spells of that tier. | |
+
+Feat
+
+Scholar - Gain expertise in two of the following skills: Arcana, History, Nature, Religion | Proficiency |
+* Or is knowledge expertise an INT knack?
+
+| **Turn Undead** | You gain an extra cantrip that is equivalent to the spell Turn the Unholy, but it only affects undead.  If you fail to turn at least one creature when you cast it, you cannot cast it again for the remainder of the scene. | Divine tradition |
+| **Wild Stride** | Gain the Survival class skill. In addition, passing through non-magical vegetation does not reduce your speed. | Nature tradition |
+
+Theurgy - Second tradition
+
+| **Dark Harvest** | When a creature dies within 1M of you, you can gain MAGIC temp HP as a reaction. | |
+| **Soul Burn** | When you draw mana to cast a spell, you can choose to take one or more wounds. Each wound taken this way adds 8 points to your mana pool. | Way (CHA) caster |
+| **Spellbook** | You maintain a record of your swapped spells. Can add scrolls. Cast as adhoc spells.  appearance is up to you.  (As with trappings, your choice may have an impact.) | Word (INT) caster |
+
+Familiar | Arcane or Nature tradition |
+-->
+<!--
+SPELLCASTER
+just convert to general - if it's not something a Spellcasting warrior can do, it's a Talent
+
+| **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
+
+Extra Spell known
+
+Agonizing Blast - Your Eldritch Blast deals damage equal to d3 + level / 2, round down.
+or: d6 or d8 damage?
+
+Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) action. When you cast a spell that restores hit points, +2 to the number of hit points per spell tier. 
+
+-->
 
 ### Warrior Feats
 
@@ -131,42 +167,6 @@ Stunning Fist - quick action when you hit with an unarmed attack and expend a HD
 Maybe: +Get a random magic item of a category you choose. Each level up, you can acquire a replacement random item, but your previous item then becomes unusable.
 
 Sentinel - ability to hit things that try to leave or move past you
-
--->
-
-### Spellcaster Feats
-
-<!--SPELLCASTER talents (previously)
-| **Domain Spells** | Work with your GM to define a list of spells, one per tier, that represents your specific arcane school, deity, patron, or other source of magic. You gain each of these spells as an additional spell known when you are able to cast spells of that tier. | |
-
-Feat
-
-Scholar - Gain expertise in two of the following skills: Arcana, History, Nature, Religion | Proficiency |
-* Or is knowledge expertise an INT knack?
-
-| **Turn Undead** | You gain an extra cantrip that is equivalent to the spell Turn the Unholy, but it only affects undead.  If you fail to turn at least one creature when you cast it, you cannot cast it again for the remainder of the scene. | Divine tradition |
-| **Wild Stride** | Gain the Survival class skill. In addition, passing through non-magical vegetation does not reduce your speed. | Nature tradition |
-
-Theurgy - Second tradition
-
-| **Dark Harvest** | When a creature dies within 1M of you, you can gain MAGIC temp HP as a reaction. | |
-| **Soul Burn** | When you draw mana to cast a spell, you can choose to take one or more wounds. Each wound taken this way adds 8 points to your mana pool. | Way (CHA) caster |
-| **Spellbook** | You maintain a record of your swapped spells. Can add scrolls. Cast as adhoc spells.  appearance is up to you.  (As with trappings, your choice may have an impact.) | Word (INT) caster |
-
-Familiar | Arcane or Nature tradition |
--->
-<!--
-SPELLCASTER
-just convert to general - if it's not something a Spellcasting warrior can do, it's a Talent
-
-| **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
-
-Extra Spell known
-
-Agonizing Blast - Your Eldritch Blast deals damage equal to d3 + level / 2, round down.
-or: d6 or d8 damage?
-
-Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) action. When you cast a spell that restores hit points, +2 to the number of hit points per spell tier. 
 
 -->
 
