@@ -61,7 +61,9 @@ First, choose a method for generating your starting ability scores:
 
 1) **Even-Steven:** Start with 0 in all scores.  
 2) **A Little Quirk:** Start with \+1 in one score, \-1 in another, and 0 in the rest.  
-3) **Roll for It:** Roll three d6 dice for each score in order: A 6 on a die counts as \+1, a 1 counts as \-1, and all other values count as 0\. This will give you a roll result between \+3 and \-3 for each score. If the total of all six of your base scores is \-4 or less, you may start over. Once all scores are rolled, you may swap scores between abilities as desired.
+3) **Roll for It:** Roll three d6 dice for each score in order: A 6 on a die counts as \+1, a 1 counts as \-1, and all other values count as 0\. This will give you a roll result between \+3 and \-3 for each score.
+    * If the total of all six of your base scores is \-5 or less, you may start over.
+    * Once all scores are rolled, you either may swap scores between abilities as desired or add \+1 to any one score that is not your highest score.
 
 #### Spend points
 
