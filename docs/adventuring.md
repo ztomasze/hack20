@@ -46,6 +46,6 @@ Direct damage bypasses your HP and directly causes wounds. Monsters & NPCs inste
 
 ### Rests & Recovery
 
-A **short rest** (usually an scene) lets you expend HD to recover HP as described under [Stat: Hit Dice](stats.md#hit-dice-hd).
+A **short rest** (usually an scene) lets you expend any number of HD (one at a time) to recover HP, as described under [Stat: Hit Dice](stats.md#hit-dice-hd).
 
 A **long rest** (usually a night of sleep in a safe haven) lets you recover all your HP and all your expended HD. You also heal 1 wound.

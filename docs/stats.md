@@ -94,8 +94,8 @@ Hit dice represent your reserves of determination and your ability to withstand 
 
 You have a pool of HD equal to your level. You have a single d8 HD at level 1. You can expend these HD in various ways:
 
-* **Recover HP:** During a short rest, you can expend a HD to roll the die and recover that many HP.  
-* **Activate talent:** Warriors gain feats that can be powered by expending HD.  
+* **Recover HP:** When an effect allows you do so, you can expend a HD to roll the d8 die and recover that many HP (minimum: your CON). The most common way to do this is during a [short rest](adventuring.md#rests--recovery).
+* **Activate talent:** Warriors gain feats that can be powered by expending HD.
 * **Draw mana:** Spellcasters tap into their unexpended HD as mana to fuel their spells.
 
 Unless an effect says otherwise, you can spend more than one HD at a time (rolling them one at a time). Certain effects may allow you to expend HD for other benefits or force you expend HD for no benefit (such as taking exhaustion).

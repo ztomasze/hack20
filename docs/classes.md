@@ -23,7 +23,7 @@ At level 1:
 The style of fighters and barbarians.
 
 * Add half your STR (rounded down) to damage rolls with melee and throwable [weapons](equipment.md#weapons).
-* When you expend a HD to recover HP as part of a short rest, +CON to the result (if your CON is positive).
+* When you expend a HD to recover HP, you recover d8+CON if your CON is positive (instead of 1d8, min: CON).
 * Minimum starting HP: +1
 
 #### Intuitive
@@ -143,7 +143,7 @@ Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) 
 | **Evasion** | When you are subjected to an effect that allows you to make a DEX save to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. | Acrobatics or Lightning Reflexes; Level 5+ | 1 |
 | **Extra Attack** | When you take the Attack action on your turn, you may spend a quick action later this turn to make a single additional attack at -5 using the same weapon. You cannot make a [two-weapon fighting](combat.md#two-weapon-fighting) offhand attack in the same turn. | Level 5+ | 1 |
 | **Improved Spellcasting** | Increase your effective spellcaster level by 1 (including how many HD you can spend per day on spellcasting method effects), and update your POWER and spells known accordingly. You can take this feat a maximum of three times, only at (or after) the levels listed. | Spellcasting talent; Level 3+, 5+, 7+. | 3 |
-| **Second Wind** | Once per scene, as a quick action, expend a HD to regain 1d8 (min: CON) HP. | Athletics or Great Fortitude | 1 |
+| **Second Wind** | You can expend a HD to regain HP as a minor action.  See [Hit Dice (HD)](stats.md#hit-dice-hd) for more. | Mighty Fighting Style, Athletics, or Great Fortitude | 1 |
 | **Uncanny Dodge** | When you are hit by an attack that you can see while you can freely move your body (for example, you are not restrained, encumbered, or immobilized), you can attempt to reduce the damage of the blow. This might manifest as you deflecting an arrow or defensively rolling with the force of a melee attack. As a reaction, you can reduce the damage of such an attack by 1d8+DEX. If you expend a HD when you do this, you retain your reaction. | Acrobatics or Lightning Reflexes | 1 |
 | **Weapon Specialization (X)** | Choose one weapon type, such as longbow or shortsword. You gain +1 to attack and damage rolls when you attack with a weapon of that type. Each time you gain a level, you may change the weapon type you have chosen for this feat. | Proficiency in the chosen weapon | U |
 
