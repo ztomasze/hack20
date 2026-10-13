@@ -114,6 +114,7 @@ Familiar | Arcane or Nature tradition |
 | **Dodge** | The max AC you can achieve when adding your dodge AC to your [Armor Class](equipment.md#armor-class) is 15 + level/2 (round down). | Acrobatics, Level 2+ | 1 |
 | **Expertise** | Gain expertise in one [skill](skills.md) that you have proficiency in. | Expert | U |
 | **Great Fortitude** | Gain a +2 bonus on STR and CON saves. | | 1 |
+| **Immunity (X)** | You are immune to a given class of effects. Examples and their prerequisites include:<br>&bull; Charm (including compulsions) - Iron Will<br>&bull; Disease - Great Fortitude<br>&bull; Fear - Iron Will<br>&bull; Poison - Great Fortitude<br>Other options may be possible (talk to your GM). | Great Fortitude or Iron Will | U |
 | **Iron Will** | Gain a +2 bonus on WIS and CHA saves. | | 1 |
 | **Lightning Reflexes** | Gain a +2 bonus on DEX saves and initiative rolls. | | 1 |
 | **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | | U |
