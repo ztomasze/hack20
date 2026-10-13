@@ -183,18 +183,18 @@ When you gain a new level, you:
 1. **Gain +1 to one ability score**
     * You cannot increase an ability score above the max shown in the table below.
     * Remember to update any derived stats, such as MAGIC or POWER.
-1. Warriors get to learn a feat at every level.
-1. Spellcasters gain access to a new spell tier at odd levels and gain a feat at every even level.
+1. Warriors get to learn a feat (either general or warrior) at every level.
+1. Spellcasters gain access to a new spell tier at odd levels and gain a feat (general or spellcaster) at every even level.
 
 | Level | Total Hit Dice | Ability Score | Max Ability Score | Warrior | Spellcaster |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **2** | 2d8 | +1 | +5 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
-| **3** | 3d8 | +1 | +5 | **Feat** (warrior or general) | **Spell Tier 2** |
-| **4** | 4d8 | +1 | +6 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
-| **5** | 5d8 | +1 | +6 | **Feat** (warrior or general) | **Spell Tier 3** |
-| **6** | 6d8 | +1 | +7 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
-| **7** | 7d8 | +1 | +7 | **Feat** (warrior or general) | **Spell Tier 4** |
-| **8** | 8d8 | +1 | +8 | **Feat** (warrior or general) | **Feat** (spellcaster or general) |
+| **2** | 2d8 | +1 | +5 | Feat | Feat |
+| 3 | 3d8 | +1 | +5 | Feat | Spell Tier 2 |
+| 4 | 4d8 | +1 | +6 | Feat | Feat |
+| 5 | 5d8 | +1 | +6 | Feat | Spell Tier 3 |
+| 6 | 6d8 | +1 | +7 | Feat | Feat |
+| 7 | 7d8 | +1 | +7 | Feat | Spell Tier 4 |
+| 8 | 8d8 | +1 | +8 | Feat | Feat |
 
 ### Epic Levels
 
