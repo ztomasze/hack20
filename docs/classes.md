@@ -94,7 +94,7 @@ The style of swashbucklers, assassins, and rogues.
 | **Iron Will** | Gain a +2 bonus on WIS and CHA saves. | | 1 |
 | **Lightning Reflexes** | Gain a +2 bonus on DEX saves and initiative rolls. | | 1 |
 | **Skill** | Gain proficiency in one [skill](skills.md) of your choice. | | U |
-| **Tough** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your armor AC to a max of armor AC 13. | STR 1+ | 1 |
+| **Tough** | Add your STR to your HP. In addition, when you wear no armor or light armor, you can add your STR to your armor AC to a max armor AC of 13. | STR 1+ | 1 |
 
 ### Spellcaster Feats
 
