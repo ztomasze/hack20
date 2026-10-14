@@ -150,4 +150,3 @@ Each time you gain a new epic level:
     * Otherwise, add 1 to your current HP max.
 1. **Gain +1 HD**
     * This epic HD does not contribute to your HP, but you can expend it to power class features like feats, talents, or spellcasting or to recover HP during a rest.
-
