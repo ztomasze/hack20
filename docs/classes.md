@@ -98,40 +98,6 @@ The style of swashbucklers, assassins, and rogues.
 
 ### Spellcaster Feats
 
-<!--SPELLCASTER talents (previously)
-| **Domain Spells** | Work with your GM to define a list of spells, one per tier, that represents your specific arcane school, deity, patron, or other source of magic. You gain each of these spells as an additional spell known when you are able to cast spells of that tier. | |
-
-Feat
-
-Scholar - Gain expertise in two of the following skills: Arcana, History, Nature, Religion | Proficiency |
-* Or is knowledge expertise an INT knack?
-
-| **Turn Undead** | You gain an extra cantrip that is equivalent to the spell Turn the Unholy, but it only affects undead.  If you fail to turn at least one creature when you cast it, you cannot cast it again for the remainder of the scene. | Divine tradition |
-| **Wild Stride** | Gain the Survival class skill. In addition, passing through non-magical vegetation does not reduce your speed. | Nature tradition |
-
-Theurgy - Second tradition
-
-| **Dark Harvest** | When a creature dies within 1M of you, you can gain MAGIC temp HP as a reaction. | |
-| **Soul Burn** | When you draw mana to cast a spell, you can choose to take one or more wounds. Each wound taken this way adds 8 points to your mana pool. | Way (CHA) caster |
-| **Spellbook** | You maintain a record of your swapped spells. Can add scrolls. Cast as adhoc spells.  appearance is up to you.  (As with trappings, your choice may have an impact.) | Word (INT) caster |
-
-Familiar | Arcane or Nature tradition |
--->
-<!--
-SPELLCASTER
-just convert to general - if it's not something a Spellcasting warrior can do, it's a Talent
-
-| **Subtle Spell** | As a quick action, you can forgo either the verbal or somatic component required to cast spells this turn. As a minor action, you can forgo both. | |
-
-Extra Spell known
-
-Agonizing Blast - Your Eldritch Blast deals damage equal to d3 + level / 2, round down.
-or: d6 or d8 damage?
-
-Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) action. When you cast a spell that restores hit points, +2 to the number of hit points per spell tier. 
-
--->
-
 ### Warrior Feats
 
 | Warrior Feat | Effect | Prereq | Limit |
@@ -145,30 +111,6 @@ Battlefield Healer - Can cast Cure Damage spells as a minor (rather than major) 
 | **Second Wind** | You can expend a HD to regain HP as a minor action.  See [Hit Dice (HD)](stats.md#hit-dice-hd) for more. | Mighty Fighting Style, Athletics, or Great Fortitude | 1 |
 | **Uncanny Dodge** | When you are hit by an attack that you can see while you can freely move your body (for example, you are not restrained, encumbered, or immobilized), you can attempt to reduce the damage of the blow. This might manifest as you deflecting an arrow or defensively rolling with the force of a melee attack. As a reaction, you can reduce the damage of such an attack by 1d8+DEX. If you expend a HD when you do this, you retain your reaction. | Acrobatics or Lightning Reflexes | 1 |
 | **Weapon Specialization (X)** | Choose one weapon type, such as longbow or shortsword. You gain +1 to attack and damage rolls when you attack with a weapon of that type. Each time you gain a level, you may change the weapon type you have chosen for this feat. | Proficiency in the chosen weapon | U |
-
-<!-- POTENTIAL warrior feats
-
-Blindfight
-
-?Close Quarter Shot - Being threatened in melee does not impose disadvantage on your ranged attack rolls.
-
-Defender - able to shield an adjacent ally
-
-mounted combat - reaction (and Animal Handling(DEX) check?) to negate a hit on your mount; mount or dismount as a quick action; can trample (quick action to direct your mount to attack)
-
-Sharpshooter - Ignore cover.  Or downgrade cover by 1 step.
-
-Stunning Fist - quick action when you hit with an unarmed attack and expend a HD to force a save vs DC10+WIS or be stunned for a round.  Can't stun constructs, oozes, plants, undead, incorporeal creatures, or creatures immune to critical hits.
-
-| **Extraordinary Ability** | Choose three cantrips or tier 1 spells. One of these spells can be of tier 2 with some kind of limitation. The spell effects should have trappings subtle enough to have a supernatural explanation (subject to GM approval), and all of them may require some other limitation to activate. You always produce a tiered spell effect by rolling a single HD; if you fail to draw sufficient mana with that HD, it is expended. Your magic ability score can be any ability score appropriate to the effect.  See _Archetypes_ for examples. | **Level 1** |
-
-| ***Magical Dabbler*** | You can activate a scroll, wand, or magic item even if it requires a spell that is not on your spell list or you have no spell list at all. Choose either INT or CHA as the basis of your pseudo-spellcasting ability when you take this talent. | |
-
-Maybe: +Get a random magic item of a category you choose. Each level up, you can acquire a replacement random item, but your previous item then becomes unusable.
-
-Sentinel - ability to hit things that try to leave or move past you
-
--->
 
 ## Levels
 
@@ -209,9 +151,3 @@ Each time you gain a new epic level:
 1. **Gain +1 HD**
     * This epic HD does not contribute to your HP, but you can expend it to power class features like feats, talents, or spellcasting or to recover HP during a rest.
 
-<!--
-## Archetypes
-
-The following **archetypes** illustrate how to use the class and feat system to replicate more specific classes from other games or common tropes from other media. These also serve as quickstart way to jump into the game with a specific character type.
-
--->
