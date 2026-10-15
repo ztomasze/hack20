@@ -54,7 +54,7 @@ The available traditions can vary with the campaign setting. As a starting defau
 | **Spell List** | See the _Arc_ column of the default spell list. |
 | **Armor Proficiency** | None. |
 | **Shield Proficiency** | None. |
-| **Weapon Proficiency** | Only weapons with the Simple property. |
+| **Weapon Proficiency** | Only daggers and weapons with the Simple property. |
 | **Casting** | - |
 | **Warrior Proficiencies** | Light armor; light shield; all weapons. |
 
