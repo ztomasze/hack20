@@ -69,7 +69,7 @@ The available traditions can vary with the campaign setting. As a starting defau
 | **Shield Proficiency** | Light or Medium. |
 | **Weapon Proficiency** | All. |
 | **Casting** | You can satisfy your somatic component casting requirement with a weapon in your hand, but you can only touch a willing target if that weapon is blunt (deals bludgeoning damage). |
-| **Warrior Proficiencies** | All armor; all shields; all weapons. |
+| **Warrior Proficiencies** | All armor; light and medium shields; all weapons. |
 
 ### Nature
 
