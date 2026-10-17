@@ -133,11 +133,11 @@ To make a single attack:
 
 #### Concealment
 
-If you cannot clearly see your target--such as when attacking through fog, foliage, darkness, etc.--your attack is made at disadvantage.
+**Partial concealment:** You can only dimly, faintly, or partially see your target, such as when peering  through fog, foliage, shadow, etc. Your attacks on that target are made at disadvantage.
 
 You must be able to sense your target well enough to know their current location to target or attack them at all.  However, you might be able to do this by the sound of their movement or by the footprints an invisible creature is leaving in the sand. If a target attacks you, they reveal their current location, even on a miss.
 
-If you can see your target but they can't see you, you gain advantage on your attack.
+**Concealed attacker:** If you can see your target but they can't see you, you gain advantage on your attack.
 
 #### Cover
 
