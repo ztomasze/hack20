@@ -31,7 +31,7 @@ Further mechanics are explained below for each spellcasting [method](#method).
 
 ### Spell Tiers
 
-Spells are assigned to **tiers** 0 through 4. You must have POWER greater than or equal to a spell's tier in order to cast that spell.
+Spells are assigned to **tiers** 0 through 4. A tier is sometimes called a _spell level_. You must have POWER greater than or equal to a spell's tier in order to cast that spell.
 
 Tier 0 spells do not require you to draw mana to cast, and so casting them always succeeds without expending any resources.
 
