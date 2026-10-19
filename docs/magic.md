@@ -238,7 +238,7 @@ The following table shows the maximum SP you can gain at each level if you choos
 * A theurge contemplates the Weave that binds all of reality together; by plucking a thread here and tugging another there, she causes fire to blossom from her hand.
 * An votary quietly sings hymns of praise to his goddess; he prays that he might understand her will so that she might fortify him to do her bidding in this world.
 
-### The WILL (CHA)
+### The Will (CHA)
 
 The Will relies on successfully channeling the raw magic with which the practitioner is **imbued**. Where other spellcasting methods must draw and prepare their magical energy in some way, magic comes readily to those exerting the Will. However, this rush of magic is exhausting to control. It soon wears down its mortal conduit, occasionally breaking free of the spellcaster's control or even eroding their humanity.  
 
