@@ -45,7 +45,7 @@ Casting a known or prepared spell of tier 0 or tier 0.5 does not require you to 
 
 Each spellcaster belongs to a magical tradition. Your tradition defines the source of your magic and the spells available to you, as well as your weapon and armor proficiencies.  These proficiencies are more lenient for warriors who gain spellcasting abilities through the warrior's Spellcasting talent.
 
-The available traditions can vary with the campaign setting. As a starting default, here are the details for three classic traditions.
+The available traditions can vary with the campaign setting. As a starting default, here are the details for some classic traditions.
 
 ### Arcane
 
@@ -59,6 +59,19 @@ The available traditions can vary with the campaign setting. As a starting defau
 | **Weapon Proficiency** | Only daggers and weapons with the Simple property. |
 | **Casting** | - |
 | **Warrior Proficiencies** | Light armor; light shield; all weapons. |
+
+### Dark Magic
+
+| Facet | Details |
+| -- | -- |
+| **Source** | Fiends, elder beings, or ancient necromancers. |
+| **Flavor** | Focuses on pain, curses, death, and undeath. Cannot heal. |
+| **Spell List** | See the _Dark_ column of the default spell list. |
+| **Armor Proficiency** | Light armor. |
+| **Shield Proficiency** | None. |
+| **Weapon Proficiency** | Only daggers and weapons with the Simple property. |
+| **Casting** | - |
+| **Warrior Proficiencies** | Light and medium armor; light and medium shields; all weapons. |
 
 ### Divine
 
