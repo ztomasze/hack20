@@ -33,7 +33,9 @@ Further mechanics are explained below for each spellcasting [method](#method).
 
 Spells are assigned to **tiers** 0 through 4. A tier is sometimes called a _spell level_. You must have POWER greater than or equal to a spell's tier in order to cast that spell.
 
-Tier 0 spells do not require you to draw mana to cast, and so casting them always succeeds without expending any resources.
+#### Free-to-Cast Spells
+
+Casting a known or prepared spell of tier 0 or tier 0.5 does not require you to expend any mana. This means that casting one of these spells always succeeds without drawing or expending any mana, spell points, or spell slots. Tier 0 spells can be gained as [cantrips](#cantrips), but they can also be learned or prepared as normal spells. Tier 0.5 spells can only be learned or prepared as normal spells.
 
 #### Ceremonies
 
@@ -91,7 +93,7 @@ Example additional traditions might include artifice, bardic song, dark magic, e
 
 ## Cantrips
 
-Each spellcaster gains 2+POWER cantrips. A **cantrip** is a Tier 0 spell, selected from your tradition's spell list, that is so well-practiced as to always be available to you. Your cantrips can be cast at will, and they do not count against your spells known or prepared according to your method (below).
+Each spellcaster gains 2+POWER cantrips. A **cantrip** is a tier 0 spell, selected from your tradition's spell list, that is so well-practiced as to always be available to you. Your cantrips can be cast at will, and they do not count against your spells known or prepared according to your method (below).
 
 Each time you gain a level, you can swap one cantrip you know for another.
 
@@ -189,7 +191,7 @@ The Way relies on magic **inspired** directly from its source. Practitioners of 
 | **7** | 4 | 3 | 3 | 1 |
 | **8** | 4 | 3 | 3 | 2 |
 
-**Spell points (SP):** Unlike a caster of the Word, your spell slots contain only the knowledge of the spell, but not the energy needed to make it manifest in the world. To do that, you must expend spell points, as described below.
+**Spell points (SP):** Unlike a caster of the Word, your spell slots contain only the knowledge of the spell but not the energy needed to make it manifest in the world. To do that, you must expend spell points, as described below.
 
 **Preparing spell slots:** At the end of a long rest, you can commune with your magical source:
 
