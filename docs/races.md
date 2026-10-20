@@ -75,7 +75,7 @@ Most races include subraces.  While such subraces often include cosmetic physica
 
 **Required:** DEX 1 or higher
 
-* **Woodland Magic:** Gain the Speak with Animals cantrip and one cantrip selected from Dancing Lights, Minor Illusion, or Prestidigitation.
+* **Woodland Magic:** Gain the Speak with Animals cantrip and one cantrip selected from Dancing Lights, Ghost Sound, or Still Image.
 
 ### Rock Gnome
 
