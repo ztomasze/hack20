@@ -77,3 +77,15 @@ You are not able to read, see fine detail, or discern color in dim light. Dim li
 Creatures with **low-light vision** treat any illumination source as having twice its radius. If they let their eyes adjust to dim light, they can see normally in it.
 
 Creatures with **darkvision** are treated as having low-light vision while in bright or dim light. In areas of complete darkness, a creature with darkvision can see normally, except that they can only see in shades of grey. Darkvision is limited to a 2M range unless otherwise noted.
+
+### Other Senses
+
+A creature with **blindsight** can perceive its surroundings without relying on sight, within a specific radius.  Such sense may include sensitivity to vibrations, acute scent, keen hearing, or echolocation. A creature with blindsight cannot be blinded in the normal manner, but they might be blinded if they are deafened or otherwise deprived of the basis of their blindsight. A creature relying on blindsight is immune to gaze attacks and to visual illusions, but they cannot read or discern color or similar visual contrast.
+
+A creature with **blindsense** has a weaker form of blindsight. They can move normally without bumping into walls, and they can locate other creatures, but those creatures still retain partial concealment.
+
+A creature with a strong sense of **scent** can detect the presence (but not immediate location) of other creatures within 1M. This distance may be greater if the source of the smell is strong or upwind, or less if the smell is downwind or masked by another strong scent. A creature with the scent sense can spend a minor action to determine the direction to the smell, and they automatically locate the source if it is adjacent to them.  They can also track creatures over dry ground; aquatic creatures with scent may be able to track through water.
+
+While a creature with **tremorsense** is in contact with the ground, it automatically senses the location of anything that moves within range while it is also in contact with the ground. Attacking or gesturing counts as movement for this purpose.
+
+A creature with **truesight** can, out to a specified range, see in normal and magical darkness, see invisible creatures and objects, automatically pierce visual illusions, see into the Ethereal plane, and perceive the original form of a shapechanger or a creature that is transformed by magic.
