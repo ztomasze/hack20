@@ -110,6 +110,10 @@ As described under [Adventuring: Wounds](adventuring.md#wounds).
 
 As described under [Equipment: Armor Class](equipment.md#armor-class).
 
+### Equipment Slots
+
+As described under [Equipment: Encumbrance](equipment.md#encumbrance).
+
 ### Experience Points (XP)
 
 These are assigned by the DM for accomplishing significant quests or milestones. You can then spend XP to purchase new [Class: Levels](classes.md#levels).
