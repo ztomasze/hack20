@@ -1,22 +1,75 @@
 # Equipment
 
-## Encumbrance
+## Equipment Slots
 
-You can carry a reasonable amount of gear (GM's call). If you carry more than a reasonable amount, you are _encumbered_ (physically impaired).
+Equipment is carried in terms of **slots**. A slot is a composite measure of both weight and bulk. It usually represents about 5 pounds or the volume of your forearm and fist.
 
-As starting guidance for what is reasonable, you can carry:
+* Unless otherwise noted, each item takes up 1 slot.
+* Some larger items take up multiple slots.
+* Up to 2 small (roughly fist-sized) items can be placed in one slot, such as a pair of daggers.
+* Up to 10 tiny (roughly finger-sized) items can be placed in one slot, but only if they are in a container. This can be a mix of items of different types, such as 2 keys, 3 potion vials, 4 candles, and flint & steel in a pouch in the same slot.
+* Up to 200 coins or coin-like objects can be carried in one slot if they are in a container. This can include gems, rings, earrings, and similar items of high value. However, hunting around for a ring in a pouch of coins will take a minute; if you want to be able to recover such an item quickly, stow it as a tiny object in a quick slot.
 
-* The clothing and jewelry you are wearing
-* 1 suit of armor
-* 1 shield
-* A reasonable number of weapons (see _Weapon Size_ below)
-* 1 quiver or bandolier
-* 1 backpack
-* 2 belt pouches
-* A coin purse
-* Whatever items could reasonably fit (in both size and weight) into your bags, pouches, etc. or be strapped to your body
+### Encumbrance
 
-The details of this guidance may vary based on the specific situation. For example, while most armor is too bulky or heavy to put in your pack, you might be able to carry padded armor or a mithril chain shirt that way.
+Carrying a lot of gear will encumber you:
+
+| Slots Carried | Load | Encumbrance Level | [Speed](combat.md#speed) Effects |
+| :---- | :---- | :---- | :---- |
+| <= 10+STR | light | unencumbered | None |
+| <= 20+STR | medium | encumbered | Speed limited to 1/2 speed |
+| <= 30+STR | heavy | heavily encumbered | Speed limited to 1/4 speed (only a step or two) |
+
+* You cannot lift or carry more than 30+STR slots at once.
+* Encumbrance limits or caps your speed, rather than directly halving it. This means that the first effect that halves your speed--such as difficult terrain, etc--is not cumulative with encumbrance (and the first two halvings are not cumulative with heavy encumbrance), but any further halving of your speed proceeds normally.
+* Much like wearing medium or heavy armor, being encumbered may also affect certain activities--such as stealth, swimming, etc--depending on the nature of the load you are carrying. For example, you usually swim at disadvantage while encumbered, and you will sink if you are heavily encumbered.
+* Beyond the first few items you carry, you must place equipment in appropriate containers to be able to carry it, as explained below.
+
+### Worn Items
+
+Worn items are free to carry, within reason. A humanoid is limited to 14 possible worn-item body slots. In particular, this limits the number of magic items of a similar type that you can benefit from.  For example, donning a second ring on the same hand or donning a magic shirt while already wearing a magic kilt grants no effect.
+
+<!-- markdownlint-disable MD004-->
++ 1 x **clothing**: shirt, vest, vestment, dress, kilt, and/or pants
++ 1 x **body**: suit of armor or robe (over clothing)
++ 1 x **pack**: backpack, satchel, or haversack
++ 1 x **purse**: coin purse
+<!-- markdownlint-enable MD004 -->
+
+* 1 x **head**: hat, headband, helmet, crown, circlet, or phylactery
+* 1 x **eyes**: glasses, lenses, or goggles
+* 1 x **throat**: amulet, brooch, medallion, necklace, periapt, or scarab
+* 1 x **shoulders**: cloak, cape, or mantle (over body)
+* 1 x **arms**: bracers, bracelet, or armband
+* 1 x **hands**: a pair of gloves or gauntlets
+* 2 x **rings**: one magical ring per hand
+* 1 x **waist**: belt or girdle (over body)
+* 1 x **feet**: a pair of boots, shoes, sandals, slippers, or socks
+
+When you stow a worn item, it takes up slot space again.
+
+### Quick Slots
+
+You can carry some items strapped to your body such that they are always within fast and easy reach. Examples include weapons and items sheathed at your belt, slung over your shoulder or across your back, or in a side sleeve of your backpack.
+
+* You have 7 quick slots that you can use to store such handy items. You can draw an item from a quick slot as a [quick action](combat.md#quick-actions).
+* The specific items you carry at the ready in this way must still be reasonable. For example, carrying seven handy longswords is not really reasonable, but carrying a longbow (2 slots), quiver, two shortswords, belt pouch, and an unlit torch within quick reach is more believable.
+* Items currently in your hands do not count against your quick slot limit, but they do count against your total number of carried slots.
+
+### Containers
+
+You must use containers to carry more gear than your worn items slots and quick slots. Also, you can only combine tiny or smaller items into a single slot if they are in a container.
+
+* A container's size represents the minimum amount of space that it takes up when it is carried empty. Once its own contents exceed this size, use the total slot size of its contents as the container's size.
+* A container has a capacity, which is the maximum number of slots of equipment that can be placed inside it.
+* If a container is in quick slot, you can retrieve items from it as a quick action. Otherwise, it takes a major action to retrieve an item that is stowed in a container.
+* Some specialty containers--such as quivers, healing kits, scroll cases, etc--are designed to carry a very specific set or kind of item. This specialization means such containers may allow you to carry more items in them than normal. You can also draw items from a specialty container as a free action if it is in a quick slot.
+
+### Coins
+
+1 gold piece (gp) = 10 silver (sp) = 100 copper (cp).
+
+Some settings may include additional metals, such as platinum (1 pp = 10 gp) or electrum (1 ep = 5 sp).
 
 ## Armor Class
 
