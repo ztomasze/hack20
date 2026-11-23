@@ -312,7 +312,7 @@ A quick action takes only a second or less of your attention and, at most, a bri
 
 Examples include:
 
-* draw a weapon or other handy item
+* draw a weapon or other handy item from a [quick slot](equipment.md#quick-slots)
 * pick up an item
 * stow an item into a pouch or sheath on your belt
 * place an object gently on the ground
