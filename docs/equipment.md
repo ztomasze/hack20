@@ -71,6 +71,13 @@ You must use containers to carry more gear than your worn items slots and quick 
 
 Some settings may include additional metals, such as platinum (1 pp = 10 gp) or electrum (1 ep = 5 sp).
 
+### Oversized Items
+
+Carrying bulky items gets awkward fast. While exceptions may exist for particularly compact heavy items, in general:
+
+* You can only carry two items that require 2 slots or more, and you cannot place them in a mundane container.
+* You can only carry items that require 3 slots or more in your hands, as they are too long or unwieldy to sheathe or strap to you. (You might carry a bit of rope to tie the item to dangle below you while climbing, though.)
+
 ## Armor Class
 
 Your **armor class** (AC) determines how difficult you are to hit in combat.
