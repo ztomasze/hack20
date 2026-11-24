@@ -97,7 +97,7 @@ Magically enchanted armor and shields grant their magical bonuses to their respe
 
 ### Strength Requirement
 
-Disregarding any magical bonuses on them, the AC granted by a physical armor + physical shield cannot exceed 13 + STR. If you do not meet this requirement, you are encumbered (physically impaired) and cannot cast spells.
+Disregarding any magical bonuses on them, the AC granted by a physical armor + physical shield cannot exceed 13 + STR. If you do not meet this requirement, you are encumbered and cannot cast spells.
 
 For example, if you have -3 STR, you cannot wear any armor without penalty. You must have at least +3 STR to wear plate mail, or +5 STR to also carry a metal shield.
 
@@ -107,29 +107,30 @@ If you are a spellcaster and wear armor or a shield with which you are not profi
 
 ### Armor
 
-| Armor | Armor AC | Cost (gp) | Type | Equivalents |
-| :---- | :---- | :---- | :---- | :---- |
-| **(unarmored)** | 10 | - | - | |
-| **Padded** | 11 | 5 | Light | _gambeson_, _quilted_ |
-| **Leather** | 12 | 10 | Light | _jack of plate_ |
-| **Ring mail** | 13 | 30 | Medium | studded leather, hide, chain shirt, brigandine |
-| **Chain mail** | 14 | 75 | Medium | scale mail, breastplate, _cuirass_ |
-| **Splint mail** | 15 | 150 | Heavy | banded mail, half plate |
-| **Plate mail** | 16 | 400 | Heavy | field plate, full plate |
+| Armor | Armor AC | Cost (gp) | Type | Slots | Equivalents |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **(unarmored)** | 10 | - | - | - | |
+| **Padded** | 11 | 5 | Light | 1\* | _gambeson_, _quilted_ |
+| **Leather** | 12 | 10 | Light | 2\* | _jack of plate_ |
+| **Ring mail** | 13 | 30 | Medium | 3\* | studded leather, hide, chain shirt, brigandine |
+| **Chain mail** | 14 | 75 | Medium | 4\* | scale mail, breastplate, _cuirass_ |
+| **Splint mail** | 15 | 150 | Heavy | 5\* | banded mail, half plate |
+| **Plate mail** | 16 | 400 | Heavy | 6\* | field plate, full plate |
 
 * Any suit of armor optionally includes a helmet, gloves, and boots of similar material.
 * Your armor may impose penalties on certain activities. For example, medium or heavier armor may impose disadvantage on stealth and swimming.  You cannot swim at all in heavy armor.
+* Armor only takes up equipment slots when carried, but not when it is worn.
 
 ### Shields
 
 See _Weapons_ for more on size.
 
-| Shield | Shield AC | Cost (gp) | Type | Size | Special rules |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| **Buckler** | 1 | 5 | Light | 2 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, or make an offhand unarmed melee attack, but you cannot wield an offhand weapon or make two-handed melee weapon attacks. Can be made of metal or wood. |
-| **Wooden** | 1* | 10 | Medium | 3 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
-| **Metal** | 2 | 20 | Medium | 4 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
-| **Tower** | 4 | 30 | Heavy | 5 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
+| Shield | Shield AC | Cost (gp) | Type | Slots | Size | Special rules |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| **Buckler** | 1 | 5 | Light | 1 | 2 | With this small shield strapped to your forearm, you can still use your offhand to manipulate objects. You can make two-handed ranged attacks, such as with a bow or crossbow, or make an offhand unarmed melee attack, but you cannot wield an offhand weapon or make two-handed melee weapon attacks. Can be made of metal or wood. |
+| **Wooden** | 1* | 10 | Medium | 1 | 3 | You can clumsily manipulate or carry light items in the same hand you use to wield this round wooden shield, but you cannot wield a weapon in that hand.  When you are hit by a melee attack, you can choose to destroy (sunder) the shield as a triggered action to negate all but 1 damage from that attack. |
+| **Metal** | 2 | 20 | Medium | 2 | 4 | This metal kite shield is too heavy to use the hand that wields it for anything else. |
+| **Tower** | 4 | 30 | Heavy | 3 | 6 | This tall wooden scutum shield protects you from knee to chin. The shield is too heavy to use the hand that wields it for anything else. |
 
 #### Shield Bash
 
@@ -160,12 +161,7 @@ If you use a weapon for which you lack proficiency, your attack rolls with that 
 
 ### Weapon Size
 
-To assist in judging relative size and weight, each weapon and shield has a **weapon size** (WS), which ranges from 1 (dagger or buckler) to 6 (a polearm).  Characters can generally carry a total weapon size value around 10 to 12, although the specifics matter.
-
-As further general guidance:
-
-* You can typically comfortably manage only one item of 4+ weapon size, and you can't carry more than two.
-* Weapons of size 6 need to be carried in hand; they are too long or unwieldy to sheathe or strap to you.  (You might carry an bit of rope to tie it your belt to dangle below you while climbing, though.)
+To assist in judging relative size and weight, each weapon and shield has a **weapon size**, which ranges from 1 (dagger or buckler) to 6 (a polearm). Each item takes up a number of equipment slots equal to half its size.
 
 ## Melee Weapons
 
@@ -186,33 +182,33 @@ The default melee weapon is a one-handed weapon of size 3 that deals d8 damage.
 
 Equivalent weapons listed in parentheses are of a different general type (such as an axe rather than a sword), but are the same mechanically.
 
-| Weapon | Damage | Size | Properties | Equivalent Weapons |
-| :---- | :---- | :---- | :---- | :---- |
-| **Battleaxe** | 1d8/1d10 | 4 | Versatile | (bastard sword) |
-| **Club** | 1d6 | 2 | Simple | cudgel, (machete, sickle) |
-| **Dagger** | 1d4 | 1 | Finesse, Throwable | knife |
-| **Handaxe** | 1d6 | 2 | Throwable | hatchet, throwing axe |
-| **Hammer** | 1d4 | 2 | Simple, Throwable | throwing hammer, light hammer |
-| **Javelin** | 1d4/1d6 | 3 | Finesse, Throwable, Versatile (light) | shortspear |
-| **Lance** | 1d10 | 6 | Reach, Two-Handed, Special(one-handed when mounted) | |
-| **Longsword** | 1d8 | 3 | | broadsword, falchion, knightly arming sword, sabre |
-| **Mace** | 1d8 | 3 | | military flail, morningstar, war pick |
-| **Polearm** | 1d10 | 6 | Reach, Two-Handed | glaive, longspear, halberd, pike, poleaxe, ranseur, etc |
-| **Shortsword** | 1d6 | 2 | Finesse | cutlas, dirk, kukri, rapier, sai, scimitar, seax |
-| **Spear** | 1d6/1d8 | 4 | Throwable, Versatile | trident |
-| **Staff** | 1d4/1d6 | 4 | Finesse, Simple, Versatile | bo stick |
-| **Two-handed sword** | 1d10 | 5 | Two-Handed | (bardiche), claymore |
-| **Warhammer** | 1d8/1d10 | 4 | Versatile | horseman's pick |
+| Weapon | Damage | Slots | Size | Properties | Equivalent Weapons |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Battleaxe** | 1d8/1d10 | 2 | 4 | Versatile | (bastard sword) |
+| **Club** | 1d6 | 1 | 2 | Simple | cudgel, (machete, sickle) |
+| **Dagger** | 1d4 | 1/2 | 1 | Finesse, Throwable | knife |
+| **Handaxe** | 1d6 | 1 | 2 | Throwable | hatchet, throwing axe |
+| **Hammer** | 1d4 | 1 | 2 | Simple, Throwable | throwing hammer, light hammer |
+| **Javelin** | 1d4/1d6 | 1 | 3 | Finesse, Throwable, Versatile (light) | shortspear |
+| **Lance** | 1d10 | 3 | 6 | Reach, Two-Handed, Special(one-handed when mounted) | |
+| **Longsword** | 1d8 | 1 | 3 | | broadsword, falchion, knightly arming sword, sabre |
+| **Mace** | 1d8 | 1 | 3 | | military flail, morningstar, war pick |
+| **Polearm** | 1d10 | 3 | 6 | Reach, Two-Handed | glaive, longspear, halberd, pike, poleaxe, ranseur, etc |
+| **Shortsword** | 1d6 | 1 | 2 | Finesse | cutlas, dirk, kukri, rapier, sai, scimitar, seax |
+| **Spear** | 1d6/1d8 | 2 | 4 | Throwable, Versatile | trident |
+| **Staff** | 1d4/1d6 | 2 | 4 | Finesse, Simple, Versatile | bo stick |
+| **Two-handed sword** | 1d10 | 2 | 5 | Two-Handed | (bardiche), claymore |
+| **Warhammer** | 1d8/1d10 | 2 | 4 | Versatile | horseman's pick |
 
 ### Uncommon Melee Weapons
 
-| Weapon | Damage | Size | Properties | Equivalent Weapons |
-| :---- | :---- | :---- | :---- | :---- |
-| **Cane** | 1d6/1d8 | 3 | Simple, Versatile (light) | shillelagh, walking stick |
-| **Greataxe** | 1d10/1d12\* | 6 | Massive, Two-Handed | (greatsword), (maul) |
-| **Greatclub** | 1d8/1d10\* | 5 | Massive, Simple, Two-Handed | |
-| **Quarterstaff** | 1d8 | 5 | Reach, Simple, Two-Handed | "10-foot" pole |
-| **Sap** | 1d6 | 2 | Finesse, Special(nonlethal) | |
+| Weapon | Damage | Slots | Size | Properties | Equivalent Weapons |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Cane** | 1d6/1d8 | 1 | 3 | Simple, Versatile (light) | shillelagh, walking stick |
+| **Greataxe** | 1d10/1d12\* | 3 | 6 | Massive, Two-Handed | (greatsword), (maul) |
+| **Greatclub** | 1d8/1d10\* | 2 | 5 | Massive, Simple, Two-Handed | |
+| **Quarterstaff** | 1d8 | 2 | 5 | Reach, Simple, Two-Handed | |
+| **Sap** | 1d6 | 1 | 2 | Finesse, Special(nonlethal) | |
 
 ## Ranged Weapons
 
@@ -236,22 +232,22 @@ Reloading weapons accurately fire a projectile up to a double measure. You can t
 
 ### Common Ranged Weapons
 
-| Weapon | Damage | Size | Properties | Equivalent Weapons |
-| :---- | :---- | :---- | :---- | :---- |
-| **Dart** | d4 | 1 | Thrown | throwing knife |
-| **Heavy crossbow** | d10 | 4 | Massive, Reload(minor), Special(ignore Massive's STR requirement) | arbalest |
-| **Light crossbow** | d8 | 3 | Reload(quick) | |
-| **Longbow** | d6/d8\* | 4 | Massive, Reload(free) | |
-| **Shortbow** | d6 | 3 | Reload(free) | |
-| **Sling** | d4 | 2 | One-Handed, Reload(quick), Simple, Special(you can reload with a medium shield in your offhand) | |
+| Weapon | Damage | Slots | Size | Properties | Equivalent Weapons |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Dart** | d4 | 1/2 | 1 | Thrown | throwing knife |
+| **Heavy crossbow** | d10 | 2 | 4 | Massive, Reload(minor), Special(ignore Massive's STR requirement) | arbalest |
+| **Light crossbow** | d8 | 1 | 3 | Reload(quick) | |
+| **Longbow** | d6/d8\* | 2 | 4 | Massive, Reload(free) | |
+| **Shortbow** | d6 | 1 | 3 | Reload(free) | |
+| **Sling** | d4 | 1 | 2 | One-Handed, Reload(quick), Simple, Special(you can reload with a medium shield in your offhand) | |
 
 ### Uncommon Ranged Weapons
 
-| Weapon | Damage | Size | Properties | Equivalent Weapons |
-| :---- | :---- | :---- | :---- | :---- |
-| **Hand crossbow** | d6 | 2 | One-Handed, Reload(quick) | |
-| **Staff Sling** | d6 | 4 | Reload(quick), Simple, Special(also counts as a staff) | hoopak |
-| **Stone** | d3 | 1 | Simple, Thrown | |
+| Weapon | Damage | Slots | Size | Properties | Equivalent Weapons |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Hand crossbow** | d6 | 1 | 2 | One-Handed, Reload(quick) | |
+| **Staff Sling** | d6 | 2 | 4 | Reload(quick), Simple, Special(also counts as a staff) | hoopak |
+| **Stone** | d3 | 1/2 | 1 | Simple, Thrown | |
 
 ## Improvised Weapons
 
@@ -283,5 +279,5 @@ When you have no weapon in hand, you can still attack unarmed.
 | Unarmed attacks | Damage | Size | Properties |
 | :---- | :---- | :---- | :---- |
 | punch, kick, choking | d2 | 0 | Melee, Special(nonlethal) |
-| gauntlet | 0 | d2 | Melee |
-| spiked gauntlet, cestus | 1 | d3 | Melee |
+| gauntlet | d2 | 0 | Melee |
+| spiked gauntlet, cestus | d3 | 1 | Melee |
